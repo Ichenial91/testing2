@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\CMER
+grib_set -s deletePV=1,edition=1 ERA5-2006-07-01-2006-07-02-ml.grib1 ERA5-2006-07-01-2006-07-02-ml.grib2
