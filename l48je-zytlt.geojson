@@ -1,0 +1,3113 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.031556,47.588861 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":3,
+    "OBJECTID":1,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":317.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Z Av & E 17 Street",
+    "shortname":"Sheepshead Bay #1",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.206486,48.844233 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":2,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":382.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"2829 Pitkin Avenue",
+    "shortname":"Grant Ave",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.076626,50.648096 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":4,
+    "OBJECTID":3,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":343.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"1298 E 17 Street",
+    "shortname":"Ave M",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.300519,48.89769 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":4,
+    "OBJECTID":4,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":327.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"1765 86 Street",
+    "shortname":"Bensonhurst #1",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.221444,48.867108 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":5,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":328.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"86 St. & Bay 26 Street",
+    "shortname":"Bensonhurst #2",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.011666,48.859727 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":3,
+    "OBJECTID":6,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":319.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"220 Brightwater Court",
+    "shortname":"Brighton Beach",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.287211,48.850308 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":4,
+    "OBJECTID":7,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":206.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"2363 Arthur Avenue",
+    "shortname":"Belmont",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.28522,48.970725 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":3,
+    "OBJECTID":8,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":249.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"2071 White Plains Rd",
+    "shortname":"White Plains",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.287774,48.887656 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":4,
+    "OBJECTID":9,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":470.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"Right",
+    "SiteAddress":"32052 31 Street",
+    "shortname":"Broadway / 31st St",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.441957,45.384468 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":4,
+    "OBJECTID":10,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":472.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"Right",
+    "SiteAddress":"2270 33 Street",
+    "shortname":"Ditmars #2",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.240035,48.832794 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":11,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":415.0021,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"10055 Beach 21 Street",
+    "shortname":"Far Rockaway #2",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.508426,45.473403 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":12,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":434.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"218001 Jamaica Avenue",
+    "shortname":"Queens Village",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.442943,48.848054 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":13,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":470.0002,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"Right",
+    "SiteAddress":"31055 Steinway Street",
+    "shortname":"Steinway #2",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.441957,45.384468 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":4,
+    "OBJECTID":14,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":431.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"43001 48 Street",
+    "shortname":"Sunnyside",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.299271,48.848928 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":15,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":347.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"1602 Voorhies Avenue",
+    "shortname":"Sheepshead Bay #2",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.17822,45.882325 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":16,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":460.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"80-25 126 St Queens NY",
+    "shortname":"Queensboro Hall",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.150765,43.662184 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":3,
+    "OBJECTID":17,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":205.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"2478 Jerome Avenue",
+    "shortname":"Jerome - 190th St",
+    "Type":"Municipal Parking Garage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.914274,45.748858 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":18,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":470.0003,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"32052 31 Street",
+    "shortname":"Broadway / 31st St",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.87723,43.611695 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":19,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":472.0002,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"2270 33 Street",
+    "shortname":"Ditmars #2",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.727062,45.478645 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":20,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":470.0004,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"31055 Steinway Street",
+    "shortname":"Steinway #2",
+    "Type":"Municipal Parking Field"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.394317,44.40666 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":21,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":333.0089,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"Court Street & Garnet Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.454353,45.631545 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":22,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":333.0092,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"Baltic Street & Court Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.658243,45.73742 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":23,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":333.0007,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"Amity Street & Court Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.703308,44.087303 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":24,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":333.001,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"Clinton Street & 2 Place",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.45309,43.616214 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":25,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":333.0054,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"Clinton Street & President Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.531758,45.01207 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":26,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":333.0012,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"Clinton Street & Degraw Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.026228,48.646382 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":27,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":333.0017,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"Clinton Street & Warren Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.890873,43.609875 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":28,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":333.0082,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"Henry Street & Woodhull Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.550836,47.211028 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":29,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":333.0045,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"Columbia Street & Union Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.585194,50.526689 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":30,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":338.0034,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Boerum Hill",
+    "shortname":"Wyckoff Street & Nevins Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.124786,46.479506 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":31,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":338.0015,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Boerum Hill",
+    "shortname":"Bergen Street & Hoyt Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.165341,42.442046 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":32,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":338.0031,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Boerum Hill",
+    "shortname":"Butler Street & Smith Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.615814,46.396337 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":33,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":338.0024,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Boerum Hill",
+    "shortname":"Pacific Street & Smith Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.636601,45.297779 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":34,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":338.0042,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Boerum Hill",
+    "shortname":"Dean Street & Boerum PL",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.843749,45.775942 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":35,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":309.0009,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Brooklyn Heights",
+    "shortname":"Clinton Street & Schermerhorn Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.877088,45.113567 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":36,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":309.0016,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Brooklyn Heights",
+    "shortname":"Hicks Street & Remsen Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.745649,45.206817 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":37,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":309.0022,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Brooklyn Heights",
+    "shortname":"Columbia Hts & Pierrepont Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.460739,45.645629 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":38,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":309.0019,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Brooklyn Heights",
+    "shortname":"Columbia Hts & Pineapple Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.617745,46.597088 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":39,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":373.0036,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"N 9 Street & Wythe Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.2342,47.976119 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":40,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":373.0042,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"Berry Street & N 6 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.881879,48.172938 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":41,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":373.011,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"N 12 Street & Bedford Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.92,45.57 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":42,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":373.0044,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"Bedford Avenue & N 10 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.43225,43.627517 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":43,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":373.0048,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"N 8 Street & Bedford Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.392692,45.432107 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":44,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":373.0108,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"N 7 Street & Driggs Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.662278,45.208466 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":45,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":373.0014,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"N 5 Street & Driggs Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.969765,44.143504 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":46,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":373.003,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"Roebling Street & N 8 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.599255,45.81096 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":47,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":373.0023,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"Grand Street & Marcy Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.556668,47.231597 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":48,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":373.0007,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"Metropolitan Avenue & Bedford Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.038232,47.328753 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":49,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":373.0102,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"Metropolitan Avenue & Berry Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.364217,46.675053 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":50,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":373.0025,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"Grand Street & Roebling Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.440904,44.92298 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":51,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":373.0053,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"S 2 Street & Bedford Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.628233,45.868702 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":52,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":373.0018,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"S 4 Street & Driggs Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.859907,45.772658 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":53,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":373.0073,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"East Williamsburg",
+    "shortname":"S 5 Street & Keap Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.369339,43.295932 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":54,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":109.0002,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"W 111 Street & Broadway",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.085151,50.371714 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":55,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":109.0003,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"W 112 Street & Broadway",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.721201,46.81674 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":56,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":109.0008,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"W 121 Street & Broadway",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.023809,46.304018 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":57,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":109.0013,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"W 111 Street & Amsterdam Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.817093,45.745483 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":58,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":109.0014,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"W 112 Street & Amsterdam Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.432162,43.598417 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":59,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":109.0015,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"W 116 Street & Amsterdam Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.310681,46.977239 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":60,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":109.0017,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"W 118 Street & Amsterdam Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.548131,47.206817 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":61,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":109.0018,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"W 120 Street & Amsterdam Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.514415,43.754438 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":62,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":109.0024,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"W 123 Street & Amsterdam Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.02322,47.2397 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":63,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":109.0026,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"La Salle Street & Amsterdam Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.03702,47.2482 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":64,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":109.0027,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"W 115 Street & Morningside Drive",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.479531,43.591257 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":65,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":109.0028,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"W 119 Street & Morningside Drive",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.747877,44.55137 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":66,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":109.0034,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"La Salle Street & Claremont Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.029744,45.764832 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":67,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":109.0037,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"Tiemann Pl & Claremont Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.460181,46.250889 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":68,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":104.0001,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Hamilton Heights",
+    "shortname":"W 144 Street & Convent Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.970947,43.620362 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":69,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":104.0005,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Hamilton Heights",
+    "shortname":"W 144 Street & Amsterdam Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.923826,43.408101 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":70,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":104.001,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Hamilton Heights",
+    "shortname":"W 149 Street & Amsterdam Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.933249,43.123583 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":71,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":104.0015,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Hamilton Heights",
+    "shortname":"W 139 Street & Hamilton Pl",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.178735,45.690112 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":72,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":104.0026,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Hamilton Heights",
+    "shortname":"W 143 Street & Broadway",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.501371,43.693873 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":73,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":104.0029,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Hamilton Heights",
+    "shortname":"W 147 Street & Broadway",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.207704,44.337568 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":74,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":104.0033,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Hamilton Heights",
+    "shortname":"W 150 Street & Broadway",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.400008,43.634245 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":75,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":104.0035,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Hamilton Heights",
+    "shortname":"W 152 Street & Broadway",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.33369,43.705129 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":76,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":134.0002,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"East Harlem",
+    "shortname":"Lexington Avenue & E 112 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.534851,44.370842 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":77,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":134.0042,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"East Harlem",
+    "shortname":"Lexington Avenue & E 118 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.346669,43.729274 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":78,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":134.0013,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"East Harlem",
+    "shortname":"E 122 Street & Lexington Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.434108,43.592329 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":79,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":134.002,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"East Harlem",
+    "shortname":"E 123 Street & 3 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.061791,49.03444 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":80,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":134.0023,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"East Harlem",
+    "shortname":"E 110 Street & 2 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.192621,45.903534 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":81,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":134.0026,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"East Harlem",
+    "shortname":"E 115 Street & 2 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.837558,45.069953 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":82,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":134.0028,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"East Harlem",
+    "shortname":"E 118 Street & 2 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.830729,45.766778 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":83,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":134.0029,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"East Harlem",
+    "shortname":"E 121 Street & 2 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.08453,46.181576 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":84,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":134.0033,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"East Harlem",
+    "shortname":"E 120 Street & 1 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.256715,45.524746 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":85,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":333.005,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Red Hook",
+    "shortname":"Dikeman Street & Van Brunt Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4283,43.659479 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":86,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":333.0063,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Red Hook",
+    "shortname":"King Street & Van Brunt Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.1157,45.893544 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":87,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.0001,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"8 Avenue & 12 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.957018,45.35705 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":88,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.0005,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"8 Avenue & 9 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.26928,45.385601 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":89,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.0012,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"8 Avenue & 4 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.892833,43.221901 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":90,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.0017,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"8 Avenue & 1 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.864105,43.117883 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":91,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.002,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"8 Avenue & President Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.079188,49.362533 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":92,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.0038,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"Garfield Place & 7 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.053077,47.321677 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":93,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.0049,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"6 Avenue & 7 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.264104,48.84773 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":94,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.0053,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"6 Avenue & 4 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.143852,44.579503 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":95,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.0061,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"6 Avenue & Union Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.1197,43.592981 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":96,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.0077,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"Union Street & 5 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.124038,45.909172 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":97,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":373.0078,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"East Williamsburg",
+    "shortname":"S 2 Street & Hooper Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.712791,45.875087 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":98,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":373.0094,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"East Williamsburg",
+    "shortname":"Union Avenue & Grand Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.877088,45.113567 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":99,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":390.0008,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"East Williamsburg",
+    "shortname":"Meserole Street & Lorimer Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.469089,45.677374 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":100,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":378.0001,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"East Williamsburg",
+    "shortname":"Meserole Street & Graham Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.833015,45.781918 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":101,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":378.0004,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"East Williamsburg",
+    "shortname":"Seigel Street & Graham Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.821724,45.772556 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":102,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":378.0009,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"East Williamsburg",
+    "shortname":"Humboldt Street & Scholes Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.834155,45.747817 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":103,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":378.0032,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"East Williamsburg",
+    "shortname":"Montrose Avenue & Bushwick Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.840375,45.81611 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":104,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":428.0007,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Jackson Heights",
+    "shortname":"35 Avenue & 77 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.806829,45.777166 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":105,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":428.0035,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Jackson Heights",
+    "shortname":"86 Street & 34 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.796906,45.756614 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":106,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":401.0006,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Jamaica",
+    "shortname":"173 Street & Liberty Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.829965,45.758896 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":107,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":461.0008,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Jamaica",
+    "shortname":"181 Street & Jamaica Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.033404,45.204342 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":108,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":461.0021,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Jamaica",
+    "shortname":"185 Street & Hillside Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.943483,45.572418 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":109,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":461.0022,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Jamaica",
+    "shortname":"187 Street & Hillside Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.53999,45.458569 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":110,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":208.0009,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Parkchester",
+    "shortname":"Guerlain Street & Thieriot Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.810108,45.574916 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":111,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":208.0032,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Parkchester",
+    "shortname":"Wood Avenue & Thieriot Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.379938,45.827678 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":112,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":208.0047,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Parkchester",
+    "shortname":"Commonwealth Avenue & E 172 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.149973,43.063117 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":113,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":208.0048,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Parkchester",
+    "shortname":"St. Lawrence Avenue & Westchester Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.592362,45.92068 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":114,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":255.0002,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Parkchester",
+    "shortname":"Leland Avenue & Gleason Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.40779,43.522096 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":115,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":255.0006,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Parkchester",
+    "shortname":"Croes Avenue & Watson Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.29261,48.676509 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":116,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":208.0052,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Parkchester",
+    "shortname":"Fteley Avenue & E 172 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.656198,48.525301 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":117,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":255.0013,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Parkchester",
+    "shortname":"Watson Avenue & White Plains Road",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.311148,48.75183 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":118,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":208.0055,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Parkchester",
+    "shortname":"McGraw Avenue & Thieriot Avenue ",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.245931,49.017484 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":119,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":428.0066,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Jackson Heights",
+    "shortname":"90 Street & 34 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.91063,49.004988 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":120,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":428.007,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Jackson Heights",
+    "shortname":"89 Street & 37 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.194499,45.821242 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":121,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":337.0082,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"9 Avenue & 9 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.717892,45.985686 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":122,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.0086,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"Sterling Place & 5 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.082571,46.031791 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":123,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.0088,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"2 Street & 5 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.047115,45.04412 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":124,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":333.0081,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"4 Pl & Court Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.284893,48.891963 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":125,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":338.0028,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Boerum Hill",
+    "shortname":"Wyckoff Street & Smith Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.062788,46.036498 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":126,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":338.003,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Boerum Hill",
+    "shortname":"Nevins Street & Atlantic Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.7218,48.723398 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":127,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":109.004,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Morningside Heights",
+    "shortname":"W 114 Street & Broadway",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.00491,49.053391 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":128,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":104.0037,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Hamilton Heights",
+    "shortname":"W 146 Street & Riverside Drive",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.366151,49.751215 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":129,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":104.0041,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Hamilton Heights",
+    "shortname":"Hamilton Place  & W 143 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.127041,49.881234 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":130,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":378.0034,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"East Williamsburg",
+    "shortname":"Maujer Street & Bushwick Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.118844,43.587745 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":131,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":373.012,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"East Williamsburg",
+    "shortname":"Ainslie Street & Lorimer Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.052048,43.919438 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":132,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":461.0036,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Jamaica",
+    "shortname":"170 Street & Hillside Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.926588,43.130138 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":133,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":408.0004,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Jamaica",
+    "shortname":"Linden Boulevard & 180 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.752698,43.623045 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":134,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":333.003,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"Carroll Street & Henry Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.452826,43.526105 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":135,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":134.0041,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"East Harlem",
+    "shortname":"E 114 Street & 1 Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.454481,43.524922 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":136,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":309.0004,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Brooklyn Heights",
+    "shortname":"Columbia Hts & Cranberry Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.604298,43.351069 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":137,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":333.009,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"Congress Street & Hicks Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.400536,43.295938 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":138,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":338.0053,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Boerum Hill",
+    "shortname":"Bond Street & Pacific Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.039417,42.852874 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":139,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":333.0093,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"Court Street & Carroll Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.692106,42.913124 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"http://www.enterprisecarshare.com/nycdot",
+    "CS_Spaces":2,
+    "OBJECTID":140,
+    "CompanyURL":"http://www.enterprisecarshare.com/login",
+    "HowToParticipate":"http://www.enterprisecarshare.com/nycha",
+    "Site_ID":338.0009,
+    "CarshareOrganizationName":"Enterprise CarShare",
+    "Offset":"NA",
+    "SiteAddress":"Boerum Hill",
+    "shortname":"Baltic Street & Hoyt Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.030482,43.695551 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://goo.gl/uVBhCd",
+    "CS_Spaces":2,
+    "OBJECTID":141,
+    "CompanyURL":"https://goo.gl/aYthBw",
+    "HowToParticipate":"NA",
+    "Site_ID":373.0122,
+    "CarshareOrganizationName":"ReachNow",
+    "Offset":"NA",
+    "SiteAddress":"Williamsburg",
+    "shortname":"S 1 Street & Wythe Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.287658,43.700828 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":142,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.0091,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"8 Avenue & Berkeley Place",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.939996,43.113063 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":143,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":337.0092,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Park Slope",
+    "shortname":"6 Avenue & 11 Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.307955,44.388582 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":144,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":461.004,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Jamaica",
+    "shortname":"180 Street & Hillside Avenue",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.577674,44.854886 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":145,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":333.0095,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Cobble Hill / Carroll Gardens",
+    "shortname":"Kane Street & Hicks Street",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.589354,47.200646 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":146,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":401.0012,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Jamaica",
+    "shortname":"106 Avenue & Merrick Boulevard",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.255784,47.462744 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":147,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":255.0015,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Parkchester",
+    "shortname":"Hugh J. Grant Circle East & Westchester Avenue Eastbound",
+    "Type":"Curbside"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.00458,47.586951 ]
+    },
+    "properties": {
+    "Status":"Active",
+    "MembershipInfo":"https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "CS_Spaces":2,
+    "OBJECTID":148,
+    "CompanyURL":"https://members.zipcar.com/reservations/reserve?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "HowToParticipate":"https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018",
+    "Site_ID":461.0041,
+    "CarshareOrganizationName":"Zipcar",
+    "Offset":"NA",
+    "SiteAddress":"Jamaica",
+    "shortname":"175 Street  & Hillside Avenue",
+    "Type":"Curbside"
+    }
+  }
+]
+}
