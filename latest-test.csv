@@ -1,0 +1,1000 @@
+latitude,longitude,altitude,geometry,Status,MembershipInfo,CS_Spaces,OBJECTID,CompanyURL,HowToParticipate,Site_ID,CarshareOrganizationName,Offset,SiteAddress,shortname,Type
+47.588861,-3.031556,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,14880463057575,14880463057575,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ST CLOUD,ACTIVE,CHF_PART,rue de  Mane Roulard,7,HP-HC
+48.844233,2.206486,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,21397973864770,21397973864770,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LA MADELEINE,ACTIVE,CHF_PART,Rue de la source,1,00,HP-HC
+50.648096,3.076626,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,01164833471497,1164833471497,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,CLICHY,RESILIE,CHF_PART,Avenue Simone,12,Base
+48.89769,2.300519,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,21556150377146,21556150377146,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,SURESNES,RESILIE,CHF_PART,Rue Henri Barbusse,119,HP-HC
+48.867108,2.221444,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,21435455741587,21435455741587,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ST NOM LA BRETECHE,RESILIE,CHF_PART,rue de Sevres,27,HP-HC
+48.859727,2.011666,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,21194790044396,21194790044396,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,PARIS 15,ACTIVE,CHF_PART,avenue du Pays de Galie,32,HP-HC
+48.850308,2.287211,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,Useless,Useless,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ST GRATIEN,ABANDONNE,CHF_PART,B RUE ROUELLE,44,Base
+48.970725,2.28522,,Point,DUAL,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,21515629427052,21515629427052,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LEVALLOIS PERRET,ACTIVE,CHF_PART,RUE SOEUR ANGELE,5,Base
+48.887656,2.287774,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,21473371817061,21473371817061,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,PLANFOY,ACTIVE,CHF_PART,RUE MARIUS AUFAN,128,HP-HC
+45.384468,4.441957,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19823733606005,19823733606005,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,BOULOGNE BILLANCOURT,RESILIE,CHF_PART,Lotissement de la petite vallEe,70,HP-HC
+48.832794,2.240035,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,07397539779038,7397539779038,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ST CHAMOND,RESILIE,CHF_PART, RUE PAUL BERT,3,HP-HC
+45.473403,4.508426,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19897684407035,19897684407035,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,VINCENNES,RESILIE,CHF_PART,RUE DU QRT NEUF ,11,Base
+48.848054,-3.031557,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,22433140300713,22433140300713,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,PLANFOY,ACTIVE,CHF_PART,RUE CHARLES SILVESTRI,6,HP-HC
+47.588861,2.206487,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19823733606005,19823733606005,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,PARIS 15,ABANDONNE,CHF_PART,Lotissement de la petite vallEe,70,HP-HC
+48.844233,3.076627,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,07463531110112,7463531110112,WEB,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,VEYRIER DU LAC,ACTIVE,CHF_PART,rue du Hameau,13,HP-HC
+50.648096,2.300519,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19565846482454,19565846482454,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,CAGNES SUR MER,ACTIVE,,RUE DE LA TOURNETTE,0,Base
+48.89769,2.221444,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25461649703490,25461649703490,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,BRON,RESILIE,,BD MARECHAL JUIN,0,Base
+48.867108,2.011666,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,19154847920204,19154847920204,PRO,http://www.enterprisecarshare.com/nycha,MONTPELLIER,RESILIE,,RUE DE LA PAGERE,0,HP-HC
+48.859727,2.287211,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,24335889902350,24335889902350,PRO,http://www.enterprisecarshare.com/nycha,MARSAC EN LIVRADOIS,RESILIE,,PCE DU MARCHE AUX FLEURS,0,HP-HC
+48.850308,2.28522,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,17141968055290,17141968055290,PRO,http://www.enterprisecarshare.com/nycha,VALLON PONT D ARC,ACTIVE,,RUE DES ALOUETTES,0,HP-HC
+48.970725,2.287774,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19721562883373,19721562883373,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ST SYMPHORIEN SUR COISE,ABANDONNE,,PLACE DU VERGER,0,HP-HC
+48.887656,4.441958,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,19420549848106,19420549848106,PRO,http://www.enterprisecarshare.com/nycha,VAUGNERAY,ACTIVE,,RUE DE LA DOUE,0,HP-HC
+45.384468,2.240036,,Point,MONO ELEC,https://goo.gl/uVBhCd,19410274884364,19410274884364,PRO,NA,VILLEFRANCHE DE PANAT,ACTIVE,,RUE DU DRONAUD,0,HP-HC
+48.832794,4.508427,,Point,MONO ELEC,https://goo.gl/uVBhCd,23590882740845,23590882740845,PRO,NA,TOULOUSE,RESILIE,,AV DU SEGALA,0,HP-HC
+45.473403,-3.031558,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,23174963809814,23174963809814,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,AMBES,RESILIE,,RUE FAUBOURG BONNEFOY,0,Base
+48.848054,2.206488,,Point,MONO ELEC,https://goo.gl/uVBhCd,16145441280190,16145441280190,PRO,NA,ST MALO,RESILIE,,RUE MONTESQUIEU,0,HP-HC
+47.588861,3.076628,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,14413892905720,14413892905720,PRO,http://www.enterprisecarshare.com/nycha,MONTPELLIER,ACTIVE,,RUE DE DINAN,0,HP-HC
+48.844233,2.300519,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,24338639644906,24338639644906,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,NANTES,ABANDONNE,,RUE LEON BLUM,0,HP-HC
+50.648096,2.221444,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,14293777081990,14293777081990,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LE TOUQUET PARIS PLAGE,ACTIVE,,RUE SANLECQUE,0,HP-HC
+48.89769,2.011666,,Point,MONO ELEC,https://goo.gl/uVBhCd,01572069445066,1572069445066,PRO,NA,NOYANT D ALLIER,ACTIVE,,AVE LOUIS HUBERT,0,HP-HC
+48.867108,2.287211,,Point,MONO ELEC,https://goo.gl/uVBhCd,17302460199669,17302460199669,PRO,NA,CERBERE,RESILIE,,PLACE DU MARCHE,0,HP-HC
+48.859727,2.28522,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,24279015857668,24279015857668,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,NEUVECELLE,RESILIE,,RUE DU RIBERAL,0,Base
+48.850308,2.287774,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19528943449234,19528943449234,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,VOREPPE,RESILIE,,AVE DE MILLY,0,HP-HC
+48.970725,4.441959,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19336034699869,19336034699869,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LYON 06,ACTIVE,,GRANDE RUE,0,HP-HC
+48.887656,2.240037,,Point,MONO ELEC,https://goo.gl/uVBhCd,19155716284842,19155716284842,PRO,NA,CHAMROUSSE,ABANDONNE,,RUE VENDOME,0,Base
+45.384468,4.508428,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19352243053811,19352243053811,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LA TRONCHE,ACTIVE,,LE RECOIN,0,HP-HC
+48.832794,-3.031559,,Point,MONO ELEC,https://goo.gl/uVBhCd,19303328407511,19303328407511,PRO,NA,MERLINES,ACTIVE,,RUE DU PONT PROUILLER,0,HP-HC
+45.473403,2.206489,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,17590738000517,17590738000517,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,MEAULNE,RESILIE,,AV PIERRE SEMARD,0,HP-HC
+48.848054,3.076629,,Point,MONO ELEC,https://goo.gl/uVBhCd,17285672897105,17285672897105,PRO,NA,LE MANS,RESILIE,,RTE N 144,0,Base
+47.588861,2.300519,,Point,MONO ELEC,https://goo.gl/uVBhCd,09158031792700,9158031792700,PRO,NA,CORCIEUX,RESILIE,,RUE DE GRENOBLE,0,HP-HC
+48.844233,2.221444,,Point,MONO ELEC,https://goo.gl/uVBhCd,05499710562300,5499710562300,PRO,NA,CHAMBERY,ACTIVE,,RUE DU DR POIROT,0,HP-HC
+50.648096,2.011666,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,19662807474849,19662807474849,PRO,http://www.enterprisecarshare.com/nycha,CLERMONT L HERAULT,ABANDONNE,,RUE CDT JOSEPH PERCEVAL,0,HP-HC
+48.89769,2.287211,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,24361794443739,24361794443739,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ST ETIENNE,ACTIVE,,RUE MICHELET,0,HP-HC
+48.867108,2.28522,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19838494910517,19838494910517,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,SASSENAGE,ACTIVE,,RUE ANTOINE DURAFOUR,0,HP-HC
+48.859727,2.287774,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19339942005781,19339942005781,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LAGUEPIE,RESILIE,,RUE FRANCOIS GERIN,0,HP-HC
+48.850308,4.441960,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,23292329943760,23292329943760,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,SAIN BEL,RESILIE,,RUE DU GUE,0,HP-HC
+48.970725,2.240038,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,19491606281243,19491606281243,PRO,http://www.enterprisecarshare.com/nycha,NANTES,RESILIE,,RUE JOSEPH VOLAY,0,Base
+48.887656,4.508429,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,14226772616399,14226772616399,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,DIJON,ACTIVE,,BOULEVARD MICHELET,0,HP-HC
+45.384468,-3.031560,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,12222141770480,12222141770480,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,MONTCEAU LES MINES,ABANDONNE,,RUE DE MONTCHAPET,0,HP-HC
+48.832794,2.206490,,Point,MONO ELEC,https://goo.gl/uVBhCd,12129667120463,12129667120463,PRO,NA,AURILLAC,ACTIVE,,RUE CARNOT,0,Base
+45.473403,3.076630,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,17541099845537,17541099845537,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,MEGEVE,ACTIVE,,AVENUE DES PUPILLES,0,HP-HC
+48.848054,2.300519,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19583212681000,19583212681000,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,VILLEURBANNE,RESILIE,,ROUTE NATIONALE,0,HP-HC
+47.588861,2.221444,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,19171490453137,19171490453137,PRO,http://www.enterprisecarshare.com/nycha,PAU,RESILIE,,COURS ANDRE PHILIP,0,HP-HC
+48.844233,2.011666,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,16518958018756,16518958018756,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,DOUAI,RESILIE,,RUE MARECHAL JOFFRE,0,HP-HC
+50.648096,2.287211,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,01390303879630,1390303879630,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,FOURS,ACTIVE,,PLACE CARNOT,0,Base
+48.89769,2.28522,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,12555282177940,12555282177940,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,CHATELUS MALVALEIX,ABANDONNE,,PLACE POUYAT,0,Base
+48.867108,2.287774,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,17227062186342,17227062186342,PRO,http://www.enterprisecarshare.com/nycha,LYON,ACTIVE,,RUE DE LA MARCHE,0,HP-HC
+48.859727,4.441961,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,19185238671314,19185238671314,PRO,http://www.enterprisecarshare.com/nycha,TOULOUSE,ACTIVE,,CRS BAYARD,0,HP-HC
+48.850308,2.240039,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,23141678694030,23141678694030,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,MONTAIGU,RESILIE,,RUE DU PONT SAINT PIERRE,0,Base
+48.970725,4.508430,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,14399276315773,14399276315773,PRO,http://www.enterprisecarshare.com/nycha,NANTES,RESILIE,,RUE DE LA BRECHE,0,Base
+48.887656,-3.031561,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,14219102553501,14219102553501,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,BELLEGARDE,RESILIE,,BD DES MARTYRS NANTAIS,0,HP-HC
+45.384468,2.206491,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,24534732165440,24534732165440,PRO,http://www.enterprisecarshare.com/nycha,BESANCON,ACTIVE,,RUE DE BEAUCAIRE,0,HP-HC
+48.832794,3.076631,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,06547177950095,6547177950095,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,BESANCON,ABANDONNE,,RUE DES GRANGES,0,Base
+45.473403,2.300519,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,06519681557229,6519681557229,PRO,http://www.enterprisecarshare.com/nycha,TOULOUSE,ACTIVE,,RUE TRISTAN BERNARD,0,Base
+48.848054,2.221444,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,23155716237609,23155716237609,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,MONTELIMAR,ACTIVE,,PLACE AUGUSTE ALBERT,0,HP-HC
+47.588861,2.011666,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19753111382151,19753111382151,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,CUSY,RESILIE,,AVE JEAN JAURES,0,HP-HC
+48.844233,2.287211,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19595368949334,19595368949334,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,HABERE POCHE,RESILIE,,ROUTE AIX LES BAINS,0,HP-HC
+50.648096,2.28522,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,19577134524022,19577134524022,PRO,http://www.enterprisecarshare.com/nycha,MOUANS SARTOUX,RESILIE,,CHEF LIEU,0,Base
+48.89769,2.287774,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,25901881257235,25901881257235,PRO,http://www.enterprisecarshare.com/nycha,TOURVES,ACTIVE,,AV DE CANNES,0,HP-HC
+48.867108,4.441962,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,25342836347062,25342836347062,PRO,http://www.enterprisecarshare.com/nycha,TOULON,ABANDONNE,,RUE AMBROISE CROIZAT,0,Base
+48.859727,2.240040,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25381765518211,25381765518211,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LES MATHES,ACTIVE,,RUE PAUL LANDRIN,0,HP-HC
+48.850308,4.508431,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,15217510803168,15217510803168,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,PERTUIS,ACTIVE,,AVENUE DE L OCEAN,0,Base
+48.970725,-3.031562,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25221997054610,25221997054610,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,MONTCUQ,RESILIE,,PLACE JEAN JAURES,0,HP-HC
+48.887656,2.206492,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,23414182327522,23414182327522,PRO,http://www.enterprisecarshare.com/nycha,BLAGNAC,RESILIE,,LA PROMENADE,0,Base
+45.384468,3.076632,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,23129232928610,23129232928610,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,BEAULIEU SUR MER,RESILIE,,BD JEAN RIVET,0,HP-HC
+48.832794,2.300519,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25405643936057,25405643936057,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ISPAGNAC,ACTIVE,,AVENUE DES HELLENES,0,Base
+45.473403,2.221444,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,23589580313948,23589580313948,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,GENERAC,ABANDONNE,,ROUTE NEUVE,0,HP-HC
+48.848054,2.011666,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,24506078040491,24506078040491,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,TOULOUSE,ACTIVE,,GRAND RUE,0,HP-HC
+47.588861,2.287211,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,23161649772118,23161649772118,PRO,http://www.enterprisecarshare.com/nycha,CERGY,ACTIVE,,PL DU FER A CHEVAL,0,HP-HC
+48.844233,2.28522,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,21280028849851,21280028849851,PRO,http://www.enterprisecarshare.com/nycha,MEXIMIEUX,RESILIE,,RUE NATIONALE,0,HP-HC
+50.648096,2.287774,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,19945441331821,19945441331821,PRO,http://www.enterprisecarshare.com/nycha,TAIN L HERMITAGE,RESILIE,,PLACE VAUGELAS,10000000000000,HP-HC
+48.89769,4.441963,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,19709840701310,19709840701310,PRO,http://www.enterprisecarshare.com/nycha,LYON,RESILIE,,PLACE DES ROSIERS,0,HP-HC
+48.867108,2.240041,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,19145875511935,19145875511935,PRO,http://www.enterprisecarshare.com/nycha,JARNAGES,ACTIVE,,RUE CONSTANTINE,0,Base
+48.859727,4.508432,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,17216642506549,17216642506549,PRO,http://www.enterprisecarshare.com/nycha,ANDREZIEUX BOUTHEON,ABANDONNE,,PL DE L EGLISE,0,HP-HC
+48.850308,-3.031563,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,19871345765290,19871345765290,PRO,http://www.enterprisecarshare.com/nycha,SOORTS HOSSEGOR,ACTIVE,,PCE DU FOREZ,0,HP-HC
+48.970725,2.206493,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,16490738020971,16490738020971,PRO,http://www.enterprisecarshare.com/nycha,RIOM,ACTIVE,,AVE PAUL LAHARY,0,HP-HC
+48.887656,3.076633,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,17147756821098,17147756821098,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ST PAL DE CHALENCON,RESILIE,,RUE DAURAT,0,HP-HC
+45.384468,2.300519,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,17915340067060,17915340067060,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LEMPDES SUR ALLAGNON,RESILIE,,PLACE DE LA TERRASSE,0,HP-HC
+48.832794,2.221444,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,17980318353220,17980318353220,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,MAULEON SOULE,RESILIE,,PCE DE LA HALLE,0,HP-HC
+45.473403,2.011666,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,16467583174873,16467583174873,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,TARDETS SORHOLUS,ACTIVE,,BOULEVARD GAMBETTA,0,Base
+48.848054,2.287211,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,16400868305986,16400868305986,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,DEAUVILLE,ABANDONNE,,PLACE DE L EGLISE,0,HP-HC
+47.588861,2.28522,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,02446743816298,2446743816298,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,DIJON,ACTIVE,,QU DE LA MARINE,0,HP-HC
+48.844233,2.287774,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,12278147556782,12278147556782,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,PARIS,ACTIVE,,BLD DE STRASBOURG,0,HP-HC
+50.648096,4.441964,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,07428798801891,7428798801891,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,BOURDEAUX,RESILIE,,RUE MICHEL ANGE,0,HP-HC
+48.89769,2.240042,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19791606301289,19791606301289,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ANTIBES,RESILIE,,VILLAGE,0,HP-HC
+48.867108,4.508433,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25920549848757,25920549848757,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ANNECY,RESILIE,,CHE DES OLIVIERS,0,HP-HC
+48.859727,-3.031564,,Point,MONO ELEC,https://goo.gl/uVBhCd,19519247357401,19519247357401,PRO,NA,CHAZAY D AZERGUES,ACTIVE,,RUE ANDRE FUMEX,0,HP-HC
+48.850308,2.206494,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19442402297982,19442402297982,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,CHAMROUSSE,ABANDONNE,,PLACE DU MARCHE,0,HP-HC
+48.970725,3.076634,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19367438456019,19367438456019,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,MORESTEL,ACTIVE,,LE MOTEL*,0,HP-HC
+48.887656,2.300519,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,19320984067385,19320984067385,PRO,http://www.enterprisecarshare.com/nycha,CALUIRE ET CUIRE,ACTIVE,,GRANDE RUE,0,HP-HC
+45.384468,2.221444,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19121707606103,19121707606103,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LYON,RESILIE,,RUE DE MARGNOLLES,0,HP-HC
+48.832794,2.011666,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19188711876816,19188711876816,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LYON,RESILIE,,RUE CARQUILLAT,0,HP-HC
+45.473403,2.287211,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19198986867962,19198986867962,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,COLLONGES AU MONT D OR,RESILIE,,AV BERTHELOT,0,HP-HC
+48.848054,2.28522,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19156873913558,19156873913558,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LYON,ACTIVE,,RUE GENERAL DE GAULLE,0,HP-HC
+47.588861,2.287774,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19166714731488,19166714731488,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LYON 05,ABANDONNE,,RUE ROGER SALENGRO,0,HP-HC
+48.844233,4.441965,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19167293636556,19167293636556,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LYON,ACTIVE,,RUE DES AQUEDUCS,0,Base
+50.648096,2.240043,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19121273431585,19121273431585,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,RETOURNAC,ACTIVE,,RUE DU PLAT,0,HP-HC
+48.89769,4.508434,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,17981041941633,17981041941633,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,MUROL,RESILIE,,PLACE BONCOMPAIN,0,HP-HC
+48.867108,-3.031565,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,17171779990511,17171779990511,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ST GERMAIN L HERM,RESILIE,,RUE PIERRE CELEIROL,0,HP-HC
+48.859727,2.206495,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,17161939159453,17161939159453,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LE MONT DORE,RESILIE,,PLACE DE LA RODADE,0,HP-HC
+48.850308,3.076635,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,17167293758605,17167293758605,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LEZOUX,ACTIVE,,RUE CAPITAINE CHAZOTTE,0,HP-HC
+48.970725,2.300519,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,17112156222347,17112156222347,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,BAGNERES DE BIGORRE,ABANDONNE,,PLACE DU COMMERCE,0,HP-HC
+48.887656,2.221444,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,16526049183902,16526049183902,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,CORDON,ACTIVE,,ALL DES TROIS FRERES DUTHU,0,HP-HC
+45.384468,2.011666,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19545296619996,19545296619996,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,PORTET SUR GARONNE,ACTIVE,,CHEF LIEU,0,HP-HC
+48.832794,2.287211,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,23104630878598,23104630878598,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,BALLAINVILLIERS,RESILIE,,PL DE LA REPUBLIQUE,0,HP-HC
+45.473403,2.28522,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,22298986967316,22298986967316,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LA ROCHETTE,RESILIE,,RUE DU ROUILLON,0,HP-HC
+48.848054,2.287774,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,22140520862183,22140520862183,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,FRESNES,RESILIE,,RUE HONORE DAUMIER,0,HP-HC
+47.588861,4.441966,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,21399855219949,21399855219949,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ST LEU LA FORET,ACTIVE,,AV DU HUIT MAI 1945,0,HP-HC
+48.844233,2.240044,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,21239363211197,21239363211197,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,MEULAN EN YVELINES,ABANDONNE,,RUE DU GENERAL LECLERC,0,Base
+50.648096,4.508435,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,21219971030439,21219971030439,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ST MAURICE DE GOURDANS,ACTIVE,,RUE GAMBETTA,0,HP-HC
+48.89769,-3.031566,,Point,MONO ELEC,https://goo.gl/uVBhCd,19975397920440,19975397920440,PRO,NA,VILLEFRANCHE SUR SAONE,ACTIVE,,ROUTE DE LA CHARRIERE,0,HP-HC
+48.867108,2.206496,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19953111384728,19953111384728,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LE COTEAU,RESILIE,,PLACE CARNOT,0,HP-HC
+48.859727,3.076636,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19883791527002,19883791527002,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ROMANS SUR ISERE,RESILIE,,AVENUE DE LA LIBERATION,0,HP-HC
+48.850308,2.300519,,Point,MONO ELEC,https://goo.gl/uVBhCd,19738350142940,19738350142940,PRO,NA,LEVALLOIS PERRET,RESILIE,,RUE PORTEFER,0,HP-HC
+48.970725,2.221444,,Point,MONO ELEC,https://goo.gl/uVBhCd,21426049074122,21426049074122,PRO,NA,ROANNE,ACTIVE,,PCE DU GAL LECLERC,0,Base
+48.887656,2.011666,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,19844717690290,19844717690290,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,SEZANNE,ABANDONNE,,RUE MULSANT,0,HP-HC
+45.384468,2.287211,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,04371924740580,4371924740580,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,AY CHAMPAGNE,ACTIVE,,RUE DU CAPITAINE FAUCON,0,HP-HC
+48.832794,2.28522,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,04342836446401,4342836446401,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,MOY DE L AISNE,ACTIVE,,RUE JULES BLONDEAU,0,HP-HC
+45.473403,2.287774,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,04147177986296,4147177986296,PRO,http://www.enterprisecarshare.com/nycha,ARQUES LA BATAILLE,RESILIE,,RUE CLEMENCEAU,0,HP-HC
+48.848054,4.441967,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,02198408054958,2198408054958,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ANTIBES,RESILIE,,RUE DE ROME,0,HP-HC
+47.588861,2.240045,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25945586053820,25945586053820,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,L ISLE SUR LA SORGUE,RESILIE,,AV JULES GREC,0,HP-HC
+48.844233,4.508436,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25898986934918,25898986934918,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,TOULON,ACTIVE,,RUE DE LA REPUBLIQUE,0,HP-HC
+50.648096,-3.031567,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25359189494070,25359189494070,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,CALLIAN,ABANDONNE,,AVE EMILE VINCENT,0,HP-HC
+48.89769,2.206497,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25332416767821,25332416767821,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,AIX EN PROVENCE,ACTIVE,,RUE DES MAISONS NEUVES,0,HP-HC
+48.867108,3.076637,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25289290877205,25289290877205,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,AIX EN PROVENCE,ACTIVE,,RUE FERNAND DOL,0,Base
+48.859727,2.300519,,Point,MONO ELEC,https://goo.gl/uVBhCd,25270477549894,25270477549894,PRO,NA,ROQUEVAIRE,RESILIE,,CRS GAMBETTA,0,Base
+48.850308,2.221444,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25233285088720,25233285088720,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,MARSEILLE,RESILIE,,RUE DES ALLIES,0,Base
+48.970725,2.011666,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25158465951121,25158465951121,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,LEUCATE,RESILIE,,BD CHAVE,0,HP-HC
+48.887656,2.287211,,Point,MONO ELEC,https://goo.gl/uVBhCd,24194645433294,24194645433294,PRO,NA,ST BEAT,ACTIVE,,CENTRE COMMERCIAL,0,Base
+45.384468,2.28522,,Point,MONO ELEC,http://www.enterprisecarshare.com/nycdot,23379594748227,23379594748227,PRO,http://www.enterprisecarshare.com/nycha,EYGUIERES,ABANDONNE,,AVE GALLIENIE,0,HP-HC
+48.832794,2.287774,,Point,MONO ELEC,https://goo.gl/uVBhCd,25840520936972,25840520936972,PRO,NA,NICE,ACTIVE,,PLACE THIERS,0,HP-HC
+45.473403,4.441968,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25452966651202,25452966651202,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,TOULON,ACTIVE,,BOULEVARD DE RIQUIER,0,HP-HC
+48.848054,2.240046,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,25377279219029,25377279219029,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,TONNEINS,RESILIE,,BD BAZEILLES,0,HP-HC
+47.588861,4.508437,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,16356584639699,16356584639699,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,BORDEAUX,RESILIE,,PCE JEAN JAURES,0,HP-HC
+48.844233,-3.031568,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,16155282127902,16155282127902,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,NANTES,RESILIE,,RUE LAGRANGE,0,Base
+50.648096,2.206498,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,14238060674799,14238060674799,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ENTRAINS SUR NOHAIN,ACTIVE,,RUE GARIBALDI,0,HP-HC
+48.89769,3.076638,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,12554124454315,12554124454315,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,L ISLE SUR SEREIN,ABANDONNE,,PLACE DU MARCHE,0,HP-HC
+48.867108,2.300519,,Point,MONO ELEC,https://www2.zipcar.com/getting-started?utm_source=sitebanner&utm_medium=online_loca_ptrl&utm_campaign=nyc_con_NYCDOTmarketing_042018,12404486217010,12404486217010,PRO,https://www.zipcar.com/nycha?utm_source=sitebanner&utm_medium=online_local_ptr&utm_campaign=nyc_con_NYCDOTmarketing_042018,ST SEINE L ABBAYE,ACTIVE,,PLACE DE LA FONTAINE,0,HP-HC
+48.859727,2.221444,,,MONO ELEC,,12216353104250,12216353104250,PRO,,POLIGNY,ACTIVE,,RUE CARNOT,0,HP-HC
+48.850308,2.011666,,,MONO ELEC,,06592908787417,6592908787417,PRO,,COLOMBIER FONTAINE,RESILIE,,GRANDE RUE,0,HP-HC
+48.970725,2.287211,,,MONO ELEC,,06477279256696,6477279256696,PRO,,DIGOIN,RESILIE,,RUE DE LA CHAISERIE,0,HP-HC
+48.887656,2.28522,,,MONO ELEC,,12157018780056,12157018780056,PRO,,MARCILLY LE HAYER,RESILIE,,RUE BARTOLI,0,HP-HC
+45.384468,2.287774,,,MONO ELEC,,04527206929619,4527206929619,PRO,,ST CLAIR SUR L ELLE,ACTIVE,,RUE DE LA MOTHE,0,HP-HC
+48.832794,4.441969,,,MONO ELEC,,02521128787052,2521128787052,PRO,,VIC LE COMTE,ABANDONNE,,RUE DE LA LIBERATION,0,HP-HC
+45.473403,2.240047,,,MONO ELEC,,17175832028156,17175832028156,PRO,,ARTHEZ DE BEARN,ACTIVE,,BOULEVARD DU JEU DE PAUME,0,HP-HC
+48.848054,4.508438,,,MONO ELEC,,16514761177140,16514761177140,PRO,,DIJON,ACTIVE,,PLACE DE LA MAIRIE,0,HP-HC
+47.588861,-3.031569,,,MONO ELEC,,12259334222769,12259334222769,PRO,,AIX EN PROVENCE,RESILIE,,RUE MONGE,0,HP-HC
+48.844233,2.206499,,,MONO ELEC,,25280752481598,25280752481598,PRO,,TREFFORT CUISIAT,RESILIE,,RUE GASTON DE SAPORTA,0,HP-HC
+50.648096,3.076639,,,MONO ELEC,,19954124402026,19954124402026,PRO,,ST GENEST LERPT,RESILIE,,CHAMP DE FOIRE,0,HP-HC
+48.89769,2.300519,,,MONO ELEC,,19811866761492,19811866761492,PRO,,HOUILLES,ACTIVE,,RUE DE MONTBRISON,0,HP-HC
+48.867108,2.221444,,,MONO ELEC,,21489001318105,21489001318105,PRO,,THORIGNY SUR MARNE,ABANDONNE,,AV J J ROUSSEAU,0,HP-HC
+48.859727,2.011666,,,MONO ELEC,,22152242985721,22152242985721,PRO,,MAUVEZIN,ACTIVE,,RUE CORNILLIOT,0,HP-HC
+48.850308,2.287211,,,MONO ELEC,,23362373359489,23362373359489,PRO,,LANSLEVILLARD,ACTIVE,,PL DE LA LIBERATION,0,HP-HC
+48.970725,2.28522,,,MONO ELEC,,19636179446640,19636179446640,PRO,,MILLERY,RESILIE,,RUE DE LA CHENAL,0,HP-HC
+48.887656,2.287774,,,MONO ELEC,,19425180834669,19425180834669,PRO,,MEAUDRE,RESILIE,,AVENUE DU SENTIER,0,HP-HC
+45.384468,4.441970,,,MONO ELEC,,19380752438283,19380752438283,PRO,,MONTLUCON,RESILIE,,LE VILLAGE,0,Base
+48.832794,2.240048,,,MONO ELEC,,17248625167207,17248625167207,PRO,,MARSAC EN LIVRADOIS,ACTIVE,,AVE DU PRESIDENT AURIOL,0,HP-HC
+45.473403,4.508439,,,MONO ELEC,,17190448591977,17190448591977,PRO,,LOURDES,ABANDONNE,,RUE DES ALOUETTES,0,HP-HC
+48.848054,-3.031570,,,MONO ELEC,,16594645421153,16594645421153,PRO,,MACAU,ACTIVE,,AVENUE SAINT JOSEPH,0,HP-HC
+47.588861,2.206500,,,MONO ELEC,,16126772682199,16126772682199,PRO,,ROMANS SUR ISERE,ACTIVE,,PLACE CARNOT,0,Base
+48.844233,3.076640,,,MONO ELEC,,19723733647042,19723733647042,PRO,,BEAUFORT SUR DORON,RESILIE,,RUE PORTEFER,0,HP-HC
+50.648096,2.300519,,,MONO ELEC,,19600434106756,19600434106756,PRO,,MONNETIER MORNEX,RESILIE,,R PIERRE BLANC,0,HP-HC
+48.89769,2.221444,,,MONO ELEC,,19568740843537,19568740843537,PRO,,ST GERVAIS LES BAINS,RESILIE,,ROUTE DU SALEVE,0,HP-HC
+48.867108,2.011666,,,MONO ELEC,,19522575865312,19522575865312,PRO,,POISY,ACTIVE,,AVENUE DU MONT D ARBOIS,0,HP-HC
+48.859727,2.287211,,,MONO ELEC,,19507091063949,19507091063949,PRO,,CRAPONNE,ABANDONNE,,ROUTE DES CREUSETTES,0,HP-HC
+48.850308,2.28522,,,MONO ELEC,,19447033212792,19447033212792,PRO,,ROYBON,ACTIVE,,PLACE ANDRE MARIE PERRIN,0,HP-HC
+48.970725,2.287774,,,MONO ELEC,,19397105543479,19397105543479,PRO,,CHENERAILLES,ACTIVE,,ALLEE DU 19 MARS 1962,0,HP-HC
+48.887656,4.441971,,,MONO ELEC,,17224891440678,17224891440678,PRO,,ST VALERIEN,RESILIE,,RTE DE GOUZON,0,Base
+45.384468,2.240049,,,MONO ELEC,,12468596220299,12468596220299,PRO,,PARIS 11,RESILIE,,RUE DE LA REPUBLIQUE,0,HP-HC
+48.832794,4.508440,,,MONO ELEC,,07254124376780,7254124376780,PRO,,ANGRESSE,RESILIE,,RUE OBERKAMPF,0,Base
+45.473403,-3.031571,,,MONO ELEC,,16454124346750,16454124346750,PRO,,ANGLET,ACTIVE,,ROUTE DU VIGNAU,0,HP-HC
+48.848054,2.206501,,,MONO ELEC,,16450216970760,16450216970760,PRO,,DIJON,ABANDONNE,,AVENUE DE L ADOUR,0,HP-HC
+47.588861,3.076641,,,MONO ELEC,,12278436972605,12278436972605,PRO,,AMIENS,ACTIVE,,RUE NICOLE LEPAUTE,0,HP-HC
+48.844233,2.300519,,,MONO ELEC,,01655426849344,1655426849344,PRO,,MERLIMONT,ACTIVE,,ROUTE DE PARIS,0,HP-HC
+50.648096,2.221444,,,MONO ELEC,,01578292293777,1578292293777,PRO,,LILLE,RESILIE,,AVENUE DE LA PLAGE,0,HP-HC
+48.89769,2.011666,,,MONO ELEC,,01117800156637,1117800156637,PRO,,SAINTES MARIES DE LA MER,RESILIE,,RUE ESQUERMOISE,0,HP-HC
+48.867108,2.287211,,,MONO ELEC,,25813892859143,25813892859143,PRO,,VILLEFRANCHE SUR MER,RESILIE,,RUE VICTOR HUGO,6,HP-HC
+48.859727,2.28522,,,MONO ELEC,,25415340044564,25415340044564,PRO,,VARENNES CHANGY,ACTIVE,,AVENUE MARECHAL FOCH,0,HP-HC
+48.850308,2.287774,,,MONO ELEC,,09518089717876,9518089717876,PRO,,BURZET,ABANDONNE,,PLACE DUCHESSE DE DALMATIE,0,HP-HC
+48.970725,4.441972,,,MONO ELEC,,19761939126404,19761939126404,PRO,,LAPALUD,ACTIVE,,QUARTIER DU PONT,0,HP-HC
+48.887656,2.240050,,,MONO ELEC,,25894934836923,25894934836923,PRO,,LA TRINITE SUR MER,ACTIVE,,COURS DES PLATANES,0,HP-HC
+45.384468,4.508441,,,MONO ELEC,,17183212667698,17183212667698,PRO,,ST CLOUD,RESILIE,,BOURG,0,HP-HC
+48.832794,-3.031572,,,MONO ELEC,,24329377551857,24329377551857,PRO,,LA MADELEINE,RESILIE,,RTE DE LA POMPIGNANE,0,HP-HC
+45.473403,2.206502,,,MONO ELEC,,24247756847612,24247756847612,PRO,,CLICHY,RESILIE,,RUE DES EMBRUNS,0,HP-HC
+48.848054,3.076642,,,MONO ELEC,,23223733610827,23223733610827,PRO,,SURESNES,ACTIVE,,RUE DE LA LOUBATIERE,0,HP-HC
+47.588861,2.300519,,,MONO ELEC,,23135166397094,23135166397094,PRO,,ST NOM LA BRETECHE,ABANDONNE,,RUE D AUCH,0,HP-HC
+48.844233,2.221444,,,MONO ELEC,,19947322646804,19947322646804,PRO,,PARIS 15,ACTIVE,,GRANDE RUE,0,HP-HC
+50.648096,2.011666,,,MONO ELEC,,14449493353107,14449493353107,PRO,,ST GRATIEN,ACTIVE,,RUE NICOLAS BOUVIER,0,HP-HC
+48.89769,2.287211,,,MONO ELEC,,14371924662610,14371924662610,PRO,,LEVALLOIS PERRET,RESILIE,,RUE DU GENERAL DE GAULLE,0,HP-HC
+48.867108,2.28522,,,MONO ELEC,,19865267659374,19865267659374,PRO,,PLANFOY,RESILIE,,PCE DE LA REPUBLIQUE,0,HP-HC
+48.859727,2.287774,,,MONO ELEC,,25801302443411,25801302443411,PRO,,BOULOGNE BILLANCOURT,RESILIE,,AVE DE LA BURLIERE,0,HP-HC
+48.850308,4.441973,,,MONO ELEC,,25466135998055,25466135998055,PRO,,ST CHAMOND,ACTIVE,,AVENUE DE MALHIRA+AURON,0,HP-HC
+48.970725,2.240051,,,MONO ELEC,,25390014411556,25390014411556,PRO,,VINCENNES,ABANDONNE,,RUE GRANDE,0,Base
+48.887656,4.508442,,,MONO ELEC,,19734008581316,19734008581316,PRO,,PLANFOY,ACTIVE,,AVENUE VICTOR HUGO,0,HP-HC
+45.384468,-3.031573,,,MONO ELEC,,14709117172195,14709117172195,PRO,,PARIS 15,ACTIVE,,PLACE DE LA LIBERTE,0,HP-HC
+48.832794,2.206503,,,MONO ELEC,,17927206912758,17927206912758,PRO,,VEYRIER DU LAC,RESILIE,,RUE DU MONT BAR,0,HP-HC
+45.473403,3.076643,,,MONO ELEC,,19154992733330,19154992733330,PRO,,CAGNES SUR MER,RESILIE,,RUE PIERRE CARBON,0,HP-HC
+48.848054,2.300519,,,MONO ELEC,,19143704576162,19143704576162,PRO,,BRON,RESILIE,,AV DE BEZANGE,0,HP-HC
+47.588861,2.221444,,,MONO ELEC,,17920405175590,17920405175590,PRO,,MONTPELLIER,ACTIVE,,GRANDE RUE,0,HP-HC
+48.844233,2.011666,,,MONO ELEC,,17743704741320,17743704741320,PRO,,MARSAC EN LIVRADOIS,ABANDONNE,,RUE EMILE MARTIN,0,HP-HC
+50.648096,2.287211,,,MONO ELEC,,17367872629382,17367872629382,PRO,,VALLON PONT D ARC,ACTIVE,,GRAND RUE,0,Base
+48.89769,2.28522,,,MONO ELEC,,16496092606738,16496092606738,PRO,,ST SYMPHORIEN SUR COISE,ACTIVE,,PLACE DU GENERAL DE GAULLE,0,HP-HC
+48.867108,2.287774,,,MONO ELEC,,16493777060859,16493777060859,PRO,,VAUGNERAY,RESILIE,,AV LECLERC,0,HP-HC
+48.859727,4.441974,,,MONO ELEC,,06598263341273,6598263341273,PRO,,VILLEFRANCHE DE PANAT,RESILIE,,RUE DE BESANCON,0,HP-HC
+48.850308,2.240052,,,MONO ELEC,,16101447084746,16101447084746,PRO,,TOULOUSE,RESILIE,,RUE D ORNANO,0,HP-HC
+48.970725,4.508443,,,MONO ELEC,,16495947786794,16495947786794,PRO,,AMBES,ACTIVE,,ROUTE NATIONALE 10,0,HP-HC
+48.887656,-3.031574,,,MONO ELEC,,09210853798004,9210853798004,PRO,,ST MALO,ABANDONNE,,AVENUE DE LA LIBERATION,0,HP-HC
+45.384468,2.206504,,,MONO ELEC,,06501591846250,6501591846250,PRO,,MONTPELLIER,ACTIVE,,RUE DE LA REPUBLIQUE,0,HP-HC
+48.832794,3.076644,,,MONO ELEC,,06431114291465,6431114291465,PRO,,NANTES,ACTIVE,,AVE DES FRERES LUMIERE,0,HP-HC
+45.473403,2.300519,,,MONO ELEC,,05420549918303,5420549918303,PRO,,LE TOUQUET PARIS PLAGE,RESILIE,,RUE THIERS,0,Base
+48.848054,2.221444,,,MONO ELEC,,02463386395230,2463386395230,PRO,,NOYANT D ALLIER,RESILIE,,PLACE MALHERBE,0,Base
+47.588861,2.011666,,,MONO ELEC,,02353690288329,2353690288329,PRO,,CERBERE,RESILIE,,RUE GEORGES BRAQUE,0,HP-HC
+48.844233,2.287211,,,MONO ELEC,,19369319732972,19369319732972,PRO,,NEUVECELLE,ACTIVE,,LE BOURG,0,HP-HC
+50.648096,2.28522,,,MONO ELEC,,19976410979908,19976410979908,PRO,,VOREPPE,ABANDONNE,,RUE PAUL BERT,0,Base
+48.89769,2.287774,,,MONO ELEC,,16100434077057,16100434077057,PRO,,LYON 06,ACTIVE,,RUE ROGER DAGUT,0,HP-HC
+48.867108,4.441975,,,MONO ELEC,,14819247370909,14819247370909,PRO,,CHAMROUSSE,ACTIVE,,RUE DE LA MAIRIE,0,Base
+48.859727,2.240053,,,MONO ELEC,,12234587480850,12234587480850,PRO,,LA TRONCHE,RESILIE,,AVE DE LANGRES,0,HP-HC
+48.850308,4.508444,,,MONO ELEC,,17358176529561,17358176529561,PRO,,MERLINES,RESILIE,,PLACE MARECHAL FOCH,0,Base
+48.970725,-3.031575,,,MONO ELEC,,17243415305502,17243415305502,PRO,,MEAULNE,RESILIE,,PCE DU 14 JUILLET,0,HP-HC
+48.887656,2.206505,,,MONO ELEC,,25365991215308,25365991215308,PRO,,LE MANS,ACTIVE,,RUE GROECINUS,0,Base
+45.384468,3.076645,,,MONO ELEC,,19421997033039,19421997033039,PRO,,CORCIEUX,ABANDONNE,,GDE RUE,0,HP-HC
+48.832794,2.300519,,,MONO ELEC,,12468451502444,12468451502444,PRO,,CHAMBERY,ACTIVE,,RUE DE LA REPUBLIQUE,0,Base
+45.473403,2.221444,,,MONO ELEC,,19138205381216,19138205381216,PRO,,CLERMONT L HERAULT,ACTIVE,,RUE CHARLES MONTALAND,0,Base
+48.848054,2.011666,,,MONO ELEC,,19164978096184,19164978096184,PRO,,ST ETIENNE,RESILIE,,AV PAUL SANTY,0,HP-HC
+47.588861,2.287211,,,MONO ELEC,,19413892827971,19413892827971,PRO,,SASSENAGE,RESILIE,,BRD HENRI SENECLAUZE,0,HP-HC
+48.844233,2.28522,,,MONO ELEC,,17370188108461,17370188108461,PRO,,LAGUEPIE,RESILIE,,AV VICTOR HUGO,0,HP-HC
+50.648096,2.287774,,,MONO ELEC,,16261939157763,16261939157763,PRO,,SAIN BEL,ACTIVE,,LE BOURG,0,HP-HC
+48.89769,4.441976,,,MONO ELEC,,19781620807788,19781620807788,PRO,,NANTES,ABANDONNE,,BD GAMBETTA,0,HP-HC
+48.867108,2.240054,,,MONO ELEC,,19810853811408,19810853811408,PRO,,DIJON,ACTIVE,,PLACE DES COMBATTANTS,0,Base
+48.859727,4.508445,,,MONO ELEC,,23329088247530,23329088247530,PRO,,MONTCEAU LES MINES,ACTIVE,,RUE DU FOUR,0,Base
+48.850308,-3.031576,,,MONO ELEC,,25261215567801,25261215567801,PRO,,AURILLAC,RESILIE,,C C BARNEOUD+PLAN CAMPAGNE,0,Base
+48.970725,2.206506,,,MONO ELEC,,25393487588098,25393487588098,PRO,,MEGEVE,RESILIE,,CENTRE COMMERCIAL LA FOUX,0,Base
+48.887656,3.076646,,,MONO ELEC,,16530245998318,16530245998318,PRO,,VILLEURBANNE,RESILIE,,AVENUE DIDIER DAURAT,0,Base
+45.384468,2.300519,,,MONO ELEC,,25297105588670,25297105588670,PRO,,PAU,ACTIVE,,AVE J PREVERT,0,HP-HC
+48.832794,2.221444,,,MONO ELEC,,25193053452558,25193053452558,PRO,,DOUAI,ABANDONNE,,AV WILLIAM BOOTH,0,Base
+45.473403,2.011666,,,MONO ELEC,,12171924715716,12171924715716,PRO,,FOURS,ACTIVE,,RUE DU CHATEAU,0,Base
+48.848054,2.287211,,,MONO ELEC,,12552677260590,12552677260590,PRO,,CHATELUS MALVALEIX,ACTIVE,,RUE BERNARD PALISSY,0,Base
+47.588861,2.28522,,,MONO ELEC,,14642402295204,14642402295204,PRO,,LYON,RESILIE,,BOULEVARD SAINT MARTIN,0,Base
+48.844233,2.287774,,,MONO ELEC,,24380897210153,24380897210153,PRO,,TOULOUSE,RESILIE,,AVE DU MAS ARGELLIERS,0,HP-HC
+50.648096,4.441977,,,MONO ELEC,,25277134453361,25277134453361,PRO,,MONTAIGU,RESILIE,,AV DE BREDASQUE,0,HP-HC
+48.89769,2.240055,,,MONO ELEC,,24592764001645,24592764001645,PRO,,NANTES,ACTIVE,,AV DU DOCTEUR CLAUDE BAILLET,0,HP-HC
+48.867108,4.508446,,,MONO ELEC,,25839797333358,25839797333358,PRO,,BELLEGARDE,ABANDONNE,,CENTRE COMMERCIAL CAP SUD,0,HP-HC
+48.859727,-3.031577,,,MONO ELEC,,19716063609556,19716063609556,PRO,,BESANCON,ACTIVE,,BD ALPES PROVENCE,0,Base
+48.850308,2.206507,,,MONO ELEC,,19817366085380,19817366085380,PRO,,BESANCON,ACTIVE,,RUE VICTOR HUGO,0,Base
+48.970725,3.076647,,,MONO ELEC,,25314037554970,25314037554970,PRO,,TOULOUSE,RESILIE,,AV EUGENE JOLY,0,Base
+48.887656,2.300519,,,MONO ELEC,,12115629467648,12115629467648,PRO,,MONTELIMAR,RESILIE,,RUE DES POILUS D ORIENT,0,Base
+45.384468,2.221444,,,MONO ELEC,,14610709074415,14610709074415,PRO,,CUSY,RESILIE,,ROUTE DE GOUESNOU,0,Base
+48.832794,2.011666,,,MONO ELEC,,12118089691884,12118089691884,PRO,,HABERE POCHE,ACTIVE,,CARREFOUR DU 8 MAI,0,Base
+45.473403,2.287211,,,MONO ELEC,,09737915998205,9737915998205,PRO,,MOUANS SARTOUX,ABANDONNE,,ZAC DES MINIMES,0,HP-HC
+48.848054,2.28522,,,MONO ELEC,,12200868288206,12200868288206,PRO,,TOURVES,ACTIVE,,CTR CIAL GEANT CASINO,0,HP-HC
+47.588861,2.287774,,,MONO ELEC,,24175542687901,24175542687901,PRO,,TOULON,ACTIVE,,RUE LOUIS DAVID,0,Base
+48.844233,4.441978,,,MONO ELEC,,23518813311170,23518813311170,PRO,,LES MATHES,RESILIE,,PLACE DECAZES,0,HP-HC
+50.648096,2.240056,,,MONO ELEC,,25118668525769,25118668525769,PRO,,PERTUIS,RESILIE,,CENTRE COMMERCIAL GRAND V,0,HP-HC
+48.89769,4.508447,,,MONO ELEC,,23182344345022,23182344345022,PRO,,MONTCUQ,RESILIE,,RUE DES USINES,0,Base
+48.867108,-3.031578,,,MONO ELEC,,24178437005255,24178437005255,PRO,,BLAGNAC,ACTIVE,,RTE DE PERPIGNAN,0,Base
+48.859727,2.206508,,,MONO ELEC,,16459334235802,16459334235802,PRO,,BEAULIEU SUR MER,ABANDONNE,,AVENUE DE BAYONNE,0,HP-HC
+48.850308,3.076648,,,MONO ELEC,,23271924738650,23271924738650,PRO,,ISPAGNAC,ACTIVE,,AVENUE DE L EUROPE,0,Base
+48.970725,2.300519,,,MONO ELEC,,25144138816048,25144138816048,PRO,,GENERAC,ACTIVE,,AV DE MAZARGUES,0,Base
+48.887656,2.221444,,,MONO ELEC,,12407091162390,12407091162390,PRO,,TOULOUSE,RESILIE,,AVE HAUSSMANN PROLONGEE,0,HP-HC
+45.384468,2.011666,,,MONO ELEC,,19983067968498,19983067968498,PRO,,CERGY,RESILIE,,BOULEVARD BURDEAU,0,Base
+48.832794,2.287211,,,MONO ELEC,,19484081010241,19484081010241,PRO,,MEXIMIEUX,RESILIE,,RUE FREDERIC MISTRAL,0,Base
+45.473403,2.28522,,,MONO ELEC,,16323154824977,16323154824977,PRO,,TAIN L HERMITAGE,ACTIVE,,A GARDES,0,Base
+48.848054,2.287774,,,MONO ELEC,,16189869680010,16189869680010,PRO,,LYON,ABANDONNE,,AV DE LA TUILERANNE,0,Base
+47.588861,4.441979,,,MONO ELEC,,23112590401909,23112590401909,PRO,,JARNAGES,ACTIVE,,PL BOUILLIERES,0,Base
+48.844233,2.240057,,,MONO ELEC,,22306656914830,22306656914830,PRO,,ANDREZIEUX BOUTHEON,ACTIVE,,CENTRE COMMERCIAL BOISSY 2,0,HP-HC
+50.648096,4.508448,,,MONO ELEC,,23299565813373,23299565813373,PRO,,SOORTS HOSSEGOR,RESILIE,,RUE FRANCISCO GOYA,0,Base
+48.89769,-3.031579,,,MONO ELEC,,25278292233827,25278292233827,PRO,,RIOM,RESILIE,,RTE DE FOS,0,Base
+48.867108,2.206509,,,MONO ELEC,,16550651178468,16550651178468,PRO,,ST PAL DE CHALENCON,RESILIE,,1 RUE DE L'ALLEE,0,Base
+48.859727,3.076649,,,MONO ELEC,,21426049074122,21426049074122,PRO,,LEMPDES SUR ALLAGNON,ACTIVE,,PCE DU GAL LECLERC,0,Base
+48.850308,2.300519,,,MONO ELEC,,25277134453361,25277134453361,PRO,,MAULEON SOULE,ABANDONNE,,AV DE BREDASQUE,,HP-HC
+48.970725,2.221444,,,MONO ELEC,,19421852366908,19421852366908,WEB,,TARDETS SORHOLUS,ACTIVE,CHF_PART,rue de la Cornaz,6,HP-HC
+48.887656,2.011666,,,MONO ELEC,,07438494906560,7438494906560,WEB,,DEAUVILLE,ACTIVE,CHF_PART,rue plumet,3,HP-HC
+45.384468,2.287211,,,MONO ELEC,,07318523855611,7318523855611,WEB,,DIJON,RESILIE,CHF_PART,Rue Ducouëdic,13,Base
+48.832794,2.28522,,,MONO ELEC,,07313024525573,7313024525573,WEB,,PARIS,RESILIE,PMES_PART,rue Jeanne d Arc,54,Base
+45.473403,2.287774,,,MONO ELEC,,07502894301072,7502894301072,WEB,,BOURDEAUX,RESILIE,CHF_PART,Boulevard Berthier,162,Base
+48.848054,4.441980,,,MONO ELEC,,21382344422317,21382344422317,WEB,,ANTIBES,ACTIVE,CHF_PART,rue du capitaine Ferber,7,HP-HC
+47.588861,2.240058,,,MONO ELEC,,25271490528603,25271490528603,WEB,,ANNECY,ABANDONNE,CHF_PART,IMP DU VIEUX MURIER,12,Base
+48.844233,4.508449,,,MONO ELEC,,07586975353265,7586975353265,WEB,,CHAZAY D AZERGUES,ACTIVE,MES_PART,Rue Veron,36,Base
+50.648096,-3.031580,,,MONO ELEC,,19846888499361,19846888499361,WEB,,CHAMROUSSE,ACTIVE,CHF_PART,Rue Dormand,12,HP-HC
+48.89769,2.206510,,,MONO ELEC,,07427496343297,7427496343297,WEB,,MORESTEL,RESILIE,CHF_PART,Passage de l'industrie,3,Base
+48.867108,3.076650,,,MONO ELEC,,07396816157124,7396816157124,WEB,,CALUIRE ET CUIRE,RESILIE,CHF_PART,Boulevard Edgard Quinet,12,HP-HC
+48.859727,2.300519,,,MONO ELEC,,07282054965307,7282054965307,WEB,,LYON,RESILIE,PMES_PART,rue du FG Saint Antoine,71,Base
+48.850308,2.221444,,,MONO ELEC,,07390303834540,7390303834540,WEB,,LYON,ACTIVE,CHF_PART,Rue du Cherche Midi,4 TER,HP-HC
+48.970725,2.011666,,,MONO ELEC,,22458755381558,22458755381558,WEB,,COLLONGES AU MONT D OR,ABANDONNE,CHF_PART,Brd Strasbourg,25,Base
+48.887656,2.287211,,,MONO ELEC,,82070,82070,WEB,,LYON,ACTIVE,MES_PART,rue verver,2,Base
+45.384468,2.28522,,,MONO ELEC,,21423010060145,21423010060145,WEB,,LYON 05,ACTIVE,CHF_PART,AV ANDRE MORIZET,119,Base
+48.832794,2.287774,,,MONO ELEC,,21398263351399,21398263351399,WEB,,LYON,RESILIE,CHF_PART,Avenue Sainte Marie,6,Base
+45.473403,4.441981,,,MONO ELEC,,07119102727866,7119102727866,WEB,,RETOURNAC,RESILIE,CHF_PART,rue du FG Saint Antoine,71,HP-HC
+48.848054,2.240059,,,MONO ELEC,,07594645343844,7594645343844,WEB,,MUROL,RESILIE,CHF_PART,Passage Roux,12,Base
+47.588861,4.508450,,,DUAL,,21509117144629,21509117144629,WEB,,ST GERMAIN L HERM,ACTIVE,CHF_PART,Rue Rennequin,29,HP-HC
+48.844233,-3.031581,,,MONO ELEC,,07267727844363,7267727844363,WEB,,LE MONT DORE,ABANDONNE,CHF_PART,Passage Rauch,2,Base
+50.648096,2.206511,,,MONO ELEC,,25368306698486,25368306698486,WEB,,LEZOUX,ACTIVE,CHF_PART,Qua Les Caneoux,0,Base
+48.89769,3.076651,,,MONO ELEC,,07472358850513,7472358850513,WEB,,BAGNERES DE BIGORRE,ACTIVE,CHF_PART,rue Blomet,50,HP-HC
+48.867108,2.300519,,,MONO ELEC,,19818668589099,19818668589099,WEB,,CORDON,RESILIE,CHF_PART,Chemin de Sauliere,6,Base
+48.859727,2.221444,,,MONO ELEC,,07117221417052,7117221417052,WEB,,PORTET SUR GARONNE,RESILIE,CHF_PART,RUE JEAN BAPTISTE PIGALLE,47,HP-HC
+48.850308,2.011666,,,MONO ELEC,,21174384912848,21174384912848,WEB,,BALLAINVILLIERS,RESILIE,CHF_PART,Rue de Vergennes,44,HP-HC
+48.970725,2.287211,,,MONO ELEC,,22403617873157,22403617873157,WEB,,LA ROCHETTE,ACTIVE,CHF_PART,RUE SAINT HILAIRE,43,Base
+48.887656,2.28522,,,MONO ELEC,,24249059262060,24249059262060,WEB,,FRESNES,ABANDONNE,MES_PART,Impasse Camp Del Clots,7,HP-HC
+45.384468,2.287774,,,MONO ELEC,,19418234380860,19418234380860,WEB,,ST LEU LA FORET,ACTIVE,CHF_PART,LEYMIEUX,,HP-HC
+48.832794,4.441982,,,DUAL,,22314905867757,22314905867757,WEB,,MEULAN EN YVELINES,ACTIVE,CHF_PART,Rue Dunant,5,Base
+45.473403,2.240060,,,MONO ELEC,,07222720636748,7222720636748,WEB,,ST MAURICE DE GOURDANS,RESILIE,CHF_PART,RUE JEAN MACE,18,HP-HC
+48.848054,4.508451,,,MONO ELEC,,07293487657510,7293487657510,WEB,,VILLEFRANCHE SUR SAONE,RESILIE,CHF_PART,VILLA STENDHAL,11,Base
+47.588861,-3.031582,,,MONO ELEC,,19847033241924,19847033241924,WEB,,LE COTEAU,RESILIE,CHF_PART,168 Chemin des EquidEs,,HP-HC
+48.844233,2.206512,,,MONO ELEC,,19164254556065,19164254556065,WEB,,ROMANS SUR ISERE,ACTIVE,CHF_PART,Rue Du 8 Mai 1945,78b,Base
+50.648096,3.076652,,,MONO ELEC,,16198118575680,16198118575680,WEB,,LEVALLOIS PERRET,ABANDONNE,CHF_PART,RUE DU 14 JUILLET,214,HP-HC
+48.89769,2.300519,,,MONO ELEC,,07554269155394,7554269155394,WEB,,ROANNE,ACTIVE,CHF_PART,RUE LEGENDRE,38,HP-HC
+48.867108,2.221444,,,MONO ELEC,,01499710457550,1499710457550,WEB,,SEZANNE,ACTIVE,CHF_PART,AllEe du 3Eme GEnie - Appt B26,75,HP-HC
+48.859727,2.011666,,,MONO ELEC,,01606367500623,1606367500623,WEB,,AY CHAMPAGNE,RESILIE,CHF_PART,RUE DE LA PLAINE,3,HP-HC
+48.850308,2.287211,,,MONO ELEC,,07248769845424,7248769845424,WEB,,MOY DE L AISNE,RESILIE,CHF_PART,rue traversiere,40,HP-HC
+48.970725,2.28522,,,MONO ELEC,,25698789652369,25698789652369,WEB,,ARQUES LA BATAILLE,RESILIE,CHF_PART,sdsq,25,Base
+48.887656,2.287774,,,MONO ELEC,,22222222222222,22222222222222,WEB,,ANTIBES,ACTIVE,CHF_PART,dsd,25,Base
+45.384468,4.441983,,,MONO ELEC,,21434298048849,21434298048849,WEB,,L ISLE SUR LA SORGUE,ABANDONNE,CHF_PART,AV Georges Pompidou,6,HP-HC
+48.832794,2.240061,,,MONO ELEC,,21416497807000,21416497807000,WEB,,TOULON,ACTIVE,MES_PART,rue des 4 cheminEes,19,HP-HC
+45.473403,4.508452,,,MONO ELEC,,25820115667742,25820115667742,WEB,,CALLIAN,ACTIVE,CHF_PART,Bis Route de Châteauneuf du Pape,932,Base
+48.848054,-3.031583,,,MONO ELEC,,22222222222222,22222222222222,WEB,,AIX EN PROVENCE,RESILIE,CHF_PART,rrr,25,Base
+47.588861,2.206513,,,MONO ELEC,,22222222222222,22222222222222,WEB,,AIX EN PROVENCE,RESILIE,CHF_PART,test,25,Base
+48.844233,3.076653,,,MONO ELEC,,12345678901234,12345678901234,WEB,,ROQUEVAIRE,RESILIE,CHF_PART,rue camille Corot,5,Base
+50.648096,2.300519,,,MONO ELEC,,96044,96044,WEB,,MARSEILLE,ACTIVE,MES_PART,Rue Du 8 Mai 1945,78b,Base
+48.89769,2.221444,,,MONO ELEC,,12387687678612,12387687678612,WEB,,LEUCATE,ABANDONNE,MES_PART,RUE,12bis,Base
+48.867108,2.011666,,,MONO ELEC,,09264785927589,9264785927589,WEB,,ST BEAT,ACTIVE,PMES_PART,B RUE ROUELLE,44,Base
+48.859727,2.287211,,,MONO ELEC,,11111111111111,11111111111111,WEB,,EYGUIERES,ACTIVE,CHF_PART,RUE DU CAPITAINE FERBER,7,Base
+48.850308,2.28522,,,MONO ELEC,,09864774839923,9864774839923,WEB,,NICE,RESILIE,CHF_PART,B RUE ROUELLE,44,Base
+48.970725,2.287774,,,MONO ELEC,,47326784632784,47326784632784,WEB,,TOULON,RESILIE,CHF_PART,RUE BAPST,8,HP-HC
+48.887656,4.441984,,,MONO ELEC,,07419970990680,7419970990680,WEB,,TONNEINS,RESILIE,CHF_PART,Rue du Docteur Vuillieme,3,Base
+45.384468,2.240062,,,MONO ELEC,,08484848476466,8484848476466,WEB,,BORDEAUX,ACTIVE,CHF_PART,LOURMEL,44ter,Base
+48.832794,4.508453,,,MONO ELEC,,11111111111111,11111111111111,WEB,,NANTES,ABANDONNE,MES_PART,RUE DU CAPITAINE FERBER,7,Base
+45.473403,-3.031584,,,MONO ELEC,,12345678991234,12345678991234,WEB,,ENTRAINS SUR NOHAIN,ACTIVE,CHF_PART,rue Cambronne,44,Base
+48.848054,2.206514,,,MONO ELEC,,07543125865705,7543125865705,WEB,,L ISLE SUR SEREIN,ACTIVE,CHF_PART,RUE DE CONSTANTINOPLE,5,Base
+47.588861,3.076654,,,MONO ELEC,,09438784359279,9438784359279,WEB,,ST SEINE L ABBAYE,RESILIE,PMES_PART,Boulevard Berthier,162,HP-HC
+48.844233,2.300519,,,MONO ELEC,,07476266266659,7476266266659,WEB,,POLIGNY,RESILIE,CHF_PART,avenue de la Bourdonnais,64,HP-HC
+50.648096,2.221444,,,MONO ELEC,,83883495050060,83883495050060,WEB,,COLOMBIER FONTAINE,RESILIE,CHF_PART,LOURMEL,44,Base
+48.89769,2.011666,,,MONO ELEC,,84847575758585,84847575758585,WEB,,DIGOIN,ACTIVE,CHF_PART,VILOET,44,Base
+48.867108,2.287211,,,MONO ELEC,,11111111111111,11111111111111,WEB,,MARCILLY LE HAYER,ABANDONNE,MES_PART,EI,12,Base
+48.859727,2.28522,,,MONO ELEC,,04995858767757,4995858767757,WEB,,ST CLAIR SUR L ELLE,ACTIVE,PMES_PART,PLACE DU MARCHE,55,Base
+48.850308,2.287774,,,MONO ELEC,,03884848577575,3884848577575,WEB,,VIC LE COMTE,ACTIVE,CHF_PART,VIOLETTES,55,Base
+48.970725,4.441985,,,MONO ELEC,,93398447575756,93398447575756,WEB,,ARTHEZ DE BEARN,RESILIE,CHF_PART,B RUE ROUELLE,44,Base
+48.887656,2.240063,,,MONO ELEC,,43676482634786,43676482634786,WEB,,DIJON,RESILIE,CHF_PART,RUE BUGEAUD,5,Base
+45.384468,4.508454,,,MONO ELEC,,11111111111111,11111111111111,WEB,,AIX EN PROVENCE,RESILIE,MES_PART,EE,12,Base
+48.832794,-3.031585,,,MONO ELEC,,21188277796344,21188277796344,WEB,,TREFFORT CUISIAT,ACTIVE,CHF_PART,RUE CAMILLE COROT,5,Base
+45.473403,2.206515,,,MONO ELEC,,07448914614171,7448914614171,WEB,,ST GENEST LERPT,ABANDONNE,CHF_PART,rue de cambronne,44,Base
+48.848054,3.076655,,,MONO ELEC,,09700564307714,9700564307714,WEB,,HOUILLES,ACTIVE,CHF_PART,RUE DES ROUELLES,44bis,Base
+47.588861,2.300519,,,MONO ELEC,,32612778172266,32612778172266,WEB,,THORIGNY SUR MARNE,ACTIVE,CHF_PART,RUE DES PRES SAINT MARTIN,61,Base
+48.844233,2.221444,,,MONO ELEC,,32612778172266,32612778172266,WEB,,MAUVEZIN,RESILIE,MES_PART,rue des près saint martin,64,Base
+50.648096,2.011666,,,MONO ELEC,,09700708987299,9700708987299,WEB,,LANSLEVILLARD,RESILIE,MES_PART,RUE VIOLETTE,44bis,Base
+48.89769,2.287211,,,MONO ELEC,,07448914614171,7448914614171,WEB,,MILLERY,RESILIE,MES_PART,RUE TEST VF,44ter,Base
+48.867108,2.28522,,,MONO ELEC,,21382344422317,21382344422317,WEB,,MEAUDRE,ACTIVE,CHF_PART,rue des pres saint martin,12,HP-HC
+48.859727,2.287774,,,MONO ELEC,,06572648334172,6572648334172,WEB,,MONTLUCON,ABANDONNE,CHF_PART,route nationale,60,HP-HC
+48.850308,4.441986,,,MONO ELEC,,14652098397783,14652098397783,WEB,,MARSAC EN LIVRADOIS,ACTIVE,CHF_PART,rue du Guilvinec,36,Base
+48.970725,2.240064,,,MONO ELEC,,06538494915235,6538494915235,WEB,,LOURDES,ACTIVE,CHF_PART,Grande Rue,2,Base
+48.887656,4.508455,,,MONO ELEC,,07494790125589,7494790125589,WEB,,MACAU,RESILIE,CHF_PART,rue,184,Base
+45.384468,-3.031586,,,MONO ELEC,,0970070898882,970070898882,WEB,,ROMANS SUR ISERE,RESILIE,MES_PART,rue des pres saint,3,HP-HC
+48.832794,2.206516,,,MONO ELEC,,25955571610210,25955571610210,WEB,,BEAUFORT SUR DORON,RESILIE,CHF_PART,Boulevard de la Tavernière, , Domaine  du Cap Vert,397, Appt 84,HP-HC
+45.473403,3.076656,,,MONO ELEC,,19556584621399,19556584621399,WEB,,MONNETIER MORNEX,ACTIVE,CHF_PART,Chemin de Peraille,8,HP-HC
+48.848054,2.300519,,,MONO ELEC,,09458176531930,9458176531930,WEB,,ST GERVAIS LES BAINS,ABANDONNE,CHF_PART,Rue Des Comtesses,25,HP-HC
+47.588861,2.221444,,,MONO ELEC,,30000721179188,30000721179188,WEB,,POISY,ACTIVE,CHF_PART,RUE DE WATTIGNIES,60,Base
+48.844233,2.011666,,,MONO ELEC,,19802460132648,19802460132648,WEB,,CRAPONNE,ACTIVE,CHF_PART,Le Bourg,,HP-HC
+50.648096,2.287211,,,MONO ELEC,,25279160629421,25279160629421,WEB,,ROYBON,RESILIE,CHF_PART,avenue alexandre phillip,14,HP-HC
+48.89769,2.28522,,,MONO ELEC,,25102315411304,25102315411304,WEB,,CHENERAILLES,RESILIE,CHF_PART,boulevard de la Cooperation,14,HP-HC
+48.867108,2.287774,,,MONO ELEC,,25159623587696,25159623587696,WEB,,ST VALERIEN,RESILIE,CHF_PART,avenue Corot,24,HP-HC
+48.859727,4.441987,,,MONO ELEC,,12170766987414,12170766987414,WEB,,PARIS 11,ACTIVE,CHF_PART,RUE DES CAPUCINES,7,Base
+48.850308,2.240065,,,MONO ELEC,,25393342952612,25393342952612,WEB,,ANGRESSE,ABANDONNE,MES_PART,Boulevard GEnEral Leclerc, rEsidence la Caravelle.,42,HP-HC
+48.970725,4.508456,,,MONO ELEC,,14258176351603,14258176351603,WEB,,ANGLET,ACTIVE,CHF_PART,Route de la Grand'Ville,19 quater,Base
+48.887656,-3.031587,,,MONO ELEC,,23263241631944,23263241631944,WEB,,DIJON,ACTIVE,CHF_PART,residence georges brassens,14,Base
+45.384468,2.206517,,,MONO ELEC,,24132995655025,24132995655025,WEB,,AMIENS,RESILIE,MES_PART,rue de Verdun,19,HP-HC
+48.832794,3.076657,,,MONO ELEC,,06558610682820,6558610682820,WEB,,MERLIMONT,RESILIE,CHF_PART,RUE ANTIBE JANVIER,6,Base
+45.473403,2.300519,,,MONO ELEC,,05239942095988,5239942095988,WEB,,LILLE,RESILIE,MES_PART,RUE LEVY ALPHANDERY,89bis,Base
+48.848054,2.221444,,,MONO ELEC,,25996526742546,25996526742546,WEB,,SAINTES MARIES DE LA MER,ACTIVE,CHF_PART,Avenue de Cannes,55,HP-HC
+47.588861,2.011666,,,MONO ELEC,,25378436985962,25378436985962,WEB,,VILLEFRANCHE SUR MER,ABANDONNE,CHF_PART,MontEe de Costebelle,47,HP-HC
+48.844233,2.287211,,,MONO ELEC,,06320549909302,6320549909302,WEB,,VARENNES CHANGY,ACTIVE,CHF_PART,Grand Rue,70,Base
+50.648096,2.28522,,,MONO ELEC,,24323588892691,24323588892691,WEB,,BURZET,ACTIVE,CHF_PART,Rue du Pont de laverune,121,HP-HC
+48.89769,2.287774,,,MONO ELEC,,25142836358202,25142836358202,WEB,,LAPALUD,RESILIE,CHF_PART,IMPASSE DE LA FRESCOULE,18,Base
+48.867108,4.441988,,,MONO ELEC,,25181476114670,25181476114670,WEB,,LA TRINITE SUR MER,RESILIE,CHF_PART,BOULEVARD BELLEVUE DE LA BARASSE,26,HP-HC
+48.859727,2.240066,,,MONO ELEC,,15591461595869,15591461595869,WEB,,ST CLOUD,RESILIE,CHF_PART,boulevard de la Corderie,5 bis,Base
+48.850308,4.508457,,,MONO ELEC,,09305788680442,9305788680442,WEB,,LA MADELEINE,ACTIVE,CHF_PART,Boulevard Robert d'Arbrissel,11,Base
+48.970725,-3.031588,,,MONO ELEC,,21148046205534,21148046205534,WEB,,CLICHY,ABANDONNE,CHF_PART,allEe jeanne de gondi,11,Base
+48.887656,2.206518,,,MONO ELEC,,15533719239065,15533719239065,WEB,,SURESNES,ACTIVE,PMES_PART,RUE ARISTIDE BRIAND,87,Base
+45.384468,3.076658,,,MONO ELEC,,14396816207304,14396816207304,WEB,,ST NOM LA BRETECHE,ACTIVE,CHF_PART,Rue des Traponnieres,11,Base
+48.832794,2.300519,,,MONO ELEC,,09391750994680,9391750994680,WEB,,PARIS 15,RESILIE,CHF_PART,Allees Georges Pompidou,12,HP-HC
+45.473403,2.221444,,,MONO ELEC,,07493632374725,7493632374725,WEB,,ST GRATIEN,RESILIE,MES_PART,Rue Brançion,68,Base
+48.848054,2.011666,,,MONO ELEC,,07232272025801,7232272025801,WEB,,LEVALLOIS PERRET,RESILIE,CHF_PART,Rue riblette,17,Base
+47.588861,2.287211,,,MONO ELEC,,19171635126999,19171635126999,WEB,,PLANFOY,ACTIVE,CHF_PART,rue Jacqueline Auriol,14,Base
+48.844233,2.28522,,,MONO ELEC,,19171635126999,19171635126999,WEB,,BOULOGNE BILLANCOURT,ABANDONNE,,rue Jacqueline Auriol,14,Base
+50.648096,2.287774,,,MONO ELEC,,21376989780000,21376989780000,WEB,,ST CHAMOND,ACTIVE,CHF_PART,VIOLETTES,55,Base
+48.89769,4.441989,,,MONO ELEC,,16462662745515,16462662745515,WEB,,VINCENNES,ACTIVE,CHF_PART,Avenue Pasteur,17,HP-HC
+48.867108,2.240067,,,MONO ELEC,,09396381984286,9396381984286,WEB,,PLANFOY,RESILIE,CHF_PART,rue KlEber,22,Base
+48.859727,4.508458,,,MONO ELEC,,19469464486389,19469464486389,WEB,,PARIS 15,RESILIE,CHF_PART,rue des colombes,36,Base
+48.850308,-3.031589,,,MONO ELEC,,01151519449398,1151519449398,WEB,,VEYRIER DU LAC,RESILIE,MES_PART,Rue du Fresnoy,91,Base
+48.970725,2.206519,,,MONO ELEC,,22242691701982,22242691701982,WEB,,CAGNES SUR MER,ACTIVE,CHF_PART,allEe massenet,8,Base
+48.887656,3.076659,,,MONO ELEC,,01188277781948,1188277781948,WEB,,BRON,ABANDONNE,CHF_PART,RUE VICTOR HUGO,19,HP-HC
+45.384468,2.300519,,,MONO ELEC,,09344717741483,9344717741483,WEB,,MONTPELLIER,ACTIVE,CHF_PART,Rue Esnault Dufresne,8,Base
+48.832794,2.221444,,,MONO ELEC,,19817655447522,19817655447522,WEB,,MARSAC EN LIVRADOIS,ACTIVE,MES_PART,RUE DE L'HELIANTHE,9bis,HP-HC
+45.473403,2.011666,,,MONO ELEC,,09345007177007,9345007177007,WEB,,VALLON PONT D ARC,RESILIE,CHF_PART,Rue Esnault Dufresne,8,Base
+48.848054,2.287211,,,MONO ELEC,,23207959432204,23207959432204,WEB,,ST SYMPHORIEN SUR COISE,RESILIE,MES_PART,Chemin saint Antoine,34,Base
+47.588861,2.28522,,,MONO ELEC,,16157018730669,16157018730669,WEB,,VAUGNERAY,RESILIE,CHF_PART,chemin de Matalin,13,Base
+48.844233,2.287774,,,MONO ELEC,,25334298064601,25334298064601,WEB,,VILLEFRANCHE DE PANAT,ACTIVE,CHF_PART,avenue des pins,17,HP-HC
+50.648096,4.441990,,,MONO ELEC,,24304196691820,24304196691820,WEB,,TOULOUSE,ABANDONNE,CHF_PART,Rue du Cinsault,5,HP-HC
+48.89769,2.240068,,,MONO ELEC,,16123878371309,16123878371309,WEB,,AMBES,ACTIVE,CHF_PART,Avenue BrEmontier,8,Base
+48.867108,4.508459,,,MONO ELEC,,16315629503009,16315629503009,WEB,,ST MALO,ACTIVE,CHF_PART,rue antoine de st exupEry,46,HP-HC
+48.859727,-3.031590,,,MONO ELEC,,16137337182696,16137337182696,WEB,,MONTPELLIER,RESILIE,CHF_PART,Rue de la Constellation,25,HP-HC
+48.850308,2.206520,,,MONO ELEC,,22265412381650,22265412381650,WEB,,NANTES,RESILIE,CHF_PART,Rue des Processions,14,HP-HC
+48.970725,3.076660,,,MONO ELEC,,25275253182130,25275253182130,WEB,,LE TOUQUET PARIS PLAGE,RESILIE,CHF_PART,Rue du Poisson au Gue,59,Base
+48.887656,2.300519,,,MONO ELEC,,25380028850880,25380028850880,WEB,,NOYANT D ALLIER,ACTIVE,MES_PART,rue Mozart,5,Base
+45.384468,2.221444,,,MONO ELEC,,14880463023503,14880463023503,WEB,,CERBERE,ABANDONNE,CHF_PART,rue de kervenanec,57b,Base
+48.832794,2.011666,,,MONO ELEC,,14887409528561,14887409528561,WEB,,NEUVECELLE,ACTIVE,CHF_PART,impasse de quEhellio,4,HP-HC
+45.473403,2.287211,,,MONO ELEC,,07172648297473,7172648297473,WEB,,VOREPPE,ACTIVE,CHF_PART,Rue château Landon,37,HP-HC
+48.848054,2.28522,,,MONO ELEC,,25170622284999,25170622284999,WEB,,LYON 06,RESILIE,CHF_PART,avenue de la Timone - Bâtiment A,58 bis,HP-HC
+47.588861,2.287774,,,MONO ELEC,,06592908820848,6592908820848,WEB,,CHAMROUSSE,RESILIE,MES_PART,place de la ComEdie,97,HP-HC
+48.844233,4.441991,,,MONO ELEC,,16594790123269,16594790123269,WEB,,LA TRONCHE,RESILIE,CHF_PART,Rue du Chateau,10,Base
+50.648096,2.240069,,,MONO ELEC,,19540231503198,19540231503198,WEB,,MERLINES,ACTIVE,CHF_PART,rue Hector Berlioz,32,HP-HC
+48.89769,4.508460,,,MONO ELEC,,01185238635758,1185238635758,WEB,,MEAULNE,ABANDONNE,CHF_PART,Rue Nain,48,HP-HC
+48.867108,-3.031591,,,MONO ELEC,,25343849338551,25343849338551,WEB,,LE MANS,ACTIVE,CHF_PART,rue Armand Metz,217,HP-HC
+48.859727,2.206521,,,MONO ELEC,,16570766991707,16570766991707,WEB,,CORCIEUX,ACTIVE,MES_PART,rue Gaston Phoebus,3,Base
+48.850308,3.076661,,,MONO ELEC,,23597539772955,23597539772955,WEB,,CHAMBERY,RESILIE,CHF_PART,Boulevard de la Capelle,16,Base
+48.970725,2.300519,,,MONO ELEC,,25206078132306,25206078132306,WEB,,CLERMONT L HERAULT,RESILIE,CHF_PART,AllEe des ecureuils, quartier le collet rond,10,Base
+48.887656,2.221444,,,MONO ELEC,,23164688816491,23164688816491,WEB,,ST ETIENNE,RESILIE,CHF_PART,Avenue du Puivert,1,HP-HC
+45.384468,2.011666,,,MONO ELEC,,19757163524028,19757163524028,WEB,,SASSENAGE,ACTIVE,CHF_PART,Chemin de la Combe de Vaux,230,Base
+48.832794,2.287211,,,MONO ELEC,,24369030221690,24369030221690,WEB,,LAGUEPIE,ABANDONNE,MES_PART,rue des FElibres,19,Base
+45.473403,2.28522,,,MONO ELEC,,24352387833192,24352387833192,WEB,,SAIN BEL,ACTIVE,CHF_PART,rue Agricol Viala,3,Base
+48.848054,2.287774,,,MONO ELEC,,19657018742586,19657018742586,WEB,,NANTES,ACTIVE,CHF_PART,rue joseph pillet,10A,Base
+47.588861,4.441992,,,MONO ELEC,,16170043296331,16170043296331,WEB,,DIJON,RESILIE,MES_PART,RUE CONRAD GAUSSENS,94,HP-HC
+48.844233,2.240070,,,MONO ELEC,,04514327041797,4514327041797,WEB,,MONTCEAU LES MINES,RESILIE,CHF_PART,ChaussEe du vouldy,4,Base
+50.648096,4.508461,,,MONO ELEC,,12103473218307,12103473218307,WEB,,AURILLAC,RESILIE,MES_PART,rue jean jaures,68,Base
+48.89769,-3.031592,,,MONO ELEC,,21333140326797,21333140326797,WEB,,MEGEVE,ACTIVE,MES_PART,Rue du Docteur Vuillieme,3,Base
+48.867108,2.206522,,,MONO ELEC,,06592040496582,6592040496582,WEB,,VILLEURBANNE,ABANDONNE,CHF_PART,Route de Petit Noir,13,HP-HC
+48.859727,3.076662,,,MONO ELEC,,09775542615044,9775542615044,WEB,,PAU,ACTIVE,CHF_PART,Rue Fleury,12,HP-HC
+48.850308,2.300519,,,MONO ELEC,,12533285089294,12533285089294,WEB,,DOUAI,ACTIVE,CHF_PART,Rue Paul Bert,1,HP-HC
+48.970725,2.221444,,,MONO ELEC,,1968726,1968726,WEB,,FOURS,RESILIE,CHF_PART,Chemin du Moulin,39,HP-HC
+48.887656,2.011666,,,MONO ELEC,,25319247306013,25319247306013,WEB,,CHATELUS MALVALEIX,RESILIE,CHF_PART,Chemin des Collieres,1450,HP-HC
+45.384468,2.287211,,,MONO ELEC,,24173806021622,24173806021622,WEB,,LYON,RESILIE,MES_PART,chemin Jean Pomier,74,HP-HC
+48.832794,2.28522,,,MONO ELEC,,23261794476899,23261794476899,WEB,,TOULOUSE,ACTIVE,CHF_PART,Rue des Lavandières,2,HP-HC
+45.473403,2.287774,,,MONO ELEC,,15434298099686,15434298099686,WEB,,MONTAIGU,ABANDONNE,CHF_PART,AllEe d'Aigne,4,HP-HC
+48.848054,4.441993,,,MONO ELEC,,07387698915991,7387698915991,WEB,,NANTES,ACTIVE,CHF_PART,Rue des Hautes Formes,6,Base
+47.588861,2.240071,,,MONO ELEC,,17146020260449,17146020260449,WEB,,BELLEGARDE,ACTIVE,CHF_PART,Route de reignat,8,HP-HC
+48.844233,4.508462,,,MONO ELEC,,19896092505934,19896092505934,WEB,,BESANCON,RESILIE,CHF_PART,Rue centrale,4,HP-HC
+50.648096,-3.031593,,,MONO ELEC,,12213892848127,12213892848127,WEB,,BESANCON,RESILIE,CHF_PART,rue des FElizots,26,Base
+48.89769,2.206523,,,DUAL,,19783936301808,19783936301808,WEB,,TOULOUSE,RESILIE,CHF_PART,rue maurice chevalier,40,Base
+48.867108,3.076663,,,MONO ELEC,,25243125865693,25243125865693,WEB,,MONTELIMAR,ACTIVE,CHF_PART,Avenue du Captitaine de Corvette Paul Brutus,2940,HP-HC
+48.859727,2.300519,,,MONO ELEC,,06531259012032,6531259012032,WEB,,CUSY,ABANDONNE,MES_PART,Rue de Dole,24,Base
+48.850308,2.221444,,,MONO ELEC,,14635455782300,14635455782300,WEB,,HABERE POCHE,ACTIVE,CHF_PART,RUE DES AIGRETTES,26,HP-HC
+48.970725,2.011666,,,MONO ELEC,,07384659908075,7384659908075,WEB,,MOUANS SARTOUX,ACTIVE,CHF_PART,rue des gobbelins,15ter,HP-HC
+48.887656,2.287211,,,MONO ELEC,,17528364665753,17528364665753,WEB,,TOURVES,RESILIE,CHF_PART,Lieu Dit,PAV,Base
+45.384468,2.28522,,,MONO ELEC,,01618379157218,1618379157218,WEB,,TOULON,RESILIE,CHF_PART,ALLEE DES TILLEULS,20,Base
+48.832794,2.287774,,,MONO ELEC,,19861649707869,19861649707869,WEB,,LES MATHES,RESILIE,CHF_PART,Impasse de la mairie,17,Base
+45.473403,4.441994,,,MONO ELEC,,06531259012032,6531259012032,WEB,,PERTUIS,ACTIVE,,Rue de Dole,24,Base
+48.848054,2.240072,,,MONO ELEC,,19421273481747,19421273481747,PRO,,MONTCUQ,ABANDONNE,,AVE DU GENERAL DE GAULLE,0,HP-HC
+47.588861,4.508463,,,MONO ELEC,,06525180803513,6525180803513,WEB,,BLAGNAC,ACTIVE,CHF_PART,rue du chenassard,4A,HP-HC
+48.844233,-3.031594,,,MONO ELEC,,25458176530602,25458176530602,WEB,,BEAULIEU SUR MER,ACTIVE,CHF_PART,avenue du castel,154,HP-HC
+50.648096,2.206524,,,DUAL,,05603762599434,5603762599434,WEB,,ISPAGNAC,RESILIE,CHF_PART,RUE JOAN MIRO,14,Base
+48.89769,3.076664,,,MONO ELEC,,24560636720764,24560636720764,WEB,,GENERAC,RESILIE,CHF_PART,boulevard talabot,5,HP-HC
+48.867108,2.300519,,,MONO ELEC,,25203762590785,25203762590785,WEB,,TOULOUSE,RESILIE,CHF_PART,Rue de la Verdière,4,Base
+48.859727,2.221444,,,MONO ELEC,,21473371842699,21473371842699,WEB,,CERGY,ACTIVE,CHF_PART,Rue de la Paix,5,Base
+48.850308,2.011666,,,MONO ELEC,,19531114210595,19531114210595,WEB,,MEXIMIEUX,ABANDONNE,CHF_PART,Allee des Champs Carteron,10,HP-HC
+48.970725,2.287211,,,MONO ELEC,,24194645433294,24194645433294,PRO,,TAIN L HERMITAGE,ACTIVE,,Rue de la Sagne,1,Base
+48.887656,2.28522,,,MONO ELEC,,19421273481747,19421273481747,PRO,,LYON,ACTIVE,,Place du Griffon,7,HP-HC
+45.384468,2.287774,,,MONO ELEC,,16348480426270,16348480426270,WEB,,JARNAGES,RESILIE,CHF_PART,Vidau,Vdau,HP-HC
+48.832794,4.441995,,,MONO ELEC,,22220115771265,22220115771265,WEB,,ANDREZIEUX BOUTHEON,RESILIE,CHF_PART,AllEe des charmes,32,Base
+45.473403,2.240073,,,MONO ELEC,,22235889983668,22235889983668,WEB,,SOORTS HOSSEGOR,RESILIE,CHF_PART,les hameaux de seine,7,Base
+48.848054,4.508464,,,MONO ELEC,,24193198204057,24193198204057,WEB,,RIOM,ACTIVE,CHF_PART,rue du chêne,2,HP-HC
+47.588861,-3.031595,,,MONO ELEC,,14703617923225,14703617923225,WEB,,ST PAL DE CHALENCON,ABANDONNE,CHF_PART,allEe du prEsident wilson,6,HP-HC
+48.844233,2.206525,,,MONO ELEC,,07525759749401,7525759749401,WEB,,LEMPDES SUR ALLAGNON,ACTIVE,CHF_PART,RUE LABAT,36,Base
+50.648096,3.076665,,,MONO ELEC,,12414761167900,12414761167900,WEB,,MAULEON SOULE,ACTIVE,CHF_PART,A rue du Bois,3,HP-HC
+48.89769,2.300519,,,MONO ELEC,,12173227155124,12173227155124,WEB,,TARDETS SORHOLUS,RESILIE,MES_PART,rue guillaume apollinaire,23,Base
+48.867108,2.221444,,,MONO ELEC,,16151953578906,16151953578906,WEB,,DEAUVILLE,RESILIE,MES_PART,Route de Gauriaguet,8,HP-HC
+48.859727,2.011666,,,MONO ELEC,,21323299524933,21323299524933,WEB,,DIJON,RESILIE,CHF_PART,RUE CLAUDE LIARD,14,Base
+48.850308,2.287211,,,MONO ELEC,,16188277742253,16188277742253,WEB,,PARIS,ACTIVE,CHF_PART,Rue de la Ville,30,HP-HC
+48.970725,2.28522,,,MONO ELEC,,24310708972798,24310708972798,WEB,,BOURDEAUX,ABANDONNE,CHF_PART,Rue de la citadelle,11,HP-HC
+48.887656,2.287774,,,MONO ELEC,,21585528080822,21585528080822,WEB,,ANTIBES,ACTIVE,PMES_PART,OLYMPE DE GOUGES,14,Base
+45.384468,4.441996,,,MONO ELEC,,07465991230595,7465991230595,WEB,,ANNECY,ACTIVE,MES_PART,Rue Labrouste,68,Base
+48.832794,2.240074,,,MONO ELEC,,24526917473968,24526917473968,WEB,,CHAZAY D AZERGUES,RESILIE,CHF_PART,galerie george sand,57,Base
+45.473403,4.508465,,,MONO ELEC,,23236034657809,23236034657809,WEB,,CHAMROUSSE,RESILIE,CHF_PART,rue de l'Autan,3,HP-HC
+48.848054,-3.031596,,,MONO ELEC,,22260781415457,22260781415457,WEB,,MORESTEL,RESILIE,PMES_PART,Rue du Chateau d'Eau,11,Base
+47.588861,2.206526,,,MONO ELEC,,19325615031581,19325615031581,WEB,,CALUIRE ET CUIRE,ACTIVE,CHF_PART,Chemin Des Bouchards,,HP-HC
+48.844233,3.076666,,,MONO ELEC,,25409261928727,25409261928727,WEB,,LYON,ABANDONNE,CHF_PART,Allee de la Tour de la Madonne,34,HP-HC
+50.648096,2.300519,,,MONO ELEC,,21585817516439,21585817516439,WEB,,LYON,ACTIVE,PMES_PART,RUE OLYMPE DE GOUGES,14,HP-HC
+48.89769,2.221444,,,DUAL,,03142822621642,3142822621642,WEB,,COLLONGES AU MONT D OR,ACTIVE,MES_PART,AllEe du petit bois,17,HP-HC
+48.867108,2.011666,,,MONO ELEC,,25368451488802,25368451488802,WEB,,LYON,RESILIE,CHF_PART,rue Eugene Berre,6,HP-HC
+48.859727,2.287211,,,MONO ELEC,,24597829224344,24597829224344,WEB,,LYON 05,RESILIE,MES_PART,RUE DE VIELE,32,HP-HC
+48.850308,2.28522,,,DUAL,,03142822621642,3142822621642,WEB,,LYON,RESILIE,MES_PART,AllEe du petit bois,17,HP-HC
+48.970725,2.287774,,,MONO ELEC,,06516063621827,6516063621827,WEB,,RETOURNAC,ACTIVE,CHF_PART,avenue d'Offenbourg,125,Base
+48.887656,4.441997,,,MONO ELEC,,25600868306887,25600868306887,WEB,,MUROL,ABANDONNE,CHF_PART,La CEbière,8,HP-HC
+45.384468,2.240075,,,MONO ELEC,,24302604889615,24302604889615,WEB,,ST GERMAIN L HERM,ACTIVE,CHF_PART,rue mairan,4bis,HP-HC
+48.832794,4.508466,,,MONO ELEC,,24371779904570,24371779904570,WEB,,LE MONT DORE,ACTIVE,CHF_PART,Rue du cabernet,11,HP-HC
+45.473403,-3.031597,,,MONO ELEC,,19923733652338,19923733652338,WEB,,LEZOUX,RESILIE,CHF_PART,Rue du Jeu de Boules,3,HP-HC
+48.848054,2.206527,,,MONO ELEC,,25125036072829,25125036072829,WEB,,BAGNERES DE BIGORRE,RESILIE,CHF_PART,Rue Rabutin Chantal,9,Base
+47.588861,3.076667,,,MONO ELEC,,19310419621043,19310419621043,WEB,,CORDON,RESILIE,CHF_PART,Rue Sous La Ville,59,Base
+48.844233,2.300519,,,MONO ELEC,,02457018803345,2457018803345,WEB,,PORTET SUR GARONNE,ACTIVE,CHF_PART, rue du stade,2,HP-HC
+50.648096,2.221444,,,MONO ELEC,,25700000252033,25700000252033,WEB,,BALLAINVILLIERS,ABANDONNE,CHF_PART,chemin des vignes,0,HP-HC
+48.89769,2.011666,,,MONO ELEC,,25612011556566,25612011556566,WEB,,LA ROCHETTE,ACTIVE,CHF_PART,Avenue Jean Moulin,7,Base
+48.867108,2.287211,,,MONO ELEC,,22222865406686,22222865406686,WEB,,FRESNES,ACTIVE,CHF_PART,Rue frederic Henri Manhes,3,HP-HC
+48.859727,2.28522,,,MONO ELEC,,06512011570740,6512011570740,WEB,,ST LEU LA FORET,RESILIE,CHF_PART,grande rue,14,HP-HC
+48.850308,2.287774,,,MONO ELEC,,19969030308107,19969030308107,WEB,,MEULAN EN YVELINES,RESILIE,CHF_PART,ROUTE DE FRANS,635,HP-HC
+48.970725,4.441998,,,MONO ELEC,,25417800235611,25417800235611,WEB,,ST MAURICE DE GOURDANS,RESILIE,CHF_PART,Avenue de la serre,23,Base
+48.887656,2.240076,,,MONO ELEC,,06579739486440,6579739486440,WEB,,VILLEFRANCHE SUR SAONE,ACTIVE,CHF_PART,route de scey sur saone,2,HP-HC
+45.384468,4.508467,,,MONO ELEC,,05204341533141,5204341533141,WEB,,LE COTEAU,ABANDONNE,MES_PART,Grande Rue,7,Base
+48.832794,-3.031598,,,MONO ELEC,,03032299177221,3032299177221,WEB,,ROMANS SUR ISERE,ACTIVE,CHF_PART,chemin le plaisir,919,HP-HC
+45.473403,2.206528,,,MONO ELEC,,23137481853748,23137481853748,WEB,,LEVALLOIS PERRET,ACTIVE,CHF_PART,Rue Maurice Fonvieille,24,HP-HC
+48.848054,3.076668,,,MONO ELEC,,19755571623798,19755571623798,WEB,,ROANNE,RESILIE,CHF_PART,Rue de Peyrus,15 b,HP-HC
+47.588861,2.300519,,,MONO ELEC,,25371056272761,25371056272761,WEB,,SEZANNE,RESILIE,CHF_PART,lotissement le patriarche,6,HP-HC
+48.844233,2.221444,,,MONO ELEC,,25966425442135,25966425442135,WEB,,AY CHAMPAGNE,RESILIE,CHF_PART,Avenue Louise,9,HP-HC
+50.648096,2.011666,,,MONO ELEC,,12249348723204,12249348723204,WEB,,MOY DE L AISNE,ACTIVE,CHF_PART,rue Haute,10,HP-HC
+48.89769,2.287211,,,MONO ELEC,,19192185155939,19192185155939,WEB,,ARQUES LA BATAILLE,ABANDONNE,CHF_PART,Rue des Teinturiers,9,HP-HC
+48.867108,2.28522,,,MONO ELEC,,24152098369442,24152098369442,WEB,,ANTIBES,ACTIVE,CHF_PART,AV FREDERIC MISTRAL,4,HP-HC
+48.859727,2.287774,,,MONO ELEC,,19818379123032,19818379123032,WEB,,L ISLE SUR LA SORGUE,ACTIVE,CHF_PART,Avenue du GEnEral De Gaulle,29,HP-HC
+48.850308,4.441999,,,MONO ELEC,,25448914544299,25448914544299,WEB,,TOULON,RESILIE,CHF_PART,Avenue Bel Air,500,Base
+48.970725,2.240077,,,MONO ELEC,,25352098340888,25352098340888,WEB,,CALLIAN,RESILIE,CHF_PART,Avenue de la Gare,121,HP-HC
+48.887656,4.508468,,,MONO ELEC,,19957887040298,19957887040298,WEB,,AIX EN PROVENCE,RESILIE,CHF_PART,Lotissement les prairies du tacot,111,HP-HC
+45.384468,-3.031599,,,MONO ELEC,,09397395078065,9397395078065,WEB,,AIX EN PROVENCE,ACTIVE,CHF_PART,AllEe des tourterelles,3,Base
+48.832794,2.206529,,,MONO ELEC,,19777568737522,19777568737522,WEB,,ROQUEVAIRE,ABANDONNE,CHF_PART,rue saint ruf,6,Base
+45.473403,3.076669,,,MONO ELEC,,19497105578880,19497105578880,WEB,,MARSEILLE,ACTIVE,CHF_PART,chemin des pieux,204,HP-HC
+48.848054,2.300519,,,MONO ELEC,,12278871164007,12278871164007,WEB,,LEUCATE,ACTIVE,CHF_PART,Louis Blanc,23,HP-HC
+47.588861,2.221444,,,MONO ELEC,,21376989781900,21376989781900,WEB,,ST BEAT,RESILIE,CHF_PART,Avenue Aristide Briand,230,HP-HC
+48.844233,2.011666,,,MONO ELEC,,19807814730650,19807814730650,WEB,,EYGUIERES,RESILIE,CHF_PART,ROUTE DE BELLEGARDE,39,HP-HC
+50.648096,2.287211,,,MONO ELEC,,05230390716753,5230390716753,WEB,,NICE,RESILIE,CHF_PART,place decres,9,HP-HC
+48.89769,2.28522,,,MONO ELEC,,21252821966854,21252821966854,WEB,,TOULON,ACTIVE,CHF_PART,quai de l'arquebuse,19,HP-HC
+48.867108,2.287774,,,MONO ELEC,,23125180741304,23125180741304,WEB,,TONNEINS,ABANDONNE,PMES_PART,rue de la Promenade,15,HP-HC
+48.859727,4.442000,,,MONO ELEC,,25896381990472,25896381990472,WEB,,BORDEAUX,ACTIVE,CHF_PART,traverse des genets,323,HP-HC
+48.850308,2.240078,,,MONO ELEC,,25637626607174,25637626607174,WEB,,NANTES,ACTIVE,CHF_PART,Chemin du Lac,,HP-HC
+48.970725,4.508469,,,MONO ELEC,,25392329891789,25392329891789,WEB,,ENTRAINS SUR NOHAIN,RESILIE,CHF_PART,Route des Escales,1077,HP-HC
+48.887656,-3.031600,,,MONO ELEC,,17528943544520,17528943544520,WEB,,L ISLE SUR SEREIN,RESILIE,CHF_PART,Rue de la Chataigneraie,5,Base
+45.384468,2.206530,,,MONO ELEC,,105753,105753,WEB,,ST SEINE L ABBAYE,RESILIE,CHF_PART,Rue Adalbert de Baerenfels,8,Base
+48.832794,3.076670,,,MONO ELEC,,24367148890894,24367148890894,WEB,,POLIGNY,ACTIVE,CHF_PART,Chemin Rural 129,180,HP-HC
+45.473403,2.300519,,,MONO ELEC,,25220405152656,25220405152656,WEB,,COLOMBIER FONTAINE,ABANDONNE,CHF_PART,CHEMIN DE LA BARQUE,226,Base
+48.848054,2.221444,,,MONO ELEC,,17120694533340,17120694533340,WEB,,DIGOIN,ACTIVE,CHF_PART,rue BEAUSOLEIL,66,Base
+47.588861,2.011666,,,MONO ELEC,,19566570061886,19566570061886,WEB,,MARCILLY LE HAYER,ACTIVE,CHF_PART,avenue de la Gare,48,Base
+48.844233,2.287211,,,MONO ELEC,,23269609242959,23269609242959,WEB,,ST CLAIR SUR L ELLE,RESILIE,CHF_PART,Avenue mal lattre de tassigny,86,HP-HC
+50.648096,2.28522,,,MONO ELEC,,01526338542139,1526338542139,WEB,,VIC LE COMTE,RESILIE,PMES_PART,Avenue Saint-ExupEry,2,Base
+48.89769,2.287774,,,MONO ELEC,,14629232987333,14629232987333,WEB,,ARTHEZ DE BEARN,RESILIE,MES_PART,Boulevard de Coataudon,204,HP-HC
+48.867108,4.442001,,,MONO ELEC,,21452966665145,21452966665145,WEB,,DIJON,ACTIVE,CHF_PART,Rue Marcel AymE,1,HP-HC
+48.859727,2.240079,,,MONO ELEC,,22405788694385,22405788694385,WEB,,AIX EN PROVENCE,ABANDONNE,MES_PART,Boulevard du Mont d'Est,21,HP-HC
+48.850308,4.508470,,,MONO ELEC,,25380752403209,25380752403209,WEB,,TREFFORT CUISIAT,ACTIVE,CHF_PART,Impasse des Etourneaux,0,HP-HC
+48.970725,-3.031601,,,MONO ELEC,,16304775676332,16304775676332,WEB,,ST GENEST LERPT,ACTIVE,CHF_PART,rue paul gerard,55,HP-HC
+48.887656,2.206531,,,MONO ELEC,,19486541170672,19486541170672,WEB,,HOUILLES,RESILIE,CHF_PART,lotissement les Fontaines,4A,Base
+45.384468,3.076671,,,MONO ELEC,,25868017291367,25868017291367,WEB,,THORIGNY SUR MARNE,RESILIE,CHF_PART,chemin du mas d'Isoard,0,HP-HC
+48.832794,2.300519,,,MONO ELEC,,24390303793696,24390303793696,WEB,,MAUVEZIN,RESILIE,CHF_PART,Allee de la massane,31,HP-HC
+45.473403,2.221444,,,MONO ELEC,,23252821933132,23252821933132,WEB,,LANSLEVILLARD,ACTIVE,CHF_PART,RUE JUSTIN DE SELVES,6,HP-HC
+48.848054,2.011666,,,MONO ELEC,,25264833565978,25264833565978,WEB,,MILLERY,ABANDONNE,CHF_PART,RUE DES MICOCOULIERS,2,HP-HC
+47.588861,2.287211,,,MONO ELEC,,09587988418667,9587988418667,WEB,,MEAUDRE,ACTIVE,MES_PART,Rue Pierre Semard,72,HP-HC
+48.844233,2.28522,,,MONO ELEC,,16259768440129,16259768440129,WEB,,MONTLUCON,ACTIVE,CHF_PART,Le Fond du Cros,0,HP-HC
+50.648096,2.287774,,,MONO ELEC,,23303328466896,23303328466896,WEB,,MARSAC EN LIVRADOIS,RESILIE,CHF_PART,Paubert,0,HP-HC
+48.89769,4.442002,,,MONO ELEC,,22195513661505,22195513661505,WEB,,LOURDES,RESILIE,CHF_PART,Rue des Javelottes,9,HP-HC
+48.867108,2.240080,,,MONO ELEC,,12414761185687,12414761185687,WEB,,MACAU,RESILIE,CHF_PART,rue de perrigny,18,HP-HC
+48.859727,4.508471,,,MONO ELEC,,17965557152388,17965557152388,WEB,,ROMANS SUR ISERE,ACTIVE,PMES_PART,rue Jean Jaurès,2,Base
+48.850308,-3.031602,,,MONO ELEC,,22325325542086,22325325542086,WEB,,BEAUFORT SUR DORON,ABANDONNE,MES_PART,Bld Hippolyte Marques,65,Base
+48.970725,2.206532,,,MONO ELEC,,24214327007260,24214327007260,WEB,,MONNETIER MORNEX,ACTIVE,CHF_PART,rue jean de noguer,28,HP-HC
+48.887656,3.076672,,,MONO ELEC,,66811010535624,66811010535624,WEB,,ST GERVAIS LES BAINS,ACTIVE,CHF_PART,rue aspirant jan,41,HP-HC
+45.384468,2.300519,,,MONO ELEC,,19149348569725,19149348569725,WEB,,POISY,RESILIE,CHF_PART,Avenue charles de gaulle,130,HP-HC
+48.832794,2.221444,,,MONO ELEC,,25175253176270,25175253176270,WEB,,CRAPONNE,RESILIE,CHF_PART,bd de la barasse,10,Base
+45.473403,2.011666,,,MONO ELEC,,25877279300370,25877279300370,WEB,,ROYBON,RESILIE,MES_PART,Rue de la levade,17,HP-HC
+48.848054,2.287211,,,MONO ELEC,,12476845126389,12476845126389,WEB,,CHENERAILLES,ACTIVE,CHF_PART,Rue Joubert,19,HP-HC
+47.588861,2.28522,,,MONO ELEC,,23349638155432,23349638155432,WEB,,ST VALERIEN,ABANDONNE,MES_PART,rue de l eglise,5bis,Base
+48.844233,2.287774,,,MONO ELEC,,19783936266998,19783936266998,WEB,,PARIS 11,ACTIVE,CHF_PART,Rue Danton,26,Base
+50.648096,4.442003,,,MONO ELEC,,24385962282330,24385962282330,WEB,,ANGRESSE,ACTIVE,MES_PART,Avenue de Beziers,35,HP-HC
+48.89769,2.240081,,,DUAL,,25244717790520,25244717790520,WEB,,ANGLET,RESILIE,CHF_PART,rue d'Hanoi,3,Base
+48.867108,4.508472,,,MONO ELEC,,25268740826436,25268740826436,WEB,,DIJON,RESILIE,CHF_PART,AVENUE DES FORTUNES,36,HP-HC
+48.859727,-3.031603,,,MONO ELEC,,97217,97217,WEB,,AMIENS,RESILIE,MES_PART,Place Felix Guerard,4,HP-HC
+48.850308,2.206533,,,MONO ELEC,,07568017295623,7568017295623,WEB,,MERLIMONT,ACTIVE,MES_PART,rue de Clignancourt,20,Base
+48.970725,3.076673,,,MONO ELEC,,25644717784771,25644717784771,WEB,,LILLE,ABANDONNE,CHF_PART,Rue JEAN MACE,2bis,Base
+48.887656,2.300519,,,MONO ELEC,,15459768400206,15459768400206,WEB,,SAINTES MARIES DE LA MER,ACTIVE,CHF_PART,Rue Vieille Rose,5,HP-HC
+45.384468,2.221444,,,MONO ELEC,,01612445685040,1612445685040,WEB,,VILLEFRANCHE SUR MER,ACTIVE,CHF_PART,rue de la justice,14,Base
+48.832794,2.011666,,,MONO ELEC,,19323444268797,19323444268797,WEB,,VARENNES CHANGY,RESILIE,CHF_PART,Chemin de l'Adret,29,HP-HC
+45.473403,2.287211,,,MONO ELEC,,09590738043580,9590738043580,WEB,,BURZET,RESILIE,CHF_PART,Rue Jeanne d arc,29,Base
+48.848054,2.28522,,,MONO ELEC,,23241533953351,23241533953351,WEB,,LAPALUD,RESILIE,CHF_PART,square des bleuets,3,HP-HC
+47.588861,2.287774,,,MONO ELEC,,12412879881689,12412879881689,WEB,,LA TRINITE SUR MER,ACTIVE,CHF_PART,route nationale 6,8,HP-HC
+48.844233,4.442004,,,MONO ELEC,,07550651157875,7550651157875,WEB,,ST CLOUD,ABANDONNE,CHF_PART,Rue Dautancourt,26,Base
+50.648096,2.240082,,,MONO ELEC,,00004312675491,4312675491,WEB,,LA MADELEINE,ACTIVE,CHF_PART,cours de la Liberation,43,Base
+48.89769,4.508473,,,MONO ELEC,,05170043372062,5170043372062,WEB,,CLICHY,ACTIVE,MES_PART,Avenue Sainte Anne,17,HP-HC
+48.867108,-3.031604,,,MONO ELEC,,25394211259574,25394211259574,WEB,,SURESNES,RESILIE,CHF_PART,Avenue Victorin Segond,26,Base
+48.859727,2.206534,,,MONO ELEC,,19373950786584,19373950786584,WEB,,ST NOM LA BRETECHE,RESILIE,CHF_PART,AllEe des Erables,180,Base
+48.850308,3.076674,,,MONO ELEC,,25365701761681,25365701761681,WEB,,PARIS 15,RESILIE,CHF_PART,Rue de l'Argence,379,Base
+48.970725,2.300519,,,MONO ELEC,,16541244547442,16541244547442,WEB,,ST GRATIEN,ACTIVE,MES_PART,avenue de montardon,11,HP-HC
+48.887656,2.221444,,,MONO ELEC,,07136179440470,7136179440470,WEB,,LEVALLOIS PERRET,ABANDONNE,CHF_PART,rue Clauzel,21,HP-HC
+45.384468,2.011666,,,MONO ELEC,,06539942059211,6539942059211,WEB,,PLANFOY,ACTIVE,CHF_PART,Rue des Loups,2,Base
+48.832794,2.287211,,,MONO ELEC,,23582489092110,23582489092110,WEB,,BOULOGNE BILLANCOURT,ACTIVE,CHF_PART,Rue de Cerons,20,HP-HC
+45.473403,2.28522,,,MONO ELEC,,25438639542315,25438639542315,WEB,,ST CHAMOND,RESILIE,CHF_PART,Rue Chabrier,5,Base
+48.848054,2.287774,,,MONO ELEC,,16199710554648,16199710554648,WEB,,VINCENNES,RESILIE,CHF_PART,Route De Revel,189,HP-HC
+47.588861,4.442005,,,MONO ELEC,,24560781441884,24560781441884,WEB,,PLANFOY,RESILIE,CHF_PART,rue de la poujade,6,Base
+48.844233,2.240083,,,MONO ELEC,,24172069426938,24172069426938,WEB,,PARIS 15,ACTIVE,CHF_PART,Rue Mazagran,106,HP-HC
+50.648096,4.508474,,,MONO ELEC,,06513458660579,6513458660579,WEB,,VEYRIER DU LAC,ABANDONNE,CHF_PART,rue de la louvière,6bis,HP-HC
+48.89769,-3.031605,,,MONO ELEC,,19324602019371,19324602019371,WEB,,CAGNES SUR MER,ACTIVE,CHF_PART,Mail Marcel Cachin,4 bis,Base
+48.867108,2.206535,,,MONO ELEC,,17938350192113,17938350192113,WEB,,BRON,ACTIVE,CHF_PART,Le Bourg,0,HP-HC
+48.859727,3.076675,,,MONO ELEC,,23264109926060,23264109926060,WEB,,MONTPELLIER,RESILIE,PMES_PART,avenue du sidobre,32,Base
+48.850308,2.300519,,,MONO ELEC,,25831693132301,25831693132301,WEB,,MARSAC EN LIVRADOIS,RESILIE,CHF_PART,Chemin de la croix blanche,150,HP-HC
+48.970725,2.221444,,,MONO ELEC,,24341534007379,24341534007379,WEB,,VALLON PONT D ARC,RESILIE,CHF_PART,Rue Chico mendes,55,HP-HC
+48.887656,2.011666,,,MONO ELEC,,16301447143703,16301447143703,WEB,,ST SYMPHORIEN SUR COISE,ACTIVE,CHF_PART,fenaud,0,HP-HC
+45.384468,2.287211,,,MONO ELEC,,21424891333790,21424891333790,WEB,,VAUGNERAY,ABANDONNE,MES_PART,Boulevard Bineau,95,HP-HC
+48.832794,2.28522,,,MONO ELEC,,25447467338770,25447467338770,WEB,,VILLEFRANCHE DE PANAT,ACTIVE,MES_PART,rue de Chateauneuf,15bis,Base
+45.473403,2.287774,,,MONO ELEC,,17117221379127,17117221379127,WEB,,TOULOUSE,ACTIVE,MES_PART,route des granges,8,HP-HC
+48.848054,4.442006,,,MONO ELEC,,25281041840941,25281041840941,WEB,,AMBES,RESILIE,CHF_PART,rue Federico Garcia Lorca,95,HP-HC
+47.588861,2.240084,,,MONO ELEC,,17937771320985,17937771320985,WEB,,ST MALO,RESILIE,CHF_PART,Le Bourg,0,Base
+48.844233,4.508475,,,MONO ELEC,,17537192454599,17537192454599,WEB,,MONTPELLIER,RESILIE,CHF_PART,rue du Prince,10,Base
+50.648096,-3.031606,,,MONO ELEC,,23166425365288,23166425365288,WEB,,NANTES,ACTIVE,MES_PART,chemin canto laouzetto,57,Base
+48.89769,2.206536,,,MONO ELEC,,16110130206267,16110130206267,WEB,,LE TOUQUET PARIS PLAGE,ABANDONNE,CHF_PART,rue du pErigord,19,HP-HC
+48.867108,3.076676,,,MONO ELEC,,07414616396385,7414616396385,WEB,,NOYANT D ALLIER,ACTIVE,MES_PART,boulevard Marbeau,32,Base
+48.859727,2.300519,,,MONO ELEC,,24302460168950,24302460168950,WEB,,CERBERE,ACTIVE,MES_PART,Place Alphonse Laveran,97,HP-HC
+48.850308,2.221444,,,MONO ELEC,,05207814728179,5207814728179,WEB,,NEUVECELLE,RESILIE,CHF_PART,cour du chateau,2,Base
+48.970725,2.011666,,,MONO ELEC,,24305788673131,24305788673131,WEB,,VOREPPE,RESILIE,PMES_PART,Boulevard frederic mistral,70,Base
+48.887656,2.287211,,,MONO ELEC,,22176700375486,22176700375486,WEB,,LYON 06,RESILIE,CHF_PART,grande rue,15,HP-HC
+45.384468,2.28522,,,MONO ELEC,,25123878284448,25123878284448,WEB,,CHAMROUSSE,ACTIVE,PMES_PART,Place de L'Archange,1,HP-HC
+48.832794,2.287774,,,MONO ELEC,,12466136027225,12466136027225,WEB,,LA TRONCHE,ABANDONNE,CHF_PART,rue de l'Yonne,33bis,HP-HC
+45.473403,4.442007,,,MONO ELEC,,24547177893267,24547177893267,WEB,,MERLINES,ACTIVE,CHF_PART,Rue des Chênes,11 Bis,HP-HC
+48.848054,2.240085,,,MONO ELEC,,16390014433698,16390014433698,WEB,,MEAULNE,ACTIVE,MES_PART,rue roger tarenque,3,HP-HC
+47.588861,4.508476,,,MONO ELEC,,25331693170219,25331693170219,WEB,,LE MANS,RESILIE,CHF_PART,Rue Beaussier,4 Bis,Base
+48.844233,-3.031607,,,MONO ELEC,,06488856655420,6488856655420,WEB,,CORCIEUX,RESILIE,MES_PART,Place du Souvenir,5,HP-HC
+50.648096,2.206537,,,MONO ELEC,,25107814652790,25107814652790,WEB,,CHAMBERY,RESILIE,CHF_PART,Avenue du Marechal Ney,5,HP-HC
+48.89769,3.076677,,,MONO ELEC,,25345441304054,25345441304054,WEB,,CLERMONT L HERAULT,ACTIVE,CHF_PART,Rue Beaussier,4 Bis,HP-HC
+48.867108,2.300519,,,MONO ELEC,,12473371881306,12473371881306,WEB,,ST ETIENNE,ABANDONNE,CHF_PART,Route de Chablis,9,HP-HC
+48.859727,2.221444,,,MONO ELEC,,19370188044013,19370188044013,WEB,,SASSENAGE,ACTIVE,CHF_PART,Rue du priou,8,Base
+48.850308,2.011666,,,MONO ELEC,,06527785772916,6527785772916,WEB,,LAGUEPIE,ACTIVE,CHF_PART,place du bourg de Merlia,6,Base
+48.970725,2.287211,,,MONO ELEC,,25342257561129,25342257561129,WEB,,SAIN BEL,RESILIE,CHF_PART,rue Bonnefoy,6,HP-HC
+48.887656,2.28522,,,MONO ELEC,,21196816112910,21196816112910,WEB,,NANTES,RESILIE,MES_PART,rue de la Cocanne,22,Base
+45.384468,2.287774,,,MONO ELEC,,12229522346680,12229522346680,WEB,,DIJON,RESILIE,MES_PART,Rue Christian Marvillet,5,Base
+48.832794,4.442008,,,MONO ELEC,,25290738036931,25290738036931,WEB,,MONTCEAU LES MINES,ACTIVE,CHF_PART,Chemin de Fardeloup,36,Base
+45.473403,2.240086,,,MONO ELEC,,21509117144629,21509117144629,WEB,,AURILLAC,ABANDONNE,CHF_PART,rue du passage,12,HP-HC
+48.848054,4.508477,,,MONO ELEC,,21342691661480,21342691661480,WEB,,MEGEVE,ACTIVE,CHF_PART,RUE CHARON,44,Base
+47.588861,-3.031608,,,MONO ELEC,,16369609235200,16369609235200,WEB,,VILLEURBANNE,ACTIVE,CHF_PART,Impasse Gabriel Voisin,10bis,HP-HC
+48.844233,2.206538,,,MONO ELEC,,24577423991557,24577423991557,WEB,,PAU,RESILIE,CHF_PART,Impasse d'Encombe,18,HP-HC
+50.648096,3.076678,,,MONO ELEC,,24388133138152,24388133138152,WEB,,DOUAI,RESILIE,CHF_PART,Impasse Pierre Esprit Seguier,10,Base
+48.89769,2.300519,,,MONO ELEC,,19324891423241,19324891423241,WEB,,FOURS,RESILIE,CHF_PART,Avenue Jules Vallès,13,Base
+48.867108,2.221444,,,MONO ELEC,,16377134549105,16377134549105,WEB,,CHATELUS MALVALEIX,ACTIVE,CHF_PART,Place Marechal leclerc,8,HP-HC
+48.859727,2.011666,,,MONO ELEC,,24283791590771,24283791590771,WEB,,LYON,ABANDONNE,PMES_PART,rue Alexandre Ribot,4,Base
+48.850308,2.287211,,,MONO ELEC,,25333429740908,25333429740908,WEB,,TOULOUSE,ACTIVE,CHF_PART,HLM LE COLLET,6,HP-HC
+48.970725,2.28522,,,MONO ELEC,,25165701736592,25165701736592,WEB,,MONTAIGU,ACTIVE,MES_PART,Avenue du merlan,171,Base
+48.887656,2.287774,,,MONO ELEC,,25808538242890,25808538242890,WEB,,NANTES,RESILIE,PMES_PART,Avenue de Montmajour,12bis,Base
+45.384468,4.442009,,,MONO ELEC,,16591172117092,16591172117092,WEB,,BELLEGARDE,RESILIE,PMES_PART,allEe de la verderie,1,HP-HC
+48.832794,2.240087,,,MONO ELEC,,01163820389305,1163820389305,WEB,,BESANCON,RESILIE,MES_PART,Rue Moliere,1,Base
+45.473403,4.508478,,,MONO ELEC,,19925470322598,19925470322598,WEB,,BESANCON,ACTIVE,MES_PART,Rue des Lebes,,Base
+48.848054,-3.031609,,,MONO ELEC,,14834876959754,14834876959754,WEB,,TOULOUSE,ABANDONNE,CHF_PART,Rue des Paturages,39,Base
+47.588861,2.206539,,,MONO ELEC,,19760347311276,19760347311276,WEB,,MONTELIMAR,ACTIVE,MES_PART,Avenue HElène de Tournon,15,Base
+48.844233,3.076679,,,MONO ELEC,,07297684504011,7297684504011,WEB,,CUSY,ACTIVE,CHF_PART,CITE DU LABYRINTHE,11,HP-HC
+50.648096,2.300519,,,MONO ELEC,,16149348597629,16149348597629,WEB,,HABERE POCHE,RESILIE,MES_PART,rue Bernard Palissy,48,HP-HC
+48.89769,2.221444,,,MONO ELEC,,17703907364891,17703907364891,WEB,,MOUANS SARTOUX,RESILIE,MES_PART,Rue Jean Gabin,16,HP-HC
+48.867108,2.011666,,,MONO ELEC,,23287554142933,23287554142933,WEB,,TOURVES,RESILIE,CHF_PART,Chemin des GAMOTS,148,HP-HC
+48.859727,2.287211,,,MONO ELEC,,24394356005342,24394356005342,WEB,,TOULON,ACTIVE,CHF_PART,passage David Belugou,4,HP-HC
+48.850308,2.28522,,,MONO ELEC,,16462662711777,16462662711777,WEB,,LES MATHES,ABANDONNE,CHF_PART,route de l'observatoire,15,HP-HC
+48.970725,2.287774,,,MONO ELEC,,25114616354101,25114616354101,WEB,,PERTUIS,ACTIVE,CHF_PART,Rue paul prEboist,21,HP-HC
+48.887656,4.442010,,,MONO ELEC,,14725759737360,14725759737360,WEB,,MONTCUQ,ACTIVE,CHF_PART,Rue de la Tour d'Auvergne,57,HP-HC
+45.384468,2.240088,,,MONO ELEC,,14624457261331,14624457261331,WEB,,BLAGNAC,RESILIE,CHF_PART,Rue de la REpublique,103 r,HP-HC
+48.832794,4.508479,,,MONO ELEC,,24341678617426,24341678617426,WEB,,BEAULIEU SUR MER,RESILIE,CHF_PART,RUE LOUIS ARAGON,191,Base
+45.473403,-3.031610,,,MONO ELEC,,24269753892849,24269753892849,WEB,,ISPAGNAC,RESILIE,MES_PART,Chemin des Estanyols,,HP-HC
+48.848054,2.206540,,,MONO ELEC,,23308972457990,23308972457990,WEB,,GENERAC,ACTIVE,MES_PART,Rue des Vielles,1,Base
+47.588861,3.076680,,,MONO ELEC,,01625180809907,1625180809907,WEB,,TOULOUSE,ABANDONNE,PMES_PART,rue du stade,6bis,HP-HC
+48.844233,2.300519,,,MONO ELEC,,25232995649827,25232995649827,WEB,,CERGY,ACTIVE,CHF_PART,COURS DE LA REPUBLIQUE,6,HP-HC
+50.648096,2.221444,,,MONO ELEC,,01147756871709,1147756871709,WEB,,MEXIMIEUX,ACTIVE,CHF_PART,BD DE CAMBRAI,47,Base
+48.89769,2.011666,,,MONO ELEC,,19487409545001,19487409545001,WEB,,TAIN L HERMITAGE,RESILIE,MES_PART,Avenue de Verdun,10,HP-HC
+48.867108,2.287211,,,MONO ELEC,,16132561494140,16132561494140,WEB,,LYON,RESILIE,MES_PART,Rue du Jardin Public,57,HP-HC
+48.859727,2.28522,,,MONO ELEC,,25386685848446,25386685848446,WEB,,JARNAGES,RESILIE,CHF_PART,Chemin de la Peirouard,603,HP-HC
+48.850308,2.287774,,,MONO ELEC,,23237916031656,23237916031656,WEB,,ANDREZIEUX BOUTHEON,ACTIVE,MES_PART,Avenue de Castres,106,HP-HC
+48.970725,4.442011,,,MONO ELEC,,19745586081724,19745586081724,WEB,,SOORTS HOSSEGOR,ABANDONNE,CHF_PART,route de lEouzEe,549,Base
+48.887656,2.240089,,,MONO ELEC,,21504486113840,21504486113840,WEB,,RIOM,ACTIVE,CHF_PART,rue bapst,8,Base
+45.384468,4.508480,,,MONO ELEC,,24108827717103,24108827717103,WEB,,ST PAL DE CHALENCON,ACTIVE,PMES_PART,Chemin des Sources,9TER,Base
+48.832794,-3.031611,,,MONO ELEC,,23197250209367,23197250209367,WEB,,LEMPDES SUR ALLAGNON,RESILIE,PMES_PART,rue des Chevreuils,11,Base
+45.473403,2.206541,,,MONO ELEC,,14479884090470,14479884090470,WEB,,MAULEON SOULE,RESILIE,MES_PART,rue de rennes,15,HP-HC
+48.848054,3.076681,,,MONO ELEC,,21504486113841,21504486113841,WEB,,TARDETS SORHOLUS,RESILIE,CHF_PART,Rue Garanciere,10,HP-HC
+47.588861,2.300519,,,MONO ELEC,,25249927533336,25249927533336,WEB,,DEAUVILLE,ACTIVE,CHF_PART,Chemin des Espigau,186,Base
+48.844233,2.221444,,,MONO ELEC,,17503907335009,17503907335009,WEB,,DIJON,ABANDONNE,MES_PART,place Latreille,4,Base
+50.648096,2.011666,,,MONO ELEC,,16130680148107,16130680148107,WEB,,PARIS,ACTIVE,MES_PART,allEe Jeanty d'Armagnac,11,Base
+48.89769,2.287211,,,MONO ELEC,,07307670025518,7307670025518,WEB,,BOURDEAUX,ACTIVE,MES_PART,Rue Antoine Bourdelle,9,Base
+48.867108,2.28522,,,MONO ELEC,,24369464463669,24369464463669,WEB,,ANTIBES,RESILIE,CHF_PART,Rue Erick Satie,1,Base
+48.859727,2.287774,,,MONO ELEC,,22431548346798,22431548346798,WEB,,ANNECY,RESILIE,MES_PART,Rue DEsirE Preaux,84bis,Base
+48.850308,4.442012,,,MONO ELEC,,21504486113849,21504486113849,WEB,,CHAZAY D AZERGUES,RESILIE,CHF_PART,Rue Bapst,8,Base
+48.970725,2.240090,,,MONO ELEC,,07422431244137,7422431244137,WEB,,CHAMROUSSE,ACTIVE,CHF_PART,Boulevard Exelmans,29,HP-HC
+48.887656,4.508481,,,MONO ELEC,,14242981047376,14242981047376,WEB,,MORESTEL,ABANDONNE,CHF_PART,Rue Suzanne Lacore,5,Base
+45.384468,-3.031612,,,MONO ELEC,,19852387718104,19852387718104,WEB,,CALUIRE ET CUIRE,ACTIVE,PMES_PART,ROUTE DE LA VARIZELLE,31bis,HP-HC
+48.832794,2.206542,,,MONO ELEC,,16427930477748,16427930477748,WEB,,LYON,ACTIVE,MES_PART,chemin de Marsaou,36,HP-HC
+45.473403,3.076682,,,MONO ELEC,,23264254671706,23264254671706,WEB,,LYON,RESILIE,CHF_PART,Rue Edouard Branly,88,HP-HC
+48.848054,2.300519,,,MONO ELEC,,23276700357789,23276700357789,WEB,,COLLONGES AU MONT D OR,RESILIE,MES_PART,Cours Verdun,15,Base
+47.588861,2.221444,,,MONO ELEC,,24367727889677,24367727889677,WEB,,LYON,RESILIE,CHF_PART,Rue des Pourpiers,18,HP-HC
+48.844233,2.011666,,,MONO ELEC,,24319970896182,24319970896182,WEB,,LYON 05,ACTIVE,CHF_PART,Rue Alexandre Cabanel,22,HP-HC
+50.648096,2.287211,,,MONO ELEC,,14837626613472,14837626613472,WEB,,LYON,ABANDONNE,CHF_PART,Rue de Guemene,4,Base
+48.89769,2.28522,,,MONO ELEC,,07524312492304,7524312492304,WEB,,RETOURNAC,ACTIVE,CHF_PART,Rue de Levis,46,Base
+48.867108,2.287774,,,MONO ELEC,,14204486060305,14204486060305,WEB,,MUROL,ACTIVE,CHF_PART,rue jean louis barrault,5,HP-HC
+48.859727,4.442013,,,MONO ELEC,,25986251763730,25986251763730,WEB,,ST GERMAIN L HERM,RESILIE,MES_PART,avenue du docteur Alexandre Pascal,2,HP-HC
+48.850308,2.240091,,,MONO ELEC,,25113314010702,25113314010702,WEB,,LE MONT DORE,RESILIE,CHF_PART,allEe du cagnard,202,HP-HC
+48.970725,4.508482,,,MONO ELEC,,16132272029842,16132272029842,WEB,,LEZOUX,RESILIE,CHF_PART,Allee des ecureuils,244,HP-HC
+48.887656,-3.031613,,,MONO ELEC,,19429667054410,19429667054410,WEB,,BAGNERES DE BIGORRE,ACTIVE,PMES_PART,Chemin de Crapon,58,Base
+45.384468,2.206543,,,MONO ELEC,,25164254658310,25164254658310,WEB,,CORDON,ABANDONNE,MES_PART,rue de rome,155,HP-HC
+48.832794,3.076683,,,MONO ELEC,,12462952231218,12462952231218,WEB,,PORTET SUR GARONNE,ACTIVE,CHF_PART,RUE GENERAL DE BILLY,3,HP-HC
+45.473403,2.300519,,,MONO ELEC,,16590014394650,16590014394650,WEB,,BALLAINVILLIERS,ACTIVE,CHF_PART,Allee des ecureuils,244,HP-HC
+48.848054,2.221444,,,MONO ELEC,,09315918849369,9315918849369,WEB,,LA ROCHETTE,RESILIE,MES_PART,Les petites bourgeres,421,Base
+47.588861,2.011666,,,MONO ELEC,,01489001415080,1489001415080,WEB,,FRESNES,RESILIE,CHF_PART,Rue Jules Ferry,47,HP-HC
+48.844233,2.287211,,,MONO ELEC,,25276266252502,25276266252502,WEB,,ST LEU LA FORET,RESILIE,CHF_PART,avenue de la Côte Bleue,2,Base
+50.648096,2.28522,,,MONO ELEC,,07189869738823,7189869738823,WEB,,MEULAN EN YVELINES,ACTIVE,CHF_PART,Rue de la Ferronnerie,3,Base
+48.89769,2.287774,,,MONO ELEC,,19319971008705,19319971008705,WEB,,ST MAURICE DE GOURDANS,ABANDONNE,CHF_PART,Rue du Mollard Bresson,18,HP-HC
+48.867108,4.442014,,,MONO ELEC,,21268596234782,21268596234782,WEB,,VILLEFRANCHE SUR SAONE,ACTIVE,CHF_PART,AllEe des Marcassins,15,Base
+48.859727,2.240092,,,MONO ELEC,,21512011440154,21512011440154,WEB,,LE COTEAU,ACTIVE,CHF_PART,rue la Clef des Champs,14,Base
+48.850308,4.508483,,,MONO ELEC,,21598842185255,21598842185255,WEB,,ROMANS SUR ISERE,RESILIE,CHF_PART,Avenue Danielle casanova,2,Base
+48.970725,-3.031614,,,MONO ELEC,,21368596189109,21368596189109,WEB,,LEVALLOIS PERRET,RESILIE,CHF_PART,AllEe des OrchidEes,13,Base
+48.887656,2.206544,,,MONO ELEC,,16158610524665,16158610524665,WEB,,ROANNE,RESILIE,MES_PART,Rue Louis Denis Mallet,0,Base
+45.384468,3.076684,,,MONO ELEC,,25400578807154,25400578807154,WEB,,SEZANNE,ACTIVE,CHF_PART,Route de Turin,38,Base
+48.832794,2.300519,,,MONO ELEC,,06492764084091,6492764084091,WEB,,AY CHAMPAGNE,ABANDONNE,CHF_PART,rue de la republique,8,Base
+45.473403,2.221444,,,MONO ELEC,,09309840704785,9309840704785,WEB,,MOY DE L AISNE,ACTIVE,MES_PART,Rue Delaage,6,HP-HC
+48.848054,2.011666,,,MONO ELEC,,12265557091181,12265557091181,WEB,,ARQUES LA BATAILLE,ACTIVE,CHF_PART,Rue Robert Schuman,4,Base
+47.588861,2.287211,,,MONO ELEC,,01162662663726,1162662663726,WEB,,ANTIBES,RESILIE,CHF_PART,rue de Cartigny,12/24,HP-HC
+48.844233,2.28522,,,MONO ELEC,,21559623638116,21559623638116,WEB,,L ISLE SUR LA SORGUE,RESILIE,CHF_PART,RUE DU PICOLO,2,Base
+50.648096,2.287774,,,MONO ELEC,,21168740921834,21168740921834,WEB,,TOULON,RESILIE,CHF_PART,ALLEE DU MANOIR,7,HP-HC
+48.89769,4.442015,,,MONO ELEC,,22279594695232,22279594695232,WEB,,CALLIAN,ACTIVE,MES_PART,Rue pasteur,34,Base
+48.867108,2.240093,,,MONO ELEC,,01106801581640,1106801581640,WEB,,AIX EN PROVENCE,ABANDONNE,PMES_PART, RUE DES ANCIENS COMBATTANTS,18,HP-HC
+48.859727,4.508484,,,MONO ELEC,,25342402305002,25342402305002,WEB,,AIX EN PROVENCE,ACTIVE,MES_PART,AV FRANCOIS NARDI,949,HP-HC
+48.850308,-3.031615,,,MONO ELEC,,07333719245798,7333719245798,WEB,,ROQUEVAIRE,ACTIVE,MES_PART,Rue de Tolbiac,18,Base
+48.970725,2.206545,,,MONO ELEC,,25932272031772,25932272031772,WEB,,MARSEILLE,RESILIE,CHF_PART,Rue Mireille,1,Base
+48.887656,3.076685,,,MONO ELEC,,22196671372215,22196671372215,WEB,,LEUCATE,RESILIE,CHF_PART,Rue des vendangeuses,168,HP-HC
+45.384468,2.300519,,,MONO ELEC,,14443704740531,14443704740531,WEB,,ST BEAT,RESILIE,MES_PART,Rue Blaise Pascal,10,Base
+48.832794,2.221444,,,MONO ELEC,,14443704740531,14443704740531,WEB,,EYGUIERES,ACTIVE,MES_PART,Rue Blaise Pascal,10,Base
+45.473403,2.011666,,,MONO ELEC,,19831114303398,19831114303398,WEB,,NICE,ABANDONNE,CHF_PART,Rue du Pre de l Orme,11,HP-HC
+48.848054,2.287211,,,MONO ELEC,,02646309682408,2646309682408,WEB,,TOULON,ACTIVE,CHF_PART,rue de l eglise,1,Base
+47.588861,2.28522,,,MONO ELEC,,12459479001159,12459479001159,WEB,,TONNEINS,ACTIVE,CHF_PART,LA CROIX ST JACQUES,2,HP-HC
+48.844233,2.287774,,,MONO ELEC,,01189146076657,1189146076657,WEB,,BORDEAUX,RESILIE,CHF_PART,rue de Seclin,58,HP-HC
+50.648096,4.442016,,,MONO ELEC,,06580318302270,6580318302270,WEB,,NANTES,RESILIE,CHF_PART,rue des pendants,150,Base
+48.89769,2.240094,,,MONO ELEC,,22313169291340,22313169291340,WEB,,ENTRAINS SUR NOHAIN,RESILIE,MES_PART,rue de Petit Vaux,45,HP-HC
+48.867108,4.508485,,,MONO ELEC,,05200723560037,5200723560037,WEB,,L ISLE SUR SEREIN,ACTIVE,CHF_PART,RUE PIERRE CURIE,37,HP-HC
+48.859727,-3.031616,,,MONO ELEC,,23189146021777,23189146021777,WEB,,ST SEINE L ABBAYE,ABANDONNE,CHF_PART,chemin lapparou,47bis,Base
+48.850308,2.206546,,,MONO ELEC,,21383357325932,21383357325932,WEB,,POLIGNY,ACTIVE,CHF_PART,RUE DES VERGERS,1 bis,HP-HC
+48.970725,3.076686,,,MONO ELEC,,02131837880304,2131837880304,WEB,,COLOMBIER FONTAINE,ACTIVE,CHF_PART,rue françois adrien boieldieu,16,Base
+48.887656,2.300519,,,MONO ELEC,,06584804567550,6584804567550,WEB,,DIGOIN,RESILIE,MES_PART,rue des Salines,27,HP-HC
+45.384468,2.221444,,,MONO ELEC,,12418379142260,12418379142260,WEB,,MARCILLY LE HAYER,RESILIE,CHF_PART,Allee Henri Farman,.,Base
+48.832794,2.011666,,,MONO ELEC,,14831548356041,14831548356041,WEB,,ST CLAIR SUR L ELLE,RESILIE,PMES_PART,domaine de la ville Aubin,2 ter,HP-HC
+45.473403,2.287211,,,MONO ELEC,,14831548356041,14831548356041,WEB,,VIC LE COMTE,ACTIVE,PMES_PART,domaine de la ville Aubin,2 ter,HP-HC
+48.848054,2.28522,,,MONO ELEC,,05200723560037,5200723560037,WEB,,ARTHEZ DE BEARN,ABANDONNE,CHF_PART,rue pierre curie,37,HP-HC
+47.588861,2.287774,,,MONO ELEC,,11113456789098,11113456789098,WEB,,DIJON,ACTIVE,CHF_PART,RUE DU CAPITAINE FERBER,7,Base
+48.844233,4.442017,,,DUAL,,23124167838086,23124167838086,WEB,,AIX EN PROVENCE,ACTIVE,CHF_PART,RUE ERIC TABARLY,1,Base
+50.648096,2.240095,,,MONO ELEC,,25975108536700,25975108536700,WEB,,TREFFORT CUISIAT,RESILIE,CHF_PART,Chemin de l'Aubarede,69,Base
+48.89769,4.508486,,,MONO ELEC,,19408827742304,19408827742304,WEB,,ST GENEST LERPT,RESILIE,CHF_PART,rue Victor Hugo,51,Base
+48.867108,-3.031617,,,MONO ELEC,,16140955051421,16140955051421,WEB,,HOUILLES,RESILIE,CHF_PART, Rue de Joseph (Aubie et Espessas),23,HP-HC
+48.859727,2.206547,,,MONO ELEC,,22356295205803,22356295205803,WEB,,THORIGNY SUR MARNE,ACTIVE,MES_PART,Rue du Moulin de Senlis,67,Base
+48.850308,3.076687,,,MONO ELEC,,24395947827648,24395947827648,WEB,,MAUVEZIN,ABANDONNE,MES_PART,rue Andre Chenier,2,Base
+48.970725,2.300519,,,MONO ELEC,,14202315387311,14202315387311,WEB,,LANSLEVILLARD,ACTIVE,CHF_PART,CHEMIN DE LA GAROTINE,51,HP-HC
+48.887656,2.221444,,,MONO ELEC,,07380607756960,7380607756960,WEB,,MILLERY,ACTIVE,MES_PART,RUE MIGNON,5,Base
+45.384468,2.011666,,,MONO ELEC,,19687264796078,19687264796078,WEB,,MEAUDRE,RESILIE,CHF_PART,Chemin du Moulin,39,HP-HC
+48.832794,2.287211,,,MONO ELEC,,06548046258173,6548046258173,WEB,,MONTLUCON,RESILIE,CHF_PART,RUE DU CHAMP TRAVERSET,6,HP-HC
+45.473403,2.28522,,,MONO ELEC,,15538639610058,15538639610058,WEB,,MARSAC EN LIVRADOIS,RESILIE,CHF_PART,Rue Eugène Varlin,102,Base
+48.848054,2.287774,,,MONO ELEC,,23285383388698,23285383388698,WEB,,LOURDES,ACTIVE,CHF_PART,RUE SUZANNE VALADON,6,Base
+47.588861,4.442018,,,MONO ELEC,,24278292267675,24278292267675,WEB,,MACAU,ABANDONNE,CHF_PART,RUE DES CARIGNANS,9,HP-HC
+48.844233,2.240096,,,MONO ELEC,,16175542638539,16175542638539,WEB,,ROMANS SUR ISERE,ACTIVE,CHF_PART,RUE MARCO POLO,11,Base
+50.648096,4.508487,,,MONO ELEC,,19341678657796,19341678657796,WEB,,BEAUFORT SUR DORON,ACTIVE,CHF_PART,allEe DU VIVIER,13,Base
+48.89769,-3.031618,,,MONO ELEC,,23286975295200,23286975295200,WEB,,MONNETIER MORNEX,RESILIE,CHF_PART,CHEMIN DES TANNERIES,80,HP-HC
+48.867108,2.206548,,,MONO ELEC,,21426772774330,21426772774330,WEB,,ST GERVAIS LES BAINS,RESILIE,CHF_PART,RUE CH PEGUY,2,Base
+48.859727,3.076688,,,MONO ELEC,,25124312570703,25124312570703,WEB,,POISY,RESILIE,CHF_PART,RUE ROBERT DE ROUX,28,HP-HC
+48.850308,2.300519,,,MONO ELEC,,17932706187705,17932706187705,WEB,,CRAPONNE,ACTIVE,CHF_PART,LOTISSEMENT DES CHOMETTES,6,HP-HC
+48.970725,2.221444,,,MONO ELEC,,14223154783901,14223154783901,WEB,,ROYBON,ABANDONNE,CHF_PART,Allee du parc de la messiniere,12,HP-HC
+48.887656,2.011666,,,MONO ELEC,,19419102736867,19419102736867,WEB,,CHENERAILLES,ACTIVE,CHF_PART,Allee de Chateau Grillet,230,Base
+45.384468,2.287211,,,MONO ELEC,,17162952238726,17162952238726,WEB,,ST VALERIEN,ACTIVE,CHF_PART,Rue Alfred Vauris,8,Base
+48.832794,2.28522,,,MONO ELEC,,19419971028060,19419971028060,WEB,,PARIS 11,RESILIE,CHF_PART,Allee de Chateau Grillet,230,Base
+45.473403,2.287774,,,MONO ELEC,,21582923160440,21582923160440,WEB,,ANGRESSE,RESILIE,MES_PART,Rue Olympe de Gouges,14,Base
+48.848054,4.442019,,,MONO ELEC,,21591027369175,21591027369175,WEB,,ANGLET,RESILIE,CHF_PART,bis Rue des Fauvettes,21,HP-HC
+47.588861,2.240097,,,MONO ELEC,,19967583200220,19967583200220,WEB,,DIJON,ACTIVE,CHF_PART,Rue Ampere,178,Base
+48.844233,4.508488,,,MONO ELEC,,25375253129250,25375253129250,WEB,,AMIENS,ABANDONNE,CHF_PART,Allee de Chateau Grillet,230,Base
+50.648096,-3.031619,,,MONO ELEC,,25399999873099,25399999873099,WEB,,MERLIMONT,ACTIVE,CHF_PART,Allee de Chateau Grillet,230,Base
+48.89769,2.206549,,,MONO ELEC,,22483791530821,22483791530821,WEB,,LILLE,ACTIVE,CHF_PART,B AV DE PARIS,1,Base
+48.867108,3.076689,,,MONO ELEC,,25222286485391,25222286485391,WEB,,SAINTES MARIES DE LA MER,RESILIE,CHF_PART,LOT MOULIN DE LA TUILIERE,30,HP-HC
+48.859727,2.300519,,,MONO ELEC,,16270043370159,16270043370159,WEB,,VILLEFRANCHE SUR MER,RESILIE,MES_PART,rue du Docteur Perrin,7,HP-HC
+48.850308,2.221444,,,MONO ELEC,,17988422557654,17988422557654,WEB,,VARENNES CHANGY,RESILIE,CHF_PART,LES AYEUX,,Base
+48.970725,2.011666,,,MONO ELEC,,07596526766492,7596526766492,MYOPLA,,BURZET,ACTIVE,MES_PART,Avenue de Flandre,117,Base
+48.887656,2.287211,,,MONO ELEC,,23540376241186,23540376241186,WEB,,LAPALUD,ABANDONNE,MES_PART,Place de l'Eglise,4,HP-HC
+45.384468,2.28522,,,MONO ELEC,,21260057722429,21260057722429,MYOPLA,,LA TRINITE SUR MER,ACTIVE,MES_PART,Impasse des Etricourts,4,HP-HC
+48.832794,2.287774,,,MONO ELEC,,21386251730456,21386251730456,WEB,,ST CLOUD,ACTIVE,CHF_PART,ROUTE SABLEE,9,HP-HC
+45.473403,4.442020,,,MONO ELEC,,09391172153423,9391172153423,WEB,,LA MADELEINE,RESILIE,CHF_PART,RUE JULIEN RIOTTEAU,31,HP-HC
+48.848054,2.240098,,,MONO ELEC,,14800289415531,14800289415531,WEB,,CLICHY,RESILIE,CHF_PART,LE PENHER,26,Base
+47.588861,4.508489,,,MONO ELEC,,01313892881641,1313892881641,MYOPLA,,SURESNES,RESILIE,CHF_PART,Rue des FusillEs,58,HP-HC
+48.844233,-3.031620,,,MONO ELEC,,83938,83938,MYOPLA,,ST NOM LA BRETECHE,ACTIVE,CHF_PART,Rue du Moulin Neuf,12,HP-HC
+50.648096,2.206550,,,MONO ELEC,,15538639610058,15538639610058,MYOPLA,,PARIS 15,ABANDONNE,CHF_PART,Rue Eugène Varlin,102,Base
+48.89769,3.076690,,,MONO ELEC,,04351664178734,4351664178734,WEB,,ST GRATIEN,ACTIVE,CHF_PART,PROMENADE DU PEIGNAGE,72,HP-HC
+48.867108,2.300519,,,MONO ELEC,,21140376239693,21140376239693,WEB,,LEVALLOIS PERRET,ACTIVE,CHF_PART,RUE DU DOCTEUR BOURDON,30,Base
+48.859727,2.221444,,,MONO ELEC,,14298552801842,14298552801842,WEB,,PLANFOY,RESILIE,CHF_PART,LE PRE BARRE,,HP-HC
+48.850308,2.011666,,,MONO ELEC,,19922720605602,19922720605602,WEB,,BOULOGNE BILLANCOURT,RESILIE,MES_PART,boulevard gambetta,131,HP-HC
+48.970725,2.287211,,,MONO ELEC,,23181765551950,23181765551950,WEB,,ST CHAMOND,RESILIE,MES_PART,route de Goyrans,1,Base
+48.887656,2.28522,,,MONO ELEC,,19885528135405,19885528135405,WEB,,VINCENNES,ACTIVE,CHF_PART,Chemin de la Roue,.,Base
+45.384468,2.287774,,,MONO ELEC,,24389580172429,24389580172429,WEB,,PLANFOY,ABANDONNE,CHF_PART,RUE DANIEL SORANO,6,HP-HC
+48.832794,4.442021,,,MONO ELEC,,16566136034200,16566136034200,WEB,,PARIS 15,ACTIVE,MES_PART,avenue Beau soleil,14,HP-HC
+45.473403,2.240099,,,MONO ELEC,,16100723419170,16100723419170,WEB,,VEYRIER DU LAC,ACTIVE,MES_PART,impasse SAILLAN,7,HP-HC
+48.848054,4.508490,,,MONO ELEC,,25441099773640,25441099773640,WEB,,CAGNES SUR MER,RESILIE,CHF_PART,CHEMIN DES RASCAS,549,HP-HC
+47.588861,-3.031621,,,MONO ELEC,,19887554190630,19887554190630,WEB,,BRON,RESILIE,CHF_PART,IMPASSE DES ROCHETTES,3,HP-HC
+48.844233,2.206551,,,MONO ELEC,,16593198199518,16593198199518,WEB,,MONTPELLIER,RESILIE,MES_PART,Residence array dou sou,95,HP-HC
+50.648096,3.076691,,,MONO ELEC,,14397105607154,14397105607154,WEB,,MARSAC EN LIVRADOIS,ACTIVE,MES_PART,AVENUE DE NANTES,21,HP-HC
+48.89769,2.300519,,,MONO ELEC,,23331837909975,23331837909975,WEB,,VALLON PONT D ARC,ABANDONNE,MES_PART,AVE MAL JOFFRE,15,Base
+48.867108,2.221444,,,MONO ELEC,,16104051919978,16104051919978,WEB,,ST SYMPHORIEN SUR COISE,ACTIVE,MES_PART,rue DURET,19,HP-HC
+48.859727,2.011666,,,MONO ELEC,,23166570118149,23166570118149,WEB,,VAUGNERAY,ACTIVE,CHF_PART,RUE DES ERABLES,12,Base
+48.850308,2.287211,,,MONO ELEC,,16536034695389,16536034695389,WEB,,VILLEFRANCHE DE PANAT,RESILIE,CHF_PART,ALLEES DE VINCENNES,1,Base
+48.970725,2.28522,,,MONO ELEC,,16593198199518,16593198199518,WEB,,TOULOUSE,RESILIE,MES_PART,Residence array dou sou,95,HP-HC
+48.887656,2.287774,,,MONO ELEC,,25656005785711,25656005785711,WEB,,AMBES,RESILIE,CHF_PART,Les foulons,0,HP-HC
+45.384468,4.442022,,,MONO ELEC,,19911432629415,19911432629415,WEB,,ST MALO,ACTIVE,CHF_PART,LE FOND DE VAUX,,HP-HC
+48.832794,2.240100,,,MONO ELEC,,19154269150239,19154269150239,WEB,,MONTPELLIER,ABANDONNE,CHF_PART,ROUTE DE PARIS,153,Base
+45.473403,4.508491,,,MONO ELEC,,09227930523448,9227930523448,WEB,,NANTES,ACTIVE,CHF_PART,ALLEE MARIN MARIE,38,Base
+48.848054,-3.031622,,,MONO ELEC,,25291606282693,25291606282693,WEB,,LE TOUQUET PARIS PLAGE,ACTIVE,CHF_PART,LES JARDINS DES SEIGNIERES,7,HP-HC
+47.588861,2.206552,,,MONO ELEC,,16322575928971,16322575928971,WEB,,NOYANT D ALLIER,RESILIE,CHF_PART,BOURG,,HP-HC
+48.844233,3.076692,,,MONO ELEC,,19802749595766,19802749595766,WEB,,CERBERE,RESILIE,CHF_PART,PLACE MARECHAL FOCH,5,Base
+50.648096,2.300519,,,MONO ELEC,,19547467382650,19547467382650,WEB,,NEUVECELLE,RESILIE,CHF_PART,LATHOY,3,HP-HC
+48.89769,2.221444,,,MONO ELEC,,25909117161392,25909117161392,WEB,,VOREPPE,ACTIVE,CHF_PART,AV SALVADOR DALI,6,HP-HC
+48.867108,2.011666,,,MONO ELEC,,19870332834769,19870332834769,WEB,,LYON 06,ABANDONNE,CHF_PART,LA CHAIZE,,Base
+48.859727,2.287211,,,MONO ELEC,,01675832120526,1675832120526,WEB,,CHAMROUSSE,ACTIVE,MES_PART,RUE D OVILLERS,75,HP-HC
+48.850308,2.28522,,,MONO ELEC,,09368885567663,9368885567663,WEB,,LA TRONCHE,ACTIVE,CHF_PART,LA GAUVENIERE,18,HP-HC
+48.970725,2.287774,,,MONO ELEC,,25979015883983,25979015883983,WEB,,MERLINES,RESILIE,CHF_PART,RTE DE NICE,16,HP-HC
+48.887656,4.442023,,,MONO ELEC,,19162807387327,19162807387327,WEB,,MEAULNE,RESILIE,CHF_PART,rue HENRI ROLLAND,25,HP-HC
+45.384468,2.240101,,,MONO ELEC,,14232995457908,14232995457908,WEB,,LE MANS,RESILIE,MES_PART,rue du Landreau,97,Base
+48.832794,4.508492,,,MONO ELEC,,07236903015405,7236903015405,WEB,,CORCIEUX,ACTIVE,MES_PART,RUE SIDI BRAHIM,19,HP-HC
+45.473403,-3.031623,,,MONO ELEC,,05110419644538,5110419644538,WEB,,CHAMBERY,ABANDONNE,CHF_PART,ALLEE DES PHILOSOPHES,1,Base
+48.848054,2.206553,,,MONO ELEC,,06547177953450,6547177953450,WEB,,CLERMONT L HERAULT,ACTIVE,MES_PART,Grande rue,26,HP-HC
+47.588861,3.076693,,,MONO ELEC,,14828943436741,14828943436741,WEB,,ST ETIENNE,ACTIVE,MES_PART,rue Roger Le CUNFF,50 bis,Base
+48.844233,2.300519,,,MONO ELEC,,25261794444190,25261794444190,MYOPLA,,SASSENAGE,RESILIE,MES_PART,Avenue Germaine Richier,7,HP-HC
+50.648096,2.221444,,,MONO ELEC,,24245151912960,24245151912960,MYOPLA,,LAGUEPIE,RESILIE,CHF_PART,rue neuve,21,HP-HC
+48.89769,2.011666,,,MONO ELEC,,14245730629384,14245730629384,MYOPLA,,SAIN BEL,RESILIE,MES_PART,Rue de la Planche au GuE,17,Base
+48.867108,2.287211,,,MONO ELEC,,23117076546273,23117076546273,WEB,,NANTES,ACTIVE,CHF_PART,rue des cheuvereuils,11,Base
+48.859727,2.28522,,,MONO ELEC,,23365701839086,23365701839086,MYOPLA,,DIJON,ABANDONNE,CHF_PART,Caillava,,HP-HC
+48.850308,2.287774,,,MONO ELEC,,23194066414478,23194066414478,MYOPLA,,MONTCEAU LES MINES,ACTIVE,MES_PART,Avenue de Muret,219,Base
+48.970725,4.442024,,,MONO ELEC,,21556295160256,21556295160256,MYOPLA,,AURILLAC,ACTIVE,CHF_PART,Rue du Grand Prieur,84,Base
+48.887656,2.240102,,,MONO ELEC,,21189001381099,21189001381099,MYOPLA,,MEGEVE,RESILIE,MES_PART,Rue DEsirE Foucher,12,Base
+45.384468,4.508493,,,MONO ELEC,,25841678625638,25841678625638,MYOPLA,,VILLEURBANNE,RESILIE,MES_PART,Chemin de Reydet,248,HP-HC
+48.832794,-3.031624,,,MONO ELEC,,70030136243842,70030136243842,MYOPLA,,PAU,RESILIE,CHF_PART,Rue du 8 Mai 1945,2,Base
+45.473403,2.206554,,,MONO ELEC,,16191461449623,16191461449623,MYOPLA,,DOUAI,ACTIVE,MES_PART,Avenue des 40 Journaux,8,Base
+48.848054,3.076694,,,MONO ELEC,,19116931884861,19116931884861,MYOPLA,,FOURS,ABANDONNE,MES_PART,place rhodiaceta,2,HP-HC
+47.588861,2.300519,,,MONO ELEC,,02269319796630,2269319796630,WEB,,CHATELUS MALVALEIX,ACTIVE,MES_PART,Rue des Cerisiers,23,HP-HC
+48.844233,2.221444,,,MONO ELEC,,21132995655025,21132995655025,MYOPLA,,LYON,ACTIVE,MES_PART,Rue Aristide Briand,112,HP-HC
+50.648096,2.011666,,,MONO ELEC,,16236758319220,16236758319220,MYOPLA,,TOULOUSE,RESILIE,MES_PART,Les Brandes,32,Base
+48.89769,2.287211,,,MONO ELEC,,14659334246380,14659334246380,MYOPLA,,MONTAIGU,RESILIE,MES_PART,Place de l'Europe,13,HP-HC
+48.867108,2.28522,,,MONO ELEC,,09732706209093,9732706209093,WEB,,NANTES,RESILIE,MES_PART,Rue Jules Charpentier,47,Base
+48.859727,2.287774,,,MONO ELEC,,02438350143739,2438350143739,MYOPLA,,BELLEGARDE,ACTIVE,MES_PART, rue DES CARRIERES SAINT JULIEN,25,HP-HC
+48.850308,4.442025,,,MONO ELEC,,07422431244137,7422431244137,MYOPLA,,BESANCON,ABANDONNE,CHF_PART,Boulevard Exelmans,29,HP-HC
+48.970725,2.240103,,,MONO ELEC,,21582923160440,21582923160440,MYOPLA,,BESANCON,ACTIVE,MES_PART,rue olympe de gouges,14,Base
+48.887656,4.508494,,,MONO ELEC,,25159334245041,25159334245041,MYOPLA,,TOULOUSE,ACTIVE,CHF_PART,REsidence ChantE Perdrix,29,Base
+45.384468,-3.031625,,,MONO ELEC,,14208972293198,14208972293198,MYOPLA,,MONTELIMAR,RESILIE,MES_PART,AllEe de la Brechetière,24,Base
+48.832794,2.206555,,,MONO ELEC,,25332561327972,25332561327972,MYOPLA,,CUSY,RESILIE,MES_PART,rue maurice lambert,5,HP-HC
+45.473403,3.076695,,,MONO ELEC,,14550361730270,14550361730270,MYOPLA,,HABERE POCHE,RESILIE,CHF_PART,Residence des charmes,9,HP-HC
+48.848054,2.300519,,,MONO ELEC,,12235455854411,12235455854411,MYOPLA,,MOUANS SARTOUX,ACTIVE,CHF_PART,Rue KlEber,11,Base
+47.588861,2.221444,,,MONO ELEC,,23112445725104,23112445725104,MYOPLA,,TOURVES,ABANDONNE,CHF_PART,Impasse du Lieutenant Colonel Raphaël Folliot,5,Base
+48.844233,2.011666,,,MONO ELEC,,02550795875486,2550795875486,MYOPLA,,TOULON,ACTIVE,CHF_PART,Route de la Mer,15,HP-HC
+50.648096,2.287211,,,MONO ELEC,,12498552819165,12498552819165,MYOPLA,,LES MATHES,ACTIVE,CHF_PART,Avenue Jean Jaurès,16,Base
+48.89769,2.28522,,,MONO ELEC,,06567293722189,6567293722189,MYOPLA,,PERTUIS,RESILIE,CHF_PART,Rue de Savoie,28,Base
+48.867108,2.287774,,,MONO ELEC,,06578871146117,6578871146117,MYOPLA,,MONTCUQ,RESILIE,CHF_PART,Rue de Savoie,32,Base
+48.859727,4.442026,,,MONO ELEC,,19318668481775,19318668481775,MYOPLA,,BLAGNAC,RESILIE,MES_PART,allee antoni gaudi,15,Base
+48.850308,2.240104,,,MONO ELEC,,14288856592869,14288856592869,MYOPLA,,BEAULIEU SUR MER,ACTIVE,CHF_PART,Impasse de la Petite Funerie,10,Base
+48.970725,4.508495,,,MONO ELEC,,19117365913486,19117365913486,MYOPLA,,ISPAGNAC,ABANDONNE,MES_PART,Rue du Four à Chaux,14,Base
+48.887656,-3.031626,,,MONO ELEC,,22313892801235,22313892801235,MYOPLA,,GENERAC,ACTIVE,CHF_PART,Place de la Peupleraie,2,Base
+45.384468,2.206556,,,MONO ELEC,,09315918849369,9315918849369,MYOPLA,,TOULOUSE,ACTIVE,MES_PART,Les Petites Bourgères (Saint-Christophe-la-Couperie),421,Base
+48.832794,3.076696,,,MONO ELEC,,25917510812608,25917510812608,MYOPLA,,CERGY,RESILIE,CHF_PART,Avenue du GEnEral Garbay,542,HP-HC
+45.473403,2.300519,,,MONO ELEC,,24378871046102,24378871046102,MYOPLA,,MEXIMIEUX,RESILIE,CHF_PART,Rue Saint-Vincent de Paul,24,Base
+48.848054,2.221444,,,MONO ELEC,,19418958013702,19418958013702,MYOPLA,,TAIN L HERMITAGE,RESILIE,CHF_PART,Boulevard du GEnEral de Gaulle,1,HP-HC
+47.588861,2.011666,,,MONO ELEC,,25998552776308,25998552776308,MYOPLA,,LYON,ACTIVE,CHF_PART,Avenue de la Mer,629,HP-HC
+48.844233,2.287211,,,MONO ELEC,,24396092457770,24396092457770,MYOPLA,,JARNAGES,ABANDONNE,CHF_PART,Rue Adam de Craponne,44,HP-HC
+50.648096,2.28522,,,MONO ELEC,,25948191019134,25948191019134,MYOPLA,,ANDREZIEUX BOUTHEON,ACTIVE,CHF_PART,Avenue du MarEchal Juin,113,Base
+48.89769,2.287774,,,MONO ELEC,,02269175031674,2269175031674,MYOPLA,,SOORTS HOSSEGOR,ACTIVE,MES_PART,Rue de l'AbbE Brochant,170,HP-HC
+48.867108,4.442027,,,MONO ELEC,,14443704740531,14443704740531,MYOPLA,,RIOM,RESILIE,MES_PART,Rue Blaise Pascal,10,Base
+48.859727,2.240105,,,MONO ELEC,,01352243005451,1352243005451,MYOPLA,,ST PAL DE CHALENCON,RESILIE,MES_PART,Rue MarEchal de Lattre de Tassigny,31,Base
+48.850308,4.508496,,,MONO ELEC,,24521707627011,24521707627011,MYOPLA,,LEMPDES SUR ALLAGNON,RESILIE,CHF_PART,Rue FElix Eboue,21,Base
+48.970725,-3.031627,,,MONO ELEC,,23523154842867,23523154842867,MYOPLA,,MAULEON SOULE,ACTIVE,CHF_PART,Boulevard du MarEchal de Lattre de Tassigny,21,HP-HC
+48.887656,2.206557,,,MONO ELEC,,16170766977512,16170766977512,MYOPLA,,TARDETS SORHOLUS,ABANDONNE,CHF_PART,rue de suzon,232,Base
+45.384468,3.076697,,,MONO ELEC,,14629956558841,14629956558841,MYOPLA,,DEAUVILLE,ACTIVE,CHF_PART,REUN AR MOAL,,HP-HC
+48.832794,2.300519,,,MONO ELEC,,14429667140818,14429667140818,WEB,,DIJON,ACTIVE,CHF_PART,ALLEE FRANCOIS VAYVA,5,HP-HC
+45.473403,2.221444,,,MONO ELEC,,23390159161123,23390159161123,WEB,,PARIS,RESILIE,MES_PART,rue sainte claire,35-37,HP-HC
+48.848054,2.011666,,,MONO ELEC,,19411722133669,19411722133669,WEB,,BOURDEAUX,RESILIE,CHF_PART,A ROUTE DE COMBERIGOL,1415,HP-HC
+47.588861,2.287211,,,MONO ELEC,,24368017197410,24368017197410,WEB,,ANTIBES,RESILIE,MES_PART,ALLEE MICHEL PIQUEMAL,7,HP-HC
+48.844233,2.28522,,,MONO ELEC,,22185672772353,22185672772353,WEB,,ANNECY,ACTIVE,MES_PART,RUE DE LA TOUR D AUVERGNE,61,HP-HC
+50.648096,2.287774,,,MONO ELEC,,19587843626135,19587843626135,WEB,,CHAZAY D AZERGUES,ABANDONNE,CHF_PART,RUE LOUIS ARMAND,12,Base
+48.89769,4.442028,,,MONO ELEC,,25317800205253,25317800205253,WEB,,CHAMROUSSE,ACTIVE,CHF_PART,RUE DES OLIVIERS,8,HP-HC
+48.867108,2.240106,,,MONO ELEC,,25272503534315,25272503534315,WEB,,MORESTEL,ACTIVE,MES_PART,RES LES MUGUETS+BAT 2,230,Base
+48.859727,4.508497,,,MONO ELEC,,24245151912960,24245151912960,MYOPLA,,CALUIRE ET CUIRE,RESILIE,CHF_PART,rue neuve,21,HP-HC
+48.850308,-3.031628,,,MONO ELEC,,21580607794989,21580607794989,MYOPLA,,LYON,RESILIE,CHF_PART,Rue Antonin-Georges Belin,74,HP-HC
+48.970725,2.206558,,,MONO ELEC,,09356874045203,9356874045203,MYOPLA,,LYON,RESILIE,CHF_PART,Rue des Noyers,30,Base
+48.887656,3.076698,,,MONO ELEC,,02131837880304,2131837880304,MYOPLA,,COLLONGES AU MONT D OR,ACTIVE,CHF_PART,Rue François Adrien Boieldieu,16,Base
+45.384468,2.300519,,,MONO ELEC,,14288856592869,14288856592869,MYOPLA,,LYON,ABANDONNE,MES_PART,Impasse de la Petite Funerie,10,Base
+48.832794,2.221444,,,MONO ELEC,,16127930495851,16127930495851,MYOPLA,,LYON 05,ACTIVE,CHF_PART,Impasse des Genêts,70,HP-HC
+45.473403,2.011666,,,MONO ELEC,,19327785703199,19327785703199,MYOPLA,,LYON,ACTIVE,MES_PART,Route du Bourdis,447,HP-HC
+48.848054,2.287211,,,MONO ELEC,,07304341511983,7304341511983,MYOPLA,,RETOURNAC,RESILIE,MES_PART,Rue Champollion,17,HP-HC
+47.588861,2.28522,,,MONO ELEC,,25116353028966,25116353028966,MYOPLA,,MUROL,RESILIE,CHF_PART,Rue de la CathEdrale,17,Base
+48.844233,2.287774,,,MONO ELEC,,02456874022809,2456874022809,WEB,,ST GERMAIN L HERM,RESILIE,,Rue d'OrlEans,17,HP-HC
+50.648096,4.442029,,,MONO ELEC,,22111577311069,22111577311069,WEB,,LE MONT DORE,ACTIVE,,RUE BEAUSEJOUR,11,Base
+48.89769,2.240107,,,MONO ELEC,,02375542676446,2375542676446,WEB,,LEZOUX,ABANDONNE,,IMPASSE DES ROSIERS,3,HP-HC
+48.867108,4.508498,,,MONO ELEC,,06309406590684,6309406590684,WEB,,BAGNERES DE BIGORRE,ACTIVE,,RIBEAUGOUTTE,260,Base
+48.859727,-3.031629,,,MONO ELEC,,19762228575066,19762228575066,WEB,,CORDON,ACTIVE,,Emile Laurens,46,HP-HC
+48.850308,2.206559,,,MONO ELEC,,19137771139078,19137771139078,WEB,,PORTET SUR GARONNE,RESILIE,,montEe du lieutenant Allouche,7,Base
+48.970725,3.076699,,,MONO ELEC,,24321707570535,24321707570535,WEB,,BALLAINVILLIERS,RESILIE,,cour Erasme,21,Base
+48.887656,2.300519,,,MONO ELEC,,25285672807671,25285672807671,WEB,,LA ROCHETTE,RESILIE,,RUE FONT VIEILLE PROLONGEE,225,HP-HC
+45.384468,2.221444,,,MONO ELEC,,22224167831678,22224167831678,WEB,,FRESNES,ACTIVE,,DOMAINE DE VILLEJUST,59,HP-HC
+48.832794,2.011666,,,MONO ELEC,,14274529597500,14274529597500,WEB,,ST LEU LA FORET,ABANDONNE,,RUE LANOUE BRAS DE FER,38,Base
+45.473403,2.287211,,,MONO ELEC,,17150072251460,17150072251460,WEB,,MEULAN EN YVELINES,ACTIVE,,rue du chambon,79bis,Base
+48.848054,2.28522,,,MONO ELEC,,16145730623328,16145730623328,PRO,,ST MAURICE DE GOURDANS,ACTIVE,,120-126 Quai de Bacalan,0,HP-HC
+47.588861,2.287774,,,MONO ELEC,,16145585905548,16145585905548,PRO,,VILLEFRANCHE SUR SAONE,RESILIE,,120-126 Quai de Bacalan,0,HP-HC
+48.844233,4.442030,,,MONO ELEC,,16146020058937,16146020058937,PRO,,LE COTEAU,RESILIE,,120-126 Quai de Bacalan,0,HP-HC
+50.648096,2.240108,,,MONO ELEC,,16145875341172,16145875341172,PRO,,ROMANS SUR ISERE,RESILIE,,120-126 Quai de Bacalan,0,HP-HC
+48.89769,4.508499,,,MONO ELEC,,16146164776761,16146164776761,PRO,,LEVALLOIS PERRET,ACTIVE,,120-126 Quai de Bacalan,0,HP-HC
+48.867108,-3.031630,,,MONO ELEC,,16146309494520,16146309494520,PRO,,ROANNE,ABANDONNE,,120-126 Quai de Bacalan,0,HP-HC
+48.859727,2.206560,,,MONO ELEC,,16146598930139,16146598930139,PRO,,SEZANNE,ACTIVE,,120-126 Quai de Bacalan,0,HP-HC
+48.850308,3.076700,,,MONO ELEC,,16146454212304,16146454212304,PRO,,AY CHAMPAGNE,ACTIVE,,120-126 Quai de Bacalan,0,HP-HC
+48.970725,2.300519,,,MONO ELEC,,16146743647988,16146743647988,PRO,,MOY DE L AISNE,RESILIE,,120-126 Quai de Bacalan,0,HP-HC
+48.887656,2.221444,,,MONO ELEC,,16146888365722,16146888365722,PRO,,ARQUES LA BATAILLE,RESILIE,,120-126 Quai de Bacalan,0,HP-HC
+45.384468,2.011666,,,MONO ELEC,,16261649773344,16261649773344,WEB,,ANTIBES,RESILIE,MES_PART,vieillecour,1,HP-HC
+48.832794,2.287211,,,MONO ELEC,,25231837838765,25231837838765,WEB,,L ISLE SUR LA SORGUE,ACTIVE,CHF_PART,RUE DES MIRMILLONS,220,HP-HC
+45.473403,2.28522,,,MONO ELEC,,14826193866870,14826193866870,WEB,,TOULON,ABANDONNE,MES_PART,6Kevrin,,HP-HC
+48.848054,2.287774,,,MONO ELEC,,23343415293992,23343415293992,WEB,,CALLIAN,ACTIVE,CHF_PART,LA PORTERIE,,HP-HC
+47.588861,4.442031,,,MONO ELEC,,25241968039203,25241968039203,WEB,,AIX EN PROVENCE,ACTIVE,MES_PART,CHEMIN DE SARNEGUE,8,HP-HC
+48.844233,2.240109,,,MONO ELEC,,07384949344799,7384949344799,WEB,,AIX EN PROVENCE,RESILIE,MES_PART,AVENUE DANIEL LESUEUR,10,Base
+50.648096,4.508500,,,MONO ELEC,,23172358885813,23172358885813,WEB,,ROQUEVAIRE,RESILIE,MES_PART,rue de Bourrassol,83,Base
+48.89769,-3.031631,,,MONO ELEC,,25372069385535,25372069385535,WEB,,MARSEILLE,RESILIE,MES_PART,Boulevard de la Peyrière,131,HP-HC
+48.867108,2.206561,,,MONO ELEC,,16514471729811,16514471729811,WEB,,LEUCATE,ACTIVE,MES_PART,RUE GEORGES LASSALLE,49,Base
+48.859727,3.076701,,,MONO ELEC,,23397973929805,23397973929805,MYOPLA,,ST BEAT,ABANDONNE,CHF_PART,Route de Baran,3301,HP-HC
+48.850308,2.300519,,,MONO ELEC,,16165846414302,16165846414302,MYOPLA,,EYGUIERES,ACTIVE,CHF_PART,B Chemin de CarrE,31,HP-HC
+48.970725,2.221444,,,MONO ELEC,,21436324161064,21436324161064,MYOPLA,,NICE,ACTIVE,CHF_PART,Rue Carnot,108,Base
+48.887656,2.011666,,,MONO ELEC,,16195947864542,16195947864542,MYOPLA,,TOULON,RESILIE,MES_PART,Passage Hermitte,75,HP-HC
+45.384468,2.287211,,,MONO ELEC,,19875253142970,19875253142970,MYOPLA,,TONNEINS,RESILIE,CHF_PART,Rue de la Fontaine,16,HP-HC
+48.832794,2.28522,,,MONO ELEC,,12275832066498,12275832066498,MYOPLA,,BORDEAUX,RESILIE,CHF_PART,Rue du Docteur Majnoni d'Intignano,16,HP-HC
+45.473403,2.287774,,,MONO ELEC,,23234153329542,23234153329542,MYOPLA,,NANTES,ACTIVE,CHF_PART,Rue Jacques Brel,28,HP-HC
+48.848054,4.442032,,,MONO ELEC,,06403328489404,6403328489404,MYOPLA,,ENTRAINS SUR NOHAIN,ABANDONNE,CHF_PART,Rue de la Poirouse,1,Base
+47.588861,2.240110,,,MONO ELEC,,19846309658545,19846309658545,MYOPLA,,L ISLE SUR SEREIN,ACTIVE,CHF_PART,lotissement de Croupisson,3,HP-HC
+48.844233,4.508501,,,MONO ELEC,,06390737948497,6390737948497,MYOPLA,,ST SEINE L ABBAYE,ACTIVE,MES_PART,Rue Auguste Bartholdi,21,HP-HC
+50.648096,-3.031632,,,MONO ELEC,,05607235833992,5607235833992,MYOPLA,,POLIGNY,RESILIE,MES_PART,RUE DU BEAUJOLAIS,27,HP-HC
+48.89769,2.206562,,,MONO ELEC,,24361794479277,24361794479277,MYOPLA,,COLOMBIER FONTAINE,RESILIE,MES_PART,Rue des Frères Lumière,6,Base
+48.867108,3.076702,,,MONO ELEC,,12573082473910,12573082473910,MYOPLA,,DIGOIN,RESILIE,CHF_PART,Rue des Bascoins,10,HP-HC
+48.859727,2.300519,,,MONO ELEC,,21436324161064,21436324161064,MYOPLA,,MARCILLY LE HAYER,ACTIVE,CHF_PART,Rue Carnot,108,Base
+48.850308,2.221444,,,MONO ELEC,,14226628056819,14226628056819,WEB,,ST CLAIR SUR L ELLE,ABANDONNE,MES_PART,route de Sainte-Luce,5,HP-HC
+48.970725,2.011666,,,MONO ELEC,,25371345701634,25371345701634,WEB,,VIC LE COMTE,ACTIVE,CHF_PART,RUE PROFESSEUR ROUX,120,HP-HC
+48.887656,2.287211,,,MONO ELEC,,14494211228091,14494211228091,WEB,,ARTHEZ DE BEARN,ACTIVE,MES_PART,Rue des Dames,17,Base
+45.384468,2.28522,,,MONO ELEC,,25115629396438,25115629396438,WEB,,DIJON,RESILIE,CHF_PART,RUE NICOLAS APPERT,,HP-HC
+48.832794,2.287774,,,MONO ELEC,,02420694599135,2420694599135,WEB,,AIX EN PROVENCE,RESILIE,CHF_PART,RUE DE NORMANDIE,14,HP-HC
+45.473403,4.442033,,,MONO ELEC,,19507959461009,19507959461009,WEB,,TREFFORT CUISIAT,RESILIE,CHF_PART,AVENUE DE SAINT DISDILLE,51,Base
+48.848054,2.240111,,,MONO ELEC,,21314761183224,21314761183224,WEB,,ST GENEST LERPT,ACTIVE,CHF_PART,av DU GENERAL DE GAULLE,22,Base
+47.588861,4.508502,,,MONO ELEC,,04345730739189,4345730739189,MYOPLA,,HOUILLES,ABANDONNE,MES_PART,Rue Paul Adam,1,HP-HC
+48.844233,-3.031633,,,MONO ELEC,,09795224304198,9795224304198,MYOPLA,,THORIGNY SUR MARNE,ACTIVE,CHF_PART,Rue de Chantepie,41,Base
+50.648096,2.206563,,,MONO ELEC,,14249927457380,14249927457380,MYOPLA,,MAUVEZIN,ACTIVE,MES_PART,Boulevard des Belges,130,Base
+48.89769,3.076703,,,MONO ELEC,,25916931945070,25916931945070,MYOPLA,,LANSLEVILLARD,RESILIE,CHF_PART,Avenue GEnEral de Gaulle,1575,HP-HC
+48.867108,2.300519,,,MONO ELEC,,25213024582058,25213024582058,MYOPLA,,MILLERY,RESILIE,CHF_PART,Place Jean Pellegrin,6,Base
+48.859727,2.221444,,,MONO ELEC,,14208972293198,14208972293198,MYOPLA,,MEAUDRE,RESILIE,MES_PART,AllEe de la Brechetière,24,Base
+48.850308,2.011666,,,MONO ELEC,,14262083880595,14262083880595,MYOPLA,,MONTLUCON,ACTIVE,MES_PART,La Basse Ville,11,HP-HC
+48.970725,2.287211,,,MONO ELEC,,23245730813669,23245730813669,MYOPLA,,MARSAC EN LIVRADOIS,ABANDONNE,MES_PART,Rue Gambetta,33,Base
+48.887656,2.28522,,,MONO ELEC,,19846309658545,19846309658545,MYOPLA,,LOURDES,ACTIVE,CHF_PART,Chemin de Croupisson,3,HP-HC
+45.384468,2.287774,,,MONO ELEC,,07502460176725,7502460176725,WEB,,MACAU,ACTIVE,MES_PART,RUE AUDRAN,3,Base
+48.832794,4.442034,,,MONO ELEC,,16126772683326,16126772683326,WEB,,ROMANS SUR ISERE,RESILIE,MES_PART,rue CONSTANTIN,27,Base
+45.473403,2.240112,,,MONO ELEC,,22171056328011,22171056328011,WEB,,BEAUFORT SUR DORON,RESILIE,MES_PART,ALLEE CLAUDE DEBUSSY,10,Base
+48.848054,4.508503,,,MONO ELEC,,25426917416609,25426917416609,WEB,,MONNETIER MORNEX,RESILIE,CHF_PART,AV DU LOUBET,,Base
+47.588861,-3.031634,,,MONO ELEC,,22467583148995,22467583148995,WEB,,ST GERVAIS LES BAINS,ACTIVE,CHF_PART,GDE RUE CHARLES DE GAULLE,160,Base
+48.844233,2.206564,,,MONO ELEC,,19986685927644,19986685927644,WEB,,POISY,ABANDONNE,MES_PART,Le Charnay,nr,Base
+50.648096,3.076704,,,MONO ELEC,,09138784299748,9138784299748,WEB,,CRAPONNE,ACTIVE,CHF_PART,rue des Bordeaux,41,HP-HC
+48.89769,2.300519,,,MONO ELEC,,24382344389435,24382344389435,WEB,,ROYBON,ACTIVE,CHF_PART,RUE GUILHEMON,22,Base
+48.867108,2.221444,,,MONO ELEC,,04127930517475,4127930517475,WEB,,CHENERAILLES,RESILIE,CHF_PART,RUE VALENTINE THERY,24,HP-HC
+48.859727,2.011666,,,MONO ELEC,,19867872632764,19867872632764,WEB,,ST VALERIEN,RESILIE,MES_PART,place Jean Jaurès,2,Base
+48.850308,2.287211,,,MONO ELEC,,16598263349794,16598263349794,WEB,,PARIS 11,RESILIE,MES_PART,AVENUE DE LA TOURAUDAIS,21,Base
+48.970725,2.28522,,,MONO ELEC,,17104920297024,17104920297024,WEB,,ANGRESSE,ACTIVE,CHF_PART,2IEME IMPASSE DES COMMUNAUX,15,Base
+48.887656,2.287774,,,MONO ELEC,,22302894218580,22302894218580,WEB,,ANGLET,ABANDONNE,CHF_PART,PGE DES RESERVOIRS,8,HP-HC
+45.384468,4.442035,,,MONO ELEC,,07112300982279,7112300982279,WEB,,DIJON,ACTIVE,MES_PART,Rue GErando,3,HP-HC
+48.832794,2.240113,,,MONO ELEC,,09524601946340,9524601946340,WEB,,AMIENS,ACTIVE,MES_PART,ROUTE DE CEPOY,2,HP-HC
+45.473403,4.508504,,,MONO ELEC,,25442691661592,25442691661592,WEB,,MERLIMONT,RESILIE,CHF_PART,rue LEON BERTRAND,13,Base
+48.848054,-3.031635,,,MONO ELEC,,12260636674840,12260636674840,WEB,,LILLE,RESILIE,MES_PART,RUE CHANOINE VINCENEUX,8,Base
+47.588861,2.206565,,,MONO ELEC,,07390882697297,7390882697297,WEB,,SAINTES MARIES DE LA MER,RESILIE,CHF_PART,BOULEVARD SAINT JACQUES,45,HP-HC
+48.844233,3.076705,,,MONO ELEC,,25298552782810,25298552782810,WEB,,VILLEFRANCHE SUR MER,ACTIVE,MES_PART,PCE MIREILLE,2,HP-HC
+50.648096,2.300519,,,MONO ELEC,,23222431143770,23222431143770,WEB,,VARENNES CHANGY,ABANDONNE,CHF_PART,167 Coste Del Segue,,HP-HC
+48.89769,2.221444,,,MONO ELEC,,21472503479287,21472503479287,MYOPLA,,BURZET,ACTIVE,MES_PART,Rue Marjolin,33,Base
+48.867108,2.011666,,,MONO ELEC,,24373516538409,24373516538409,MYOPLA,,LAPALUD,ACTIVE,MES_PART,Rue LEon Blum,115,Base
+48.859727,2.287211,,,MONO ELEC,,25434876881036,25434876881036,MYOPLA,,LA TRINITE SUR MER,RESILIE,MES_PART,Avenue Rhin et Danube,87,Base
+48.850308,2.28522,,,MONO ELEC,,21288711895719,21288711895719,MYOPLA,,ST CLOUD,RESILIE,MES_PART,Les Bocages Bruns,43,Base
+48.970725,2.287774,,,MONO ELEC,,17299565812584,17299565812584,MYOPLA,,LA MADELEINE,RESILIE,CHF_PART,Route de Beauregard,251,HP-HC
+48.887656,4.442036,,,MONO ELEC,,05590593270262,5590593270262,MYOPLA,,CLICHY,ACTIVE,MES_PART,Rue de la Fontaine,3,HP-HC
+45.384468,2.240114,,,MONO ELEC,,22488277718402,22488277718402,WEB,,SURESNES,ABANDONNE,CHF_PART,rue HUSSENET,26,Base
+48.832794,4.508505,,,MONO ELEC,,09320549819403,9320549819403,MYOPLA,,ST NOM LA BRETECHE,ACTIVE,MES_PART,Rue Chèvre,76,Base
+45.473403,-3.031636,,,MONO ELEC,,14629956558841,14629956558841,WEB,,PARIS 15,ACTIVE,CHF_PART,REUN AR MOAL,,HP-HC
+48.848054,2.206566,,,MONO ELEC,,23193921768587,23193921768587,MYOPLA,,ST GRATIEN,RESILIE,MES_PART,Rue du Commandant l'Herminier,29,HP-HC
+47.588861,3.076706,,,MONO ELEC,,09490303902508,9490303902508,WEB,,LEVALLOIS PERRET,RESILIE,CHF_PART,RUE SAINT VINCENT DE PAUL,11,HP-HC
+48.844233,2.300519,,,MONO ELEC,,23258031791147,23258031791147,WEB,,PLANFOY,RESILIE,CHF_PART,AVE EMILE ANDRIEU,11,Base
+50.648096,2.221444,,,MONO ELEC,,25342836300170,25342836300170,MYOPLA,,BOULOGNE BILLANCOURT,ACTIVE,MES_PART,Avenue du GEnEral Charles de Gaulle,52,HP-HC
+48.89769,2.011666,,,MONO ELEC,,17726338616590,17726338616590,MYOPLA,,ST CHAMOND,ABANDONNE,MES_PART,Rue LittrE,6,HP-HC
+48.867108,2.287211,,,MONO ELEC,,21334442709136,21334442709136,MYOPLA,,VINCENNES,ACTIVE,CHF_PART,Rue LEonard de Vinci,21,Base
+48.859727,2.28522,,,MONO ELEC,,05407959475267,5407959475267,MYOPLA,,PLANFOY,ACTIVE,CHF_PART,Rue du Tissage,512,Base
+48.850308,2.287774,,,MONO ELEC,,25295513660706,25295513660706,MYOPLA,,PARIS 15,RESILIE,MES_PART,Rue des Ecoles,3,HP-HC
+48.970725,4.442037,,,MONO ELEC,,23501013001086,23501013001086,WEB,,VEYRIER DU LAC,RESILIE,CHF_PART,RUE JEAN MOULIN,51,Base
+48.887656,2.240115,,,MONO ELEC,,19905499196897,19905499196897,MYOPLA,,CAGNES SUR MER,RESILIE,CHF_PART,Chemin des Champayes,42,HP-HC
+45.384468,4.508506,,,MONO ELEC,,14209551186151,14209551186151,MYOPLA,,BRON,ACTIVE,MES_PART,Rue Bonne Garde,99,HP-HC
+48.832794,-3.031637,,,MONO ELEC,,24329232815673,24329232815673,MYOPLA,,MONTPELLIER,ABANDONNE,CHF_PART,Avenue de Villeneuve Angoulême,1336,Base
+45.473403,2.206567,,,MONO ELEC,,19489001367364,19489001367364,MYOPLA,,MARSAC EN LIVRADOIS,ACTIVE,CHF_PART,Rue du Rave,23,HP-HC
+48.848054,3.076707,,,MONO ELEC,,14239797348854,14239797348854,MYOPLA,,VALLON PONT D ARC,ACTIVE,MES_PART,Boulevard Allard,4,HP-HC
+47.588861,2.300519,,,MONO ELEC,,15200289370108,15200289370108,MYOPLA,,ST SYMPHORIEN SUR COISE,RESILIE,MES_PART,Rue de la Gères,10,HP-HC
+48.844233,2.221444,,,MONO ELEC,,22259913105465,22259913105465,MYOPLA,,VAUGNERAY,RESILIE,CHF_PART,Rue Charpentier,15,Base
+50.648096,2.011666,,,MONO ELEC,,09769030328775,9769030328775,WEB,,VILLEFRANCHE DE PANAT,RESILIE,CHF_PART,RUE DE LA BONDONNIERE,16,Base
+48.89769,2.287211,,,MONO ELEC,,16513169231287,16513169231287,WEB,,TOULOUSE,ACTIVE,CHF_PART,CHEMIN ST ROCH,6,HP-HC
+48.867108,2.28522,,,MONO ELEC,,25377568617602,25377568617602,WEB,,AMBES,ABANDONNE,MES_PART,route du Peyron,343,HP-HC
+48.859727,2.287774,,,MONO ELEC,,12194645390101,12194645390101,WEB,,ST MALO,ACTIVE,MES_PART,RUE ROBESPIERRE,12,HP-HC
+48.850308,4.442038,,,MONO ELEC,,19663241678173,19663241678173,WEB,,MONTPELLIER,ACTIVE,MES_PART,AVENUE CHARLES ALBERT,131,Base
+48.970725,2.240116,,,MONO ELEC,,24142691701769,24142691701769,WEB,,NANTES,RESILIE,CHF_PART,AV DU GENERAL LECLERC,147,HP-HC
+48.887656,4.508507,,,MONO ELEC,,25188133027894,25188133027894,WEB,,LE TOUQUET PARIS PLAGE,RESILIE,CHF_PART,TSE CLEMENTINE,2,HP-HC
+45.384468,-3.031638,,,MONO ELEC,,17213892885570,17213892885570,WEB,,NOYANT D ALLIER,RESILIE,CHF_PART,BOURG,15,HP-HC
+48.832794,2.206568,,,MONO ELEC,,19131548324768,19131548324768,MYOPLA,,CERBERE,ACTIVE,CHF_PART,Rue Saint-Philippe,3,Base
+45.473403,3.076708,,,MONO ELEC,,15248335638104,15248335638104,MYOPLA,,NEUVECELLE,ABANDONNE,MES_PART,Rue des Cigognes chez Corbin,16,Base
+48.848054,2.300519,,,MONO ELEC,,19104196732671,19104196732671,WEB,,VOREPPE,ACTIVE,CHF_PART,bd DES BELGES,23,HP-HC
+47.588861,2.221444,,,MONO ELEC,,07250651137960,7250651137960,WEB,,LYON 06,ACTIVE,MES_PART,rue courat,8,Base
+48.844233,2.011666,,,MONO ELEC,,21225036101865,21225036101865,WEB,,CHAMROUSSE,RESILIE,MES_PART,Rue Alexandre Dumas,6,HP-HC
+50.648096,2.287211,,,MONO ELEC,,09258900126444,9258900126444,WEB,,LA TRONCHE,RESILIE,MES_PART,LA HUNAUDIERE,,Base
+48.89769,2.28522,,,MONO ELEC,,17299565812584,17299565812584,MYOPLA,,MERLINES,RESILIE,CHF_PART,Route de Beauregard,251,HP-HC
+48.867108,2.287774,,,MONO ELEC,,14208972293198,14208972293198,MYOPLA,,MEAULNE,ACTIVE,MES_PART,AllEe de la Brechetière,24,Base
+48.859727,4.442039,,,MONO ELEC,,19167293776381,19167293776381,MYOPLA,,LE MANS,ABANDONNE,MES_PART,Rue de l'Abondance,63,HP-HC
+48.850308,2.240117,,,MONO ELEC,,19167293776381,19167293776381,MYOPLA,,CORCIEUX,ACTIVE,MES_PART,Rue de l'Abondance,63,HP-HC
+48.970725,4.508508,,,MONO ELEC,,17119826320660,17119826320660,WEB,,CHAMBERY,ACTIVE,MES_PART,rue Montlosier,29,Base
+48.887656,-3.031639,,,MONO ELEC,,07239218498793,7239218498793,WEB,,CLERMONT L HERAULT,RESILIE,CHF_PART,RUE DE BELLEVILLE,323,Base
+45.384468,2.206569,,,MONO ELEC,,19931114289972,19931114289972,WEB,,ST ETIENNE,RESILIE,CHF_PART,RUE DU CHEMIN DE FER,3,HP-HC
+48.832794,3.076709,,,MONO ELEC,,01600289410925,1600289410925,MYOPLA,,SASSENAGE,RESILIE,MES_PART,Rue des Jacobins,7,Base
