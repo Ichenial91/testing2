@@ -1,0 +1,14 @@
+{
+  "name": "@kchalas/calendar-heatmap-with-drilldown",
+  "main": "8f38fad702309834@832.js",
+  "version": "832.0.0",
+  "homepage": "https://observablehq.com/@kchalas/calendar-heatmap-with-drilldown",
+  "author": {
+    "name": "Kumar Chalasani",
+    "url": "https://observablehq.com/@kchalas"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
